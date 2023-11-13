@@ -15,7 +15,7 @@ data = (basic_functions.open_text("HP-english_clean.txt")).read()
 
 data = remove_chars.remove_unnecessary_chars(data)
 
-# split chap10 into a list of words
+# split data into a list of words
 words = [x for x in data.split() if x]
 
 # remove suffixes and prefixes
@@ -27,7 +27,6 @@ for prefix in ('“','‘'):
 
 #filter remaining empty strings
 words = list(filter(None, words))
-#print(words)
 
 # count the different lenghts using a dict
 dictionary = {}
@@ -43,6 +42,7 @@ plt.bar(lengths, counts)
 plt.xticks(range(1, max(lengths)+1))
 plt.xlabel('Word lengths')
 plt.ylabel('Word counts')
+
 # what is the longest word?
 plt.title(' '.join(w for w in words if len(w)==max(lengths)))
 
