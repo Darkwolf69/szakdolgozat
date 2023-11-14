@@ -28,6 +28,10 @@ for prefix in ('“','‘'):
 #filter remaining empty strings
 words = list(filter(None, words))
 
+clear_file = ' '.join(words)
+with open("HP-english_clean.txt", "w", encoding="utf-8-sig") as f:
+    f.write(clear_file)
+    
 # count the different lenghts using a dict
 dictionary = {}
 for x in words:
