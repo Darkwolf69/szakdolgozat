@@ -1,41 +1,4 @@
-L'auteure
-J.K. Rowling est née en 1967 et a passé son enfance à Chepstow, dans le comté de Gwent, au pays de
-Galles. Elle a suivi des études à l'université d'Exeter et est diplômée en langue et littérature françaises.
-Elle a ensuite travaillé quelque temps à Londres au sein de l'association Amnesty International et a
-enseigné le français.
-C'est en 1990 que l'idée de Harry Potter et de son école de magiciens a commencé à germer dans son
-esprit, alors qu'elle attendait un train qui avait du retard. Elle ne possédait exceptionnellement ni
-papier ni crayon sur elle pour les noter, mais le projet du livre était né. Malheureusement, peu de
-temps après, sa mère est morte. « C'était une lectrice boulimique, se souvient-elle, et elle m'avait
-transmis sa passion. Elle savait que j'écrivais je ne lui avais jamais rien fait lire. Vous ne pouvez pas
-imaginer combien je le regrette. Il y a un chapitre dans le livre où Harry, qui a perdu ses parent,
-réussit à les voir dans un miroir magique, et je sais que si je n'avais pas perdu ma mère, j'aurais traité
-cet épisode de façon plus légère. Sa mort m'a fait beaucoup réfléchir sur ce à quoi je tenais vraiment.
-J'avais été assistante, puis maître-auxiliaire à Paris dans le cadre de mes études et cette expérience
-m'avait beaucoup plu. J'avais très envie de la renouveler. C'est la raison pour laquelle, neuf mois plus
-tard, je suis partie au Portugal, pour enseigner l'anglais. »
-C'est là que J.K. Rowling a commencé à écrire les trois premiers chapitres de son livre. Puis elle a
-épousé un journaliste portugais et a eu une petite fille, Jessica. Après son divorce,
-quelques mois plus tard, elle est partie s'installer à Édimbourg où elle ne connaissait absolument
-personne en dehors de sa soeur. Elle vivait dans un studio avec sa petite fille et se trouvait au
-chômage. Pendant six mois, elle s'est consacrée à l'écriture de son livre. Elle avait pris l'habitude de
-promener sa fille jusqu'à ce qu'elle s'endorme dans sa poussette, puis elle entrait dans un café,
-éparpillait ses feuilles sur une table et se mettait à écrire avec frénésie. Une fois son roman achevé,
-elle a tapé elle-même son manuscrit dont elle a envoyé une première partie a deux agents littéraires.
-Elle s'attendait à essuyer un refus, mais la première lettre de réponse disait : « Merci, nous serions
-très heureux de pouvoir recevoir le solde de votre manuscrit et de vous proposer une offre pour en
-avoir l'exclusivité. » « C'était la plus belle lettre de ma vie et je l'ai lue au moins huit fois », se
-souvient-elle. Le plus grand agent venait d'acheter son livre. Il fut vendu aux enchères aux Etats-Unis
-avec la plus grosse avance jamais versée à un auteur pour la jeunesse.
-Le succès du livre, tant en Angleterre qu'a l'étranger, ne cesse de se confirmer depuis sa parution. Le
-roman a déjà été couronné par de nombreux prix dont : le Smarties Book Award, le National Book
-Award, le Children's Book Award et a figuré dans les plus prestigieuses sélections de livres. Mais son
-auteur, que l'on compare déjà à Roald Dahl, a déjà pensé à la suite. J.K. Rowling a terminé le
-deuxième livre des aventure de Harry Potter, aujourd'hui à la tête des best-sellers en Grande-Bretagne
-! Il n'est pas étonnant que l'idée de J.K. Rowling selon laquelle certains enfants ont, sans le savoir, des
-pouvoirs magiques, ait frappé l'imagination de ses jeunes lecteurs. Quelle liberté, quel pouvoir !
-
-CHAPITRE 1 : LE SURVIVANT
+CHAPITRE 1 : LE SURVIVANT
 
 Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande
 fierté qu'ils étaient parfaitement normaux, merci pour eux. Jamais quiconque n'aurait imaginé qu'ils
@@ -72,7 +35,7 @@ Il monta dans sa voiture et recula le long de l'allée qui menait à sa maison.
 Ce fut au coin de la rue qu'il remarqua pour la première fois un détail insolite: un chat qui lisait une
 carte routière. Pendant un instant, Mr Dursley ne comprit pas très bien ce qu'il venait de voir. Il tourna
 
-alors la tête pour regarder une deuxième fois. Il y avait bien un chat tigré, assis au coin de Privet
+alors la tête pour regarder une deuxième fois. Il y avait bien un chat tigré, assis au coin de Privet
 Drive, mais pas la moindre trace de carte routière. Qu'est-ce qui avait bien pu lui passer par la tête ? Il
 avait dû se laisser abuser par un reflet du soleil sur le trottoir. Mr Dursley cligna des yeux et regarda
 fixement le chat. Celui-ci soutint son regard. Tandis qu'il tournait le coin de la rue et s'engageait sur la
@@ -114,7 +77,7 @@ gros beignet enveloppé dans un sac, il entendit quelques mots de leur conversat
 Mr Dursley s'immobilisa, envahi par une peur soudaine. Il tourna la tête vers les gens qui
 chuchotaient comme s'il s'apprêtait à leur dire quelque chose, mais il se ravisa.
 
-Il traversa la maison toute hâte, se dépêcha de remonter dans son bureau, ordonna d'un ton sec à sa
+Il traversa la maison toute hâte, se dépêcha de remonter dans son bureau, ordonna d'un ton sec à sa
 secrétaire de ne pas le déranger, saisit son téléphone et avait presque fini de composer le numéro de
 sa maison lorsqu'il changea d'avis. Il reposa le combiné et se caressa la moustache. Il réfléchissait...
 non, décidément, il était idiot. Potter n'était pas un nom si rare. On pouvait être sûr qu'un grand
@@ -153,7 +116,7 @@ raconta tous les problèmes que la voisine d'à côté avait avec sa fille et lu
 Dudley avait appris un nouveau moi: « Veux pas ! ». Mr Dursley s'efforça de se conduire le plus
 normalement du monde et après que Dudley eut été mis au lit, il s'installa dans le salon pour regarder
 
-la fin du journal télévisé.
+la fin du journal télévisé.
 —D'après des témoignages venus de diverses régions, il semblerait que les hiboux se soient
 comportés d'une bien étrange manière au cours de la journée, dit le présentateur. Normalement, les
 hiboux sont des rapaces nocturnes qui attendent la nuit pour chasser leurs proies. Il est rare d'en voir
@@ -189,7 +152,7 @@ aussi détaché que possible, il dit:
 —Leur fils... Il a à peu près le même âge que Dudley, non ?
 —J'imagine, répliqua Mrs Dursley avec raideur.
 
-—Comment s'appelle-t-il, déjà ? Howard, c'est ça ?
+—Comment s'appelle-t-il, déjà ? Howard, c'est ça ?
 —Harry. Un nom très ordinaire, très désagréable, si tu veux mon avis.
 —Ah oui, répondit Mr Dursley en sentant son coeur s'arrêter. Oui, je suis d'accord avec toi.
 Il ne dit pas un moi de plus à ce sujet tandis qu'ils montaient l'escalier pour aller se coucher. Pendant
@@ -227,7 +190,7 @@ brusquement les yeux vers le chat qui avait toujours le regard fixé sur lui à 
 une raison quelconque, la vue du chat parut l'amuser. Il eut un petit rire et marmonna:
 —J'aurais dû m'en douter.
 
-Il avait trouvé ce qu'il cherchait dans une poche intérieure, Apparemment, il s'agissait d'un briquet en
+Il avait trouvé ce qu'il cherchait dans une poche intérieure, Apparemment, il s'agissait d'un briquet en
 argent. Il en releva le capuchon, le tendit au-dessus de sa tête et l'alluma. Le réverbère le plus proche
 s'éteignit alors avec un petit claquement. L'homme alluma à nouveau le briquet : le réverbère suivant
 s'éteignit à son tour. Douze fois, il actionna ainsi l'Éteignoir jusqu'à ce qu'il ne reste plus aucune
@@ -264,7 +227,7 @@ perdre la tête. Tous ces gens ont été d'une imprudence folle. Se promener dan
 en plein jour, à s'échanger les dernières nouvelles sans même prendre la précaution de s'habiller
 comme des Moldus !
 
-Elle lança un regard oblique et perçant à Dumbledore, comme si elle espérait qu'il allait dire quelque
+Elle lança un regard oblique et perçant à Dumbledore, comme si elle espérait qu'il allait dire quelque
 chose, mais il garda le silence.
 —Nous serions dans de beaux draps, reprit-elle alors, si le jour où Vous-Savez-Qui semble enfin
 avoir disparu, les Moldus s'apercevaient de notre existence. J'imagine qu'il a vraiment disparu, n'estce pas, Dumbledore ?
@@ -296,7 +259,7 @@ le monde dit sur les raisons de sa disparition ? Ce qui a fini par l'arrêter ?
 Apparemment, le professeur McGonagall venait d'aborder le sujet qui lui tenait le plus à coeur, la
 véritable raison qui l'avait décidée à attendre toute la journée, assise sur un mur glacial. Car jamais un
 
-chat ni une femme n'avait fixé Dumbledore d'un regard aussi pénétrant que celui du professeur en cet
+chat ni une femme n'avait fixé Dumbledore d'un regard aussi pénétrant que celui du professeur en cet
 instant. A l'évidence, elle n'avait pas l'intention de croire ce que « tout le monde » disait tant que
 Dumbledore ne lui aurait pas confirme qu'il s'agissait bien de la vérité. Dumbledore, cependant, était
 occupé à choisir un autre esquimau et ne lui répondit pas.
@@ -331,7 +294,7 @@ professeur McGonagall en se levant d'un bond, le doigt pointé sur le numéro 4 
 Dumbledore... vous ne pouvez pas faire une chose pareille ! Je les ai observés toute la
 journée. On ne peut pas imaginer des gens plus différents de nous. En plus, ils ont un fils... je l'ai vu
 
-donner des coups de pied à sa mère tout au long de la rue en hurlant pour réclamer des bonbons.
+donner des coups de pied à sa mère tout au long de la rue en hurlant pour réclamer des bonbons.
 Harry Potter, venir vivre ici !
 —C'est le meilleur endroit pour lui, répliqua Dumbledore d'un ton ferme. Son oncle et sa tante lui
 expliqueront tout quand il sera plus grand. Je leur ai écrit une lettre.
@@ -367,7 +330,7 @@ couvertures dans ses immenses bras musculeux.
 —L'ai empruntée, professeur Dumbledore, Monsieur, répondit le géant en descendant avec précaution
 de la moto. C'est le jeune Sirius Black qui me l'a prêtée. Ça y est, j'ai réussi à vous l'amener,
 
-Monsieur.
+Monsieur.
 —Vous n'avez pas eu de problèmes ?
 —Non, Monsieur. La maison était presque entièrement détruite mais je me suis débrouillé pour le
 sortir de là avant que les Moldus commencent à rappliquer. Il s'est endormi quand on a survolé
@@ -401,7 +364,7 @@ Dumbledore sembla s'éteindre.
 la fête.
 —Oui, dit Hagrid d'une voix étouffée. Je vais aller rendre sa moto à Sirius. Bonne nuit, professeur
 
-McGonagall, bonne nuit, professeur Dumbledore, Monsieur.
+McGonagall, bonne nuit, professeur Dumbledore, Monsieur.
 Essuyant d'un revers de manche ses yeux ruisselants de larmes, Hagrid enfourcha la moto et mit le
 moteur en route. Dans un vrombissement, la moto s'éleva dans les airs et disparut dans la nuit.
 —A bientôt, j'imagine, professeur McGonagall, dit Dumbledore avec un signe de tête.
@@ -423,7 +386,7 @@ semaines, il serait piqué et pincé par son cousin Dudley... Il ne savait pas d
 même, des gens s'étaient rassemblés en secret dans tout le pays et qu'ils levaient leur verre en
 murmurant: « A la santé de Harry Potter. Le survivant ! »
 
-CHAPITRE 2 : UNE VITRE DISPARAÎT
+CHAPITRE 2 : UNE VITRE DISPARAÎT
 Il s'était passé près de dix ans depuis que les Dursley avaient trouvé au saut du lit leur neveu devant la
 porte, mais Privet Drive n'avait quasiment pas changé. Ce jour-là, le soleil se leva sur les mêmes
 petits jardins proprets en faisant étinceler la plaque de cuivre qui portait le numéro 4, à l'entrée de la
@@ -457,7 +420,7 @@ L'anniversaire de Dudley ! Comment avait-il pu l'oublier ? Harry se glissa lente
 chercha ses chaussettes. Il en trouva une paire sous le lit, et après avoir chassé l'araignée qui s'était
 installée dans l'une d'elles, il les enfila. Harry était habitué aux araignées. Le placard sous l'escalier en
 
-était plein. Or, c'était là qu'il dormait.
+était plein. Or, c'était là qu'il dormait.
 Lorsqu'il eut fini de s'habiller, il sortit dans le couloir et alla dans la cuisine. La table avait presque
 entièrement disparu sous une montagne de cadeaux. Apparemment, Dudley avait eu le nouvel
 ordinateur qu'il désirait tant, sans parler de la deuxième télévision et du vélo de course. La raison
@@ -495,7 +458,7 @@ terminé, ses joues s'affaissèrent.
 —Trente-six, dit-il en levant les yeux vers ses parents. Ça fait deux de moins que l'année dernière.
 —Mon petit chéri, tu n'as pas compté le cadeau de la tante Marge, regarde, il est là, sous ce gros
 
-paquet que Papa et Maman t'ont offert.
+paquet que Papa et Maman t'ont offert.
 —D'accord, ça fait trente-sept, dit Dudley qui commençait à devenir tout rouge.
 Harry, qui sentait venir une de ces grosses colères dont Dudley avait le secret, s'empressa d'engloutir
 ses oeufs au bacon avant que l'idée vienne à son cousin de renverser la table. De toute évidence, la
@@ -529,7 +492,7 @@ n'était pas facile, car il pensait surtout qu'il s'écoulerait encore une anné
 obligé de regarder à nouveau les photos de Pompom, Patounet, Mistigri et Mignonnette.
 —On pourrait peut-être téléphoner à Marge, suggéra l'oncle Vernon.
 
-—Ne dis pas de bêtises, Vernon, tu sais bien qu'elle déteste cet enfant.
+—Ne dis pas de bêtises, Vernon, tu sais bien qu'elle déteste cet enfant.
 Les Dursley parlaient souvent de Harry de cette façon, en faisant comme s'il n'était pas là—ou plutôt
 comme s'il était un être dégoûtant, une sorte de limace incapable de comprendre ce qu'ils disaient.
 —Et ton amie... comment s'appelle-t-elle déjà ? Ah oui, Yvonne...
@@ -561,7 +524,7 @@ Une demi-heure plus tard, Harry, qui n'en croyait pas sa chance, était assis à
 Dursley, en compagnie de Piers et Dudley. Pour la première fois de sa vie, il allait visiter le zoo. Son
 oncle et sa tante n'avaient pas trouvé d'autre solution que de l'emmener avec eux, mais avant de partir,
 
-l'oncle Vernon avait pris Harry à part.
+l'oncle Vernon avait pris Harry à part.
 —Je te préviens, avait-il dit, sa grosse figure rouge tout contre le visage de Harry, je te préviens que
 s'il se produit la moindre chose bizarre, tu ne sortiras pas de ce placard avant Noël.
 —Je ne ferai rien, assura Harry c'est promis.
@@ -598,7 +561,7 @@ banquier et Harry constituaient quelques-uns de ses sujets préférés. Ce matin
 en avait.
 —... conduisent comme des malades, ces petits voyous ! dit-il alors qu'une moto les dépassait.
 
-—J'ai rêvé d'une moto, cette nuit, dit Harry qui se souvenait soudain de son rêve. Elle volait.
+—J'ai rêvé d'une moto, cette nuit, dit Harry qui se souvenait soudain de son rêve. Elle volait.
 L'oncle Harry faillit percuter la voiture qui le précédait. Il se retourna brusquement, son visage si
 rouge qu'il ressemblait à une énorme betterave à moustache.
 —LES MOTOS NE VOLENT PAS ! hurla-t-il.
@@ -633,7 +596,7 @@ Le nez collé contre la vitre, Dudley contemplait les anneaux luisants du reptil
 L'oncle Vernon tapota la vitre, mais le serpent ne bougea pas.
 —Recommence, ordonna Dudley.
 
-L'oncle Vernon donna de petits coups secs sur la vitre, mais le serpent continua de dormir.
+L'oncle Vernon donna de petits coups secs sur la vitre, mais le serpent continua de dormir.
 —On s'ennuie, ici, marmonna Dudley en s'éloignant d'un pas traînant.
 Harry s'approcha alors de la cage de verre et contempla le serpent. Il n'aurait pas été surpris que le
 reptile soit lui-même mort d'ennui à force de rester seul dans cette cage sans autre compagnie que
@@ -664,7 +627,7 @@ Pris par surprise, Harry tomba sur le sol de ciment. Ce qui se passa ensuite fut
 personne ne vit comment c'était arrivé. Soudain, alors qu'ils se tenaient côte à côte devant la cage de
 verre, Piers et Dudley firent un bond en arrière en poussant des cris d'horreur.
 
-Harry se redressa, le souffle coupé: la vitre qui retenait le boa prisonnier avait disparu. Le long
+Harry se redressa, le souffle coupé: la vitre qui retenait le boa prisonnier avait disparu. Le long
 serpent se déroula rapidement et quitta sa cage en ondulant sur le sol. Pris de panique, les visiteurs du
 vivarium se précipitèrent alors vers la sortie en hurlant de terreur.
 Au moment où le serpent glissa rapidement devant lui, Harry eut l'impression d'entendre une voix
@@ -701,7 +664,7 @@ Lorsqu'il était plus jeune, Harry avait souvent rêvé qu'un parent lointain et
 et l'emmène avec lui, mais cela n'était jamais arrivé. Les Dursley étaient sa seule famille. Parfois,
 cependant, il lui semblait (ou peut-être était-ce un simple espoir) que des gens qu'il croisait au dehors
 
-le reconnaissaient. C'étaient d'ailleurs des gens très étranges.
+le reconnaissaient. C'étaient d'ailleurs des gens très étranges.
 Un jour, un homme minuscule coiffé d'un chapeau haut de forme violet s'était incliné devant lui
 pendant qu'il faisait des courses avec Dudley et la tante Pétunia. Après lui avoir demandé d'un air
 furieux s'il connaissait cet homme, la tante Pétunia s'était dépêchée de les faire sortir du magasin sans
@@ -713,7 +676,7 @@ A l'école, Harry n'avait pas d'ami. Tout le monde savait que la bande de Dudley
 avec ses vêtements trop grands et ses lunettes cassées, et personne n'avait envie de déplaire à la bande
 de Dudley.
 
-CHAPITRE 3 : LES LETTRES DE NULLE PART
+CHAPITRE 3 : LES LETTRES DE NULLE PART
 La fuite du boa brésilien valut à Harry la plus longue punition qu'il eût jamais reçue. Lorsqu'il fut
 enfin autorisé à ressortir de son placard, les vacances d'été avaient déjà commencé et Dudley avait eu
 le temps de casser son nouveau caméscope, d'écraser au sol son avion radio-commandé et d'étrenner
@@ -750,7 +713,7 @@ Le lendemain matin, au petit déjeuner, une odeur pestilentielle se dégageait d
 posée dans l'évier de la cuisine, Harry s'approcha et vit de vieux vêtements qui flottaient dans une eau
 grisâtre.
 
-—Qu'est-ce que c'est ? demanda-t-il à la tante Pétunia.
+—Qu'est-ce que c'est ? demanda-t-il à la tante Pétunia.
 Elle pinça les lèvres, choquée qu'il ait l'audace de poser la question.
 —C'est ton nouvel uniforme, dit-elle.
 —Ah bon ? s'étonna Harry en regardant à nouveau la bassine. Je ne savais pas qu'il fallait le faire
@@ -781,7 +744,7 @@ Mr H. Potter
 Dans le placard sous l'escalier
 4, Privet Drive
 
-Little Whinging
+Little Whinging
 Surrey
 L'enveloppe, lourde et épaisse, était faite d'un parchemin jauni et l'adresse était écrite à l'encre vert
 émeraude. Il n'y avait pas de timbre.
@@ -812,7 +775,7 @@ Ils se regardèrent comme s'ils avaient oublié que Harry et Dudley étaient ave
 Dudley n'avait pas l'habitude qu'on lui manifeste une telle indifférence et il donna un coup sec de sa
 canne sur la tête de son père.
 
-—Je veux lire cette lettre, dit-il d'une voix forte.
+—Je veux lire cette lettre, dit-il d'une voix forte.
 —C'est moi qui veux la lire ! intervint Harry. Elle est à moi !
 —Sortez d'ici, tous les deux, dit l'oncle Vernon d'une voix grinçante en remettant la lettre dans
 l'enveloppe.
@@ -844,7 +807,7 @@ Qui est-ce qui m'a écrit ?
 —Personne. La lettre t'a été adressée par erreur, répondit l'oncle Vernon. Je l'ai brûlée.
 —Ce n'était pas une erreur, protesta Harry avec colère. Il y avait l'adresse de mon placard sur
 
-l'enveloppe.
+l'enveloppe.
 —SILENCE ! cria l'oncle Vernon.
 Deux araignées tombèrent du plafond. Il respira profondément à plusieurs reprises puis il se força à
 sourire, d'un sourire qui avait l'air singulièrement douloureux.
@@ -880,7 +843,7 @@ envoya Dudley le chercher. Ils l'entendirent donner des coups de canne un peu pa
 puis il se mit à hurler:
 —Il y en a une autre ! Mr H. Potter, dans la plus petite chambre du 4, Privet Drive...
 
-L'oncle Vernon poussa un cri étranglé et se précipita dans le hall d'entrée, Harry sur ses talons.
+L'oncle Vernon poussa un cri étranglé et se précipita dans le hall d'entrée, Harry sur ses talons.
 L'oncle Vernon dut se battre avec Dudley et le faire tomber par terre pour essayer de lui arracher la
 lettre, ce qui était d'autant plus difficile que Harry avait attrapé l'oncle Vernon par-derrière en lui
 serrant le cou. Après quelques instants d'un furieux combat au cours duquel chacun prit de nombreux
@@ -916,7 +879,7 @@ la bouche pleine de clous.
 —Je ne sais pas si ça servira à grand-chose, Vernon.
 —Pétunia, ces gens-là sont très différents de nous, ils ne raisonnent pas comme toi et moi, répliqua-til en essayant de planter un clou avec le morceau de cake que la tante Pétunia venait de lui apporter.
 
-Le vendredi, douze lettres pour Harry arrivèrent. Comme la boite aux lettres était inutilisable, elles
+Le vendredi, douze lettres pour Harry arrivèrent. Comme la boite aux lettres était inutilisable, elles
 avaient été glissées tout autour de la porte et l'une d'elles avait même été introduite à travers un
 vasistas dans les toilettes du rez-de-chaussée.
 Ce jour-là également, l'oncle Vernon resta à la maison. Après avoir brûlé toutes les lettres, il reprit
@@ -953,7 +916,7 @@ magnétoscope et son ordinateur dans son sac de sport. Ils roulèrent, roulèren
 Pétunia elle-même n'osait pas demander à son mari où il comptait les emmener. De temps à autre,
 l'oncle Vernon faisait demi-tour et repartait dans la direction opposée.
 
-—On va les semer, on va les semer, marmonnait-il.
+—On va les semer, on va les semer, marmonnait-il.
 Ils roulèrent ainsi toute la journée sans prendre le temps de s'arrêter pour boire ou manger quelque
 chose. A la tombée du jour, Dudley poussa de longs hurlements. Il avait faim, il avait raté cinq
 émissions de télévision qu'il tenait absolument à voir et il n'avait jamais passé autant de temps sans
@@ -986,7 +949,7 @@ La pluie commença à tomber. De grosses gouttes martelaient le toit de la voitu
 bruyamment.
 —C'est lundi, dit-il à sa mère. Le jour de mon émission préférée, Je veux qu'on aille quelque part où
 
-il y aura une télévision.
+il y aura une télévision.
 Lundi ! On pouvait faire confiance à Dudley, il ne se trompait jamais dans les dates, à cause des
 programmes de télévision. Harry se souvint tout à coup que le mardi suivant, c'est-à-dire le
 lendemain, serait le jour de son onzième anniversaire ! Oh, bien sûr, ses anniversaires n'avaient rien
@@ -1022,7 +985,7 @@ mais cette pensée ne le réjouissait guère.
 Lorsque la nuit tomba, la tempête annoncée se mit à souffler autour d'eux. L'écume des vagues qui se
 fracassaient contre le rocher inondait les murs de la cabane et un vent féroce faisait trembler les
 
-fenêtres crasseuses. La tante Pétunia dénicha quelques couvertures moisies dans l'autre pièce et fit un
+fenêtres crasseuses. La tante Pétunia dénicha quelques couvertures moisies dans l'autre pièce et fit un
 lit à Dudley sur le canapé rongé aux mites.
 Elle s'installa avec l'oncle Vernon dans un lit défoncé de la pièce voisine et Harry dut s'efforcer de
 trouver un endroit où le sol n'était pas trop dur. Il s'enroula alors dans la dernière couverture qui
@@ -1046,7 +1009,7 @@ BOUM !BOUM !
 La cabane se mit à trembler. Harry se redressa brusquement, le regard fixé sur la porte. Dehors,
 quelqu'un frappait contre le panneau.
 
-CHAPITRE 4 : LE GARDIEN DES CLEFS
+CHAPITRE 4 : LE GARDIEN DES CLEFS
 BOUM !BOUM !
 On frappa à nouveau. Dudley se réveilla en sursaut.
 —C'était un coup de canon ? demanda-t-il bêtement.
@@ -1076,7 +1039,7 @@ de scarabée: le géant souriait.
 père, mais tu as les yeux de ta maman.
 L'oncle Vernon laissa échapper un drôle de grognement.
 
-—Monsieur, j'exige que vous sortiez d'ici immédiatement, dit-il. Vous avez commis une violation de
+—Monsieur, j'exige que vous sortiez d'ici immédiatement, dit-il. Vous avez commis une violation de
 domicile avec effraction.
 —Ah, ça suffit, Dursley, espèce de vieux pruneau ! dit le géant,
 Il tendit le bras, arracha le fusil des mains de l'oncle Vernon, fit un noeud avec le canon aussi
@@ -1111,7 +1074,7 @@ du tisonnier six grosses saucisses bien juteuses et légèrement brûlées, Dudl
 —Dudley, ne touche à rien de ce qu'il te donnera, dit sèchement l'oncle Vernon.
 Le géant eut un petit rire narquois.
 
-—Votre gros lard de fils n'a pas besoin d'engraisser davantage, Dursley, ne vous inquiétez pas.
+—Votre gros lard de fils n'a pas besoin d'engraisser davantage, Dursley, ne vous inquiétez pas.
 Il donna les saucisses à Harry qui avait tellement faim que rien ne lui avait jamais paru aussi
 délicieux, mais il n'arrivait pas à détacher ses yeux du géant. Finalement, comme personne ne
 semblait décidé à donner la moindre explication, il rompit le silence:
@@ -1141,7 +1104,7 @@ Hagrid parut sur le point d'exploser.
 —Dursley ! hurla-t-il.
 L'oncle Vernon, le teint livide, marmonna quelque chose qui aurait pu vouloir dire:
 
-« Maisnonmaisquoimaispasdutout. »
+« Maisnonmaisquoimaispasdutout. »
 Hagrid regarda Harry d'un air effaré.
 —Il faut absolument que tu saches qui étaient ton père et ta mère, dit-il. Ils sont célèbres. Et toi aussi,
 tu es célèbre.
@@ -1172,7 +1135,7 @@ Harry tendit la main pour prendre l'enveloppe de parchemin jauni sur laquelle é
 l'enveloppe et lut la lettre qu'elle contenait:
 COLLÈGE POUDLARD, ÉCOLE DE SORCELLERIE Directeur: Albus Dumbledore (Commandeur
 
-du Grand-Ordre de Merlin, Docteur ès Sorcellerie, Enchanteur-en-chef, Manitou suprême de la
+du Grand-Ordre de Merlin, Docteur ès Sorcellerie, Enchanteur-en-chef, Manitou suprême de la
 Confédération internationale des Mages et Sorciers)
 Cher Mr Potter,
 Nous avons le plaisir de vous informer que vous bénéficiez d'ores et déjà d'une inscription au
@@ -1203,7 +1166,7 @@ cheminée.
 —Il n'est pas question qu'il s'en aille, dit-il.
 Hagrid poussa un grognement.
 
-—J'aimerais bien voir qu'un Moldu dans votre genre s'avise de l'en empêcher, dit-il.
+—J'aimerais bien voir qu'un Moldu dans votre genre s'avise de l'en empêcher, dit-il.
 —Un quoi ? demanda Harry, intéressé.
 —Un Moldu, dit Hagrid, c'est comme ça que nous appelons les gens qui n'ont pas de pouvoirs
 magiques. Et manque de chance, tu as grandi dans la plus incroyable famille de Moldus que j'aie
@@ -1238,7 +1201,7 @@ quelqu'un le fasse. Tu ne peux pas aller à Poudlard sans savoir...
 Il lança un regard noir aux Dursley.
 —Je vais essayer de te dire ce que je peux, mais je ne pourrai pas tout dire, il y a de trop grands
 
-mystères derrière tout cela.
+mystères derrière tout cela.
 Il se laissa aller contre le dossier du canapé et contempla le feu pendant quelques instants avant de
 commencer son récit.
 —Toute l'histoire commence à cause d'un personnage qui s'appelle... c'est vraiment incroyable que tu
@@ -1275,7 +1238,7 @@ gens les plus charmants qu'on puisse imaginer... Enfin, c'est comme ça... Tu-Sa
 Ensuite—et c'est là qu'est le vrai mystère—il a essayé de te tuer aussi. Il voulait sans doute faire le
 travail jusqu'au bout, ou alors il aimait tuer tout simplement. Mais il n'a pas réussi. Tu ne t'es jamais
 
-demandé d'où te venait la cicatrice que tu as sur le front ? Ce n'est pas une blessure ordinaire. C'est la
+demandé d'où te venait la cicatrice que tu as sur le front ? Ce n'est pas une blessure ordinaire. C'est la
 trace du mauvais sort qu'il a lancé contre, toi, un mauvais sort si puissant qu'il a détruit tes parents et
 leur maison. Mais avec toi, ça n'a pas marché, et c'est pour cette raison que tu es célèbre, Harry.
 Personne n'a jamais pu lui échapper parmi ceux qu'il avait décidé de tuer, personne sauf toi. Et
@@ -1312,7 +1275,7 @@ est toujours quelque part à attendre son heure, mais je n'y crois pas non plus.
 à lui sont revenus de notre côté. Certains avaient été plongés dans une sorte de transe. Je ne pense pas
 qu'ils auraient réussi à s'arracher à lui s'il était revenu. La plupart d'entre nous croient qu'il est
 
-toujours vivant, mais qu'il a perdu ses pouvoirs. Il est trop faible pour continuer. Il y a en toi quelque
+toujours vivant, mais qu'il a perdu ses pouvoirs. Il est trop faible pour continuer. Il y a en toi quelque
 chose qui l'a détruit, Harry. Cette nuit-là, il s'est passé un phénomène auquel il ne s'attendait pas. Je ne
 sais pas ce que c'était, personne ne le sait, mais tu as réussi à le réduire à rien.
 Une lueur de respect et de sympathie brillait dans le regard de Hagrid, mais Harry, au lieu de ressentir
@@ -1349,7 +1312,7 @@ que le collège Poudlard ait jamais comptés, Albus Dumbled...
 DE MAGIE ! s'écria l'oncle Vernon.
 Mais cette fois, il était allé trop loin. Hagrid empoigna son parapluie et le fit tournoyer au-dessus de
 
-sa tête.
+sa tête.
 —JAMAIS PLUS ... INSULTER ... ALBUS ... DUMBLEDORE ... DEVANT ... MOI ...tonna-t-il.
 Il abattit le parapluie dans un sifflement et le pointa sur Dudley. Il y eut un éclair violet, une détonation
 comme un pétard qui explose et un petit cri aigu. Un instant plus tard, Dudley dansait sur place en
@@ -1377,7 +1340,7 @@ Il ôta son grand manteau noir et le jeta à Harry.
 —Tu n'as qu'à dormir là-dedans, dit-il. Ne t'inquiète pas s'il remue un peu. Il doit y avoir un ou deux
 loirs dans une des poches.
 
-CHAPITRE 5 : LE CHEMIN DE TRAVERSE
+CHAPITRE 5 : LE CHEMIN DE TRAVERSE
 Harry se réveilla de bonne heure le lendemain matin. Il savait qu'il faisait jour, mais il garda les yeux
 fermés. Dans un demi-sommeil, il se demanda s'il n'avait pas rêvé, si le géant nommé Hagrid existait
 bien, s'il n'allait pas se retrouver dans son placard lorsqu'il ouvrirait les yeux.
@@ -1409,7 +1372,7 @@ hibou s'envola aussitôt par la fenêtre.
 —On ferait bien d'y aller, dit Hagrid qui se redressa avec un bâillement sonore. On a beaucoup de
 choses à faire aujourd'hui. Il faut aller à Londres et acheter tes affaires pour l'école.
 
-Harry retournait les pièces de monnaie entre ses mains. Il avait l'air soudain préoccupé, comme si le
+Harry retournait les pièces de monnaie entre ses mains. Il avait l'air soudain préoccupé, comme si le
 bonheur qu'il avait ressenti venait de crever comme un ballon.
 —Heu... Hagrid ?
 —Oui, répondit le géant en chaussant ses immenses bottes.
@@ -1441,7 +1404,7 @@ prendre pour voler.
 m'arrange pour... accélérer un peu les choses, tu n'en parleras pas quand tu seras à Poudlard ?
 —Bien sûr que non, répondit Harry qui avait hâte de voir un nouveau tour de magie.
 
-Hagrid tapota alors de la pointe de son parapluie rose le bord de la barque et le bateau fila aussitôt
+Hagrid tapota alors de la pointe de son parapluie rose le bord de la barque et le bateau fila aussitôt
 vers le rivage.
 —Pourquoi est-ce qu'il faudrait être fou pour essayer de voler quelque chose chez Gringotts ?
 demanda Harry.
@@ -1476,7 +1439,7 @@ Il marchait si vite que Harry avait du mal à suivre.
 que je suis tout petit... Ah, on est arrivés.
 Ils étaient devant la gare et il y avait un train pour Londres cinq minutes plus tard. Hagrid, qui ne
 
-comprenait rien à « l'argent des Moldus » confia à Harry le soin d'acheter les billets.
+comprenait rien à « l'argent des Moldus » confia à Harry le soin d'acheter les billets.
 Dans le train, les passagers ouvraient des yeux ronds en voyant Hagrid. Il occupait deux sièges à lui
 tout seul et tricotait quelque chose qui ressemblait à un chapiteau de cirque jaune canari.
 —Tu as toujours ta lettre, Harry ? demanda-t-il en comptant les mailles. Regarde un peu la liste des
@@ -1504,7 +1467,7 @@ Forces obscures: comment s'en protéger, par Quentin Jentremble.
 Fournitures
 1 baguette magique
 
-1 chaudron (modèle standard en étain, taille 2)
+1 chaudron (modèle standard en étain, taille 2)
 1 boite de fioles en verre ou cristal
 1 télescope
 1 balance en cuivre
@@ -1541,7 +1504,7 @@ s'interrompit. Tout le monde semblait connaître Hagrid; on lui adressait de tou
 main et des sourires.
 —Comme d'habitude, Hagrid ? demanda le barman en tendant la main vers une rangée de verres.
 
-—Peux pas, Tom. Je suis en mission pour Poudlard, répondit le géant en donnant une tape sur l'épaule
+—Peux pas, Tom. Je suis en mission pour Poudlard, répondit le géant en donnant une tape sur l'épaule
 de Harry dont les genoux fléchirent sous le choc.
 —Seigneur Dieu, dit le barman en regardant Harry. C'est... Est-ce que c'est vraiment ?...
 Soudain, les clients du Chaudron Baveur ne dirent plus un mot, ne firent plus un geste.
@@ -1571,7 +1534,7 @@ tes maîtres à Poudlard.
 pas savoir à... à quel point je suis heu... heu... heureux de vous rencontrer.
 —Quelle matière enseignez vous, professeur ? demanda Harry.
 
-—La dé... défense contre les for... forces du Mal, marmonna le professeur Quirrell comme s'il eût
+—La dé... défense contre les for... forces du Mal, marmonna le professeur Quirrell comme s'il eût
 préféré ne pas en parler. Mais vous... vous... vous n'en avez pas be ... besoin, P... P... Potter.
 Il eut un rire nerveux.
 —Vous... vous êtes venu chercher vos fournitures ? Je ... je dois moi-même a... acheter un nouveau li...
@@ -1605,7 +1568,7 @@ Un hululement s'éleva d'une boutique dont l'enseigne indiquait: « Au Royaume d
 chouettes effraies, grands ducs, chouettes lapones. » Quelques garçons de l'âge de Harry avaient le
 nez collé contre une vitrine dans laquelle étaient exposés des balais volants.
 
-—Regarde, dit l'un d'eux. Le nouveau Nimbus 2000. Encore plus rapide.
+—Regarde, dit l'un d'eux. Le nouveau Nimbus 2000. Encore plus rapide.
 On vendait de tout dans les boutiques, des balais, des robes de sorcier, des télescopes, des foies de
 chauve-souris et des yeux d'anguille conservés dans des barils, des piles de grimoires, des plumes
 d'oie, des parchemins, des potions, des globes lunaires.
@@ -1637,7 +1600,7 @@ gobelins. Hagrid et Harry s'approchèrent du comptoir.
 —Bonjour, dit Hagrid à un gobelin. On est venus prendre un peu d'argent dans le coffre de Mr Potter.
 —Vous avez la clé, monsieur ? demanda le gobelin.
 
-Hagrid commença à vider ses poches, répandant quelques biscuits moisis sur le livre de comptes du
+Hagrid commença à vider ses poches, répandant quelques biscuits moisis sur le livre de comptes du
 gobelin.
 —La voilà, dit-il en montrant une minuscule clé d'or. J'ai aussi une lettre du professeur Dumbledore.
 C'est au sujet de Vous-Savez-Quoi, dans le coffre numéro 713.
@@ -1671,7 +1634,7 @@ chambre forte.
 —Tout ça t'appartient, dit Hagrid avec un sourire.
 C'était difficile à croire ! Dire que les Dursley n'avaient cessé de reprocher à Harry de leur coûter
 
-trop cher alors que, pendant tout ce temps, une petite fortune l'attendait dans les sous-sols du Londres
+trop cher alors que, pendant tout ce temps, une petite fortune l'attendait dans les sous-sols du Londres
 ! Si l'oncle Vernon et la tante Pétunia l'avaient su...
 Hagrid aida Harry à remplir un sac de pièces.
 —Celles en or sont des Gallions, lui expliqua-t-il. En argent, ce sont les Mornilles. Il y a dix-sept
@@ -1705,7 +1668,7 @@ disposition.
 —On va commencer par s'occuper de ton uniforme, dit Hagrid. C'est là-bas.
 Il montra un magasin dont l'enseigne indiquait: « Madame Guipure, prêt-à-porter pour mages et
 
-sorciers ».
+sorciers ».
 —Ça ne t'ennuie pas d'y aller tout seul ? demanda Hagrid qui semblait encore un peu pâle. Je te
 rejoins dans quelques minutes. J'ai besoin de prendre un petit remontant au Chaudron Baveur. J'ai
 horreur des wagonnets de chez Gringotts.
@@ -1738,7 +1701,7 @@ préférerais m'en aller tout de suite.
 —Mmmh... marmonna Harry, incapable de trouver une réponse plus pertinente.
 —Oh, dis donc, regarde un peu ce bonhomme ! dit soudain le garçon avec un signe de tête en
 
-direction de la vitrine du magasin.
+direction de la vitrine du magasin.
 Hagrid se tenait devant la boutique. Il adressa un sourire à Harry et lui montra les deux grosses
 crèmes glacées qu'il tenait à la main pour lui faire comprendre qu'il ne pouvait pas entrer.
 —C'est Hagrid, dit Harry, content de savoir quelque chose que le garçon ignorait. Il travaille à
@@ -1769,7 +1732,7 @@ Ils s'arrêtèrent dans une autre boutique pour acheter du parchemin et des plum
 de découvrir qu'on pouvait acheter de l'encre qui changeait de couleur en écrivant.
 —C'est quoi, le Quidditch ? demanda Harry lorsqu'ils furent sortis du magasin.
 
-—Nom d'un vampire ! J'oublie toujours que tu n'es au courant de rien. Tu ne sais même pas ce qu'est
+—Nom d'un vampire ! J'oublie toujours que tu n'es au courant de rien. Tu ne sais même pas ce qu'est
 le Quidditch !
 —Je sais que j'ai l'air idiot, répondit Harry.
 Il parla à Hagrid du garçon au teint pâle qu'il avait vu chez Madame Guipure.
@@ -1802,7 +1765,7 @@ faire ?
 dans le monde des Moldus, sauf dans des cas exceptionnels. De toutes façons, tu n'en sais pas encore
 assez pour jeter des sorts. Tu as encore beaucoup de choses à apprendre avant d'en arriver là.
 
-Harry n'eut pas non plus la permission d'acheter un gros chaudron en or (« il faut qu'il soit en étain »,
+Harry n'eut pas non plus la permission d'acheter un gros chaudron en or (« il faut qu'il soit en étain »,
 assura Hagrid) mais il fit l'acquisition d'un télescope pliable et d'une jolie balance pour peser les
 ingrédients entrant dans la composition des potions. Puis ils allèrent faire un tour dans la boutique de
 l'apothicaire qui fascina Harry en dépit de l'odeur pestilentielle qui y régnait, un mélange d'oeufs
@@ -1838,7 +1801,7 @@ boîtes étroites qui s'entassaient presque jusqu'au plafond. Il sentit un friss
 poussière et le silence du lieu semblaient receler une magie secrète.
 —Bonjour, dit une voix douce.
 
-Harry sursauta. La chaise sur laquelle Hagrid était assis craqua bruyamment et il se leva d'un bond.
+Harry sursauta. La chaise sur laquelle Hagrid était assis craqua bruyamment et il se leva d'un bond.
 Un vieil homme se tenait devant eux. Ses grands yeux pâles brillaient comme deux lunes dans la
 pénombre de la boutique.
 —Bonjour, dit Harry, mal à l'aise.
@@ -1870,7 +1833,7 @@ d'une voix plus assurée.
 —Oh, non, bien sûr que non, monsieur, répondit précipitamment Hagrid.
 Harry remarqua que ses mains s'étaient crispées sur le parapluie rose.
 
-—Mmmmmm, marmonna Mr Ollivander en jetant à Hagrid un regard perçant, Bien, revenons à vous,
+—Mmmmmm, marmonna Mr Ollivander en jetant à Hagrid un regard perçant, Bien, revenons à vous,
 Mr Potter. Voyons un peu...
 Il sortit de sa poche un mètre ruban avec des marques en argent.
 —De quelle main tenez-vous la baguette ? demanda
@@ -1904,7 +1867,7 @@ Harry prit la baguette et sentit aussitôt une étrange chaleur se répandre dan
 alors de l'extrémité de la baguette, projetant sur les murs des lueurs mouvantes. Hagrid applaudit en
 poussant une exclamation enthousiaste.
 
-—Bravo ! s'écria Mr Ollivander. Très bien, vraiment très bien. Etrange... très étrange...
+—Bravo ! s'écria Mr Ollivander. Très bien, vraiment très bien. Etrange... très étrange...
 Il reprit la baguette et la remit dans sa boîte qu'il enveloppa de papier kraft en continuant de
 marmonner: « Etrange... vraiment étrange... »
 —Excusez-moi, dit Harry, mais qu'est-ce qui est étrange ?
@@ -1940,7 +1903,7 @@ caoutchouteuse. Tous ces gens au Chaudron Baveur, le professeur Quirrell, Mr Oll
 moi, je sais bien que je ne connais rien à la magie. Comment peuvent-ils croire que j'ai un bel avenir
 ? Je suis célèbre, mais je ne me rappelle pas pourquoi. Je n'ai aucune idée de ce qui s'est produit
 
-quand Vol... pardon... je veux dire le soir où mes parents sont morts.
+quand Vol... pardon... je veux dire le soir où mes parents sont morts.
 —Ne t'inquiète pas, Harry, répondit Hagrid avec un sourire bienveillant, tu apprendras très vite. A
 Poudlard, tout le monde commence au même niveau. Tu t'en sortiras très bien. Reste toi-même, c'est
 tout. Je sais que c'est difficile. Tu as été choisi et c'est toujours difficile. Mais tu seras très content à
@@ -1953,7 +1916,7 @@ trouver. A bientôt, Harry.
 Le train s'ébranla. Harry voulait regarder Hagrid jusqu'à ce qu'il soit hors de vue. Il se leva de son
 siège et colla le nez contre la vitre, mais le temps de cligner des yeux, Hagrid avait disparu.
 
-CHAITRE 6 : RENDEZ-VOUS SUR LA VOIE 9 ¾
+CHAITRE 6 : RENDEZ-VOUS SUR LA VOIE 9 ¾
 Le dernier mois que Harry passa chez les Dursley n'eut rien de très amusant. Dudley avait à présent si
 peur de lui qu'il ne voulait jamais se trouver dans la même pièce. Quant à l'oncle Vernon et à la tante
 Pétunia, ils avaient tout simplement décidé de ne plus lui adresser la parole. Ils ne l'enfermaient plus
@@ -1984,7 +1947,7 @@ Harry ne répondit rien.
 dois prendre le train à la gare de King's Cross à onze heures, sur la voie 9 ¾, ajouta-t-il en regardant
 le billet que Hagrid lui avait donné.
 
-Son oncle et sa tante l'observèrent avec des yeux ronds.
+Son oncle et sa tante l'observèrent avec des yeux ronds.
 —La voie combien ?
 —9 ¾.
 —Ne dis pas de bêtises, dit l'oncle Vernon. La voie 9 ¾ n'existe pas.
@@ -2019,7 +1982,7 @@ qu'il se moquait de lui. Harry n'osa pas parler de la voie 9 ¾, il se contenta 
 le train de onze heures mais l'employé lui répondit qu'aucun train ne partait à cette heure-là et il
 s'éloigna en maudissant tous ces gens qui lui faisaient perdre son temps.
 
-Harry s'efforça de ne pas céder à la panique. La grosse horloge, au-dessus du tableau des arrivées, lui
+Harry s'efforça de ne pas céder à la panique. La grosse horloge, au-dessus du tableau des arrivées, lui
 indiqua qu'il lui restait dix minutes avant le départ du train mais il ne savait absolument pas comment
 faire pour y monter. Il était seul au milieu de la gare, avec une valise qu'il pouvait à peine soulever, la
 poche pleine d'argent qui n'avait cours que chez les sorciers et une grande cage avec une chouette à
@@ -2054,7 +2017,7 @@ manière, sans que Harry comprenne comment il s'y était pris.
 —Toi, je parie que c'est la première fois que tu vas à Poudlard, Ron aussi est nouveau, dit la femme
 en montrant son plus jeune fils, un grand dadais avec de grands pieds, de grandes mains et des taches
 
-de rousseur.
+de rousseur.
 —C'est... c'est ça, dit Harry et je ... je ne sais pas comment on fait pour...
 —Ne t'inquiète pas, dit la femme. Il suffit de marcher droit vers la barrière qui est devant toi, entre les
 deux tourniquets. Ne t'arrête pas et n'aie pas peur de te cogner, c'est très important. Si tu as le trac, il
@@ -2088,7 +2051,7 @@ vide. Il posa d'abord la cage d'Hedwige à l'intérieur du wagon, puis il essaya
 marchepied mais il ne parvint qu'à la laisser tomber sur son pied.
 —On peut t'aider ? demanda l'un des jumeaux roux qu'il avait suivis à travers la barrière.
 
-—Je veux bien, répondit Harry, le souffle court.
+—Je veux bien, répondit Harry, le souffle court.
 —Hé, Fred, viens nous donner un coup de main.
 Avec l'aide des jumeaux, Harry parvint à s'installer avec sa valise dans un coin du compartiment libre.
 —Merci, dit Harry en relevant d'un doigt une mèche de cheveux trempés de sueur.
@@ -2117,7 +2080,7 @@ frotter le bout du nez.
 L'aîné des garçons apparut, la démarche décidée. Il avait déjà revêtu la robe noire de Poudlard et
 Harry remarqua, épinglé sur sa poitrine, un petit insigne brillant qui portait la lettre P.
 
-—Je ne peux pas rester très longtemps, Maman, dit-il. Je dois aller à l'avant du train, les préfets ont un
+—Je ne peux pas rester très longtemps, Maman, dit-il. Je dois aller à l'avant du train, les préfets ont un
 compartiment réservé.
 —Tu es préfet, Percy ? dit l'un de jumeaux avec surprise. Tu aurais dû nous prévenir, on n'en savait
 rien.
@@ -2145,7 +2108,7 @@ Harry se blottit un peu plus dans son coin pour être sûr qu'ils ne le voient p
 —Harry Potter !
 Harry entendit la voix flûtée de la petite fille.
 
-—Oh, M'man, je peux monter dans le train pour aller le voir ? demanda-t-elle.
+—Oh, M'man, je peux monter dans le train pour aller le voir ? demanda-t-elle.
 —Tu l'as déjà vu, répondit sa mère, et d'ailleurs, ce pauvre garçon n'est pas une bête curieuse qu'on va
 voir au zoo. Comment tu sais que c'est lui, Fred ?
 —Je lui ai demandé. J'ai vu sa cicatrice. Elle a vraiment la forme d'un éclair.
@@ -2176,7 +2139,7 @@ Harry hocha la tête et le garçon s'assit. Il jeta un coup d'oeil à Harry puis
 fenêtre d'un air indifférent. Il avait toujours une tache noire sur le bout du nez.
 —Hé, Ron.
 
-Les jumeaux étaient de retour.
+Les jumeaux étaient de retour.
 —On va dans le wagon du milieu, dit l'un. Lee Jordan a une tarentule géante, on va aller voir ça.
 —D'accord, marmonna Ron.
 —Harry, dit l'autre jumeau, je ne sais plus si nous nous sommes présentés. Fred et George Weasley.
@@ -2205,7 +2168,7 @@ le garçon au visage pâle qu'il avait rencontré sur le Chemin de Traverse.
 abominables. J'aurais bien voulu avoir trois frères sorciers.
 —Cinq, rectifia Ron.
 
-Son visage s'était soudain assombri.
+Son visage s'était soudain assombri.
 —Je suis le sixième à aller à Poudlard, dans la famille. J'ai intérêt à être à la hauteur. Bill et Charlie,
 mes deux frères aînés, ont déjà fini leurs études. Bill était Préfet en chef et Charlie capitaine de
 l'équipe de Quidditch. Maintenant, c'est Percy qui est préfet.
@@ -2240,7 +2203,7 @@ ils apprennent très vite.
 Le train était sorti de Londres, à présent. Pendant un long moment, ils restèrent silencieux,
 contemplant les vaches et les moutons qui paissaient dans les prés, le long de la voie.
 
-Vers midi et demi, ils entendirent un chariot tintinnabuler dans le couloir du wagon et une jeune
+Vers midi et demi, ils entendirent un chariot tintinnabuler dans le couloir du wagon et une jeune
 femme souriante fit glisser la porte du compartiment.
 —Vous désirez quelque chose, les enfants ? demanda-t-elle en montrant les marchandises disposées
 sur le chariot.
@@ -2274,7 +2237,7 @@ Sous le portrait était écrit le nom du personnage: Albus Dumbledore.
 —Ne me dis pas que tu n'en as jamais entendu parler ? Tiens, passe-moi un autre Chocogrenouille, j'y
 trouverai peut-être une carte qui me manque.
 
-Harry retourna la carte et lut:
+Harry retourna la carte et lut:
 « ALBUS DUMBLEDORE, ACTUEL DIRECTEUR DU COLLEGE POUDLARD.
 Considéré par beaucoup comme le plus grand sorcier des temps modernes, Dumbledore s'est
 notamment rendu célèbre en écrasant en 1945 le mage Grindelwald, de sinistre mémoire. Il travailla
@@ -2309,7 +2272,7 @@ dragée au poivre.
 Après avoir traversé des paysages de campagne aux champs bien dessinés, le train abordait à présent
 une région plus sauvage, avec des forêts, des collines, des rivières qui serpentaient parmi les arbres.
 
-Quelqu'un frappa à la porte du compartiment et le garçon joufflu que Harry avait déjà vu sur le quai
+Quelqu'un frappa à la porte du compartiment et le garçon joufflu que Harry avait déjà vu sur le quai
 9¾ entra. Il avait l'air de pleurer.
 —Vous n'auriez pas vu un crapaud ? demanda-t-il.
 Ils firent « non » de la tête.
@@ -2338,7 +2301,7 @@ Elle s'assit sur la banquette. Ron sembla pris au dépourvu. Il s'éclaircit la 
 Soleil, jonquille et canari,
 Que ce gros gras rat gris
 
-En jaune soit colorié
+En jaune soit colorié
 De la tête jusqu'aux pieds.
 Il agita sa baguette, mais rien ne se produisit. Croûtard était toujours aussi gris et n'avait même pas
 ouvert un oeil.
@@ -2372,7 +2335,7 @@ selon leur personnalité. Il y a les Gryffondor, les Serdaigle, les Serpentard e
 —Et tes frères, ils sont dans quelle maison ?
 —Gryffondor, dit Ron.
 
-Cette fois encore, son visage s'assombrit.
+Cette fois encore, son visage s'assombrit.
 —Mon père et ma mère y étaient aussi. Je me demande ce qu'ils diront si jamais je n'y suis pas.
 J'imagine que ce ne serait pas trop grave si je me retrouvais chez les Serdaigle, mais si jamais ils me
 mettent chez les Serpentard... C'était là qu'était Tu-Sais-Qui.
@@ -2405,7 +2368,7 @@ décrivit en détail le balai volant qu'il aurait aimé acheter s'il avait eu as
 train de lui expliquer les aspects les plus complexes du jeu lorsque la porte du compartiment s'ouvrit
 à nouveau. Cette fois-ci, ce n'étaient ni Neville, ni Hermione Granger.
 
-Trois élèves de Poudlard entrèrent et Harry reconnut parmi eux le garçon au teint pâle dont il avait
+Trois élèves de Poudlard entrèrent et Harry reconnut parmi eux le garçon au teint pâle dont il avait
 fait la connaissance dans la boutique de vêtements de Madame Guipure. Cette fois, il regardait Harry
 avec beaucoup plus d'intérêt que lors de leur première rencontre.
 —Alors, c'est vrai ? lança-t-il. On dit partout que Harry Potter se trouve dans ce compartiment. C'est
@@ -2436,7 +2399,7 @@ Crabbe et Goyle étaient beaucoup plus grands que Ron et lui.
 —Oh, mais on n'a pas du tout l'intention de s'en aller, pas vrai, les gars ? On a fini toutes nos
 provisions et vous avez l'air d'en avoir encore.
 
-Goyle tendit la main vers les Chocogrenouilles qui se trouvaient à côté de Ron. Ron se jeta aussitôt
+Goyle tendit la main vers les Chocogrenouilles qui se trouvaient à côté de Ron. Ron se jeta aussitôt
 sur lui, mais avant qu'il ait pu toucher son adversaire, celui-ci poussa un hurlement épouvantable.
 Croûtard le rat était suspendu à un doigt de Goyle, ses dents pointues profondément plantées dans une
 phalange. Crabbe et Malefoy reculèrent d'un pas tandis que Goyle, toujours hurlant, agitait la main en
@@ -2471,7 +2434,7 @@ Ron et Harry enfilèrent leur robe de sorcier. Celle de Ron était un peu trop c
 ses chaussures et le bas de son pantalon.
 Une voix retentit alors dans le train:
 
-—Nous arriverons à Poudlard dans cinq minutes. Veuillez laisser vos bagages dans les
+—Nous arriverons à Poudlard dans cinq minutes. Veuillez laisser vos bagages dans les
 compartiments, ils seront acheminés séparément dans les locaux scolaires.
 Harry sentit son estomac se contracter et il vit Ron pâlir sous ses taches de rousseur. Après avoir
 rempli leurs poches des dernières friandises qui restaient, ils rejoignirent la foule des élèves qui se
@@ -2505,7 +2468,7 @@ ouverture taillée dans le roc. Les bateaux les emportèrent le long d'un tunnel
 mener sous le château. Ils arrivèrent alors dans une sorte de crique souterraine et débarquèrent sur le
 sol rocheux.
 
-—Hé, toi, là-bas, c'est à toi ce crapaud ? dit Hagrid qui regardait dans les barques pour voir si
+—Hé, toi, là-bas, c'est à toi ce crapaud ? dit Hagrid qui regardait dans les barques pour voir si
 personne n'avait rien oublié,
 —Trevor ! s'écria Neville en tendant les mains.
 Guidés par la lampe de Hagrid, ils grimpèrent le long d'un passage creusé dans la montagne et
@@ -2514,7 +2477,7 @@ marches et se pressèrent devant l'immense porte d'entrée en chêne massif.
 —Tout le monde est là ? demanda Hagrid. Toi, là-bas, tu as toujours ton crapaud ?
 Puis le géant leva son énorme poing et frappa trois fois à la porte du château.
 
-CHAPITRE 7 :LE CHOIXPEAU MAGIQUE
+CHAPITRE 7 :LE CHOIXPEAU MAGIQUE
 La porte s'ouvrit immédiatement. Une grande sorcière aux cheveux noirs, vêtue d'une longue robe
 vert émeraude se tenait dans l'encadrement. Elle avait le visage sévère des gens qu'il vaut mieux éviter
 de contrarier, pensa aussitôt Harry.
@@ -2551,7 +2514,7 @@ Elle quitta la salle. Harry avait la gorge serrée.
 —Comment font-ils pour nous sélectionner ? demanda-t-il à Ron.
 —J'imagine qu'ils vont nous faire passer des tests. Fred m'a dit que ça faisait très mal, mais je crois
 
-que c'était pour rire.
+que c'était pour rire.
 Harry eut un haut-le-corps. Des tests ? Devant tout le monde ? Alors qu'il ne savait pas faire le
 moindre tour de magie ? Il regarda autour de lui: les autres élèves avaient l'air terrifié, eux aussi.
 Personne ne disait grand-chose, à part Hermione Granger qui chuchotait à toute vitesse qu'elle avait
@@ -2587,7 +2550,7 @@ L'endroit était étrange et magnifique. Des milliers de chandelles suspendues d
 quatre longues tables autour desquelles les autres étudiants étaient déjà assis, devant des assiettes et
 des gobelets d'or. Au bout de la salle, les professeurs avaient pris place autour d'une autre table.
 
-Le professeur McGonagall aligna les première année face à leurs camarades derrière lesquels se
+Le professeur McGonagall aligna les première année face à leurs camarades derrière lesquels se
 tenaient les professeurs. Dans la clarté incertaine des chandelles, les visages les observaient telles des
 lanternes aux lueurs pâles. Dispersés parmi les étudiants, les fantômes brillaient comme des panaches
 de brume argentée. Gêné par les regards fixés sur les nouveaux, Harry leva la tête vers un plafond
@@ -2618,7 +2581,7 @@ Pour connaître votre maison.
 Si vous allez à Gryffondor
 Vous rejoindrez les courageux,
 
-Les plus hardis et les plus forts
+Les plus hardis et les plus forts
 Sont rassemblés en ce haut lieu.
 Si à Poufsouffle vous allez,
 Comme eux vous s'rez juste et loyal
@@ -2647,7 +2610,7 @@ nausée, il y serait allé tout de suite.
 Le professeur McGonagall s'avança en tenant à la main un long rouleau de parchemin.
 —Quand j'appellerai votre nom, vous mettrez le chapeau sur votre tête et vous vous assiérez sur le
 
-tabouret. Je commence: Abbot, Hannah !
+tabouret. Je commence: Abbot, Hannah !
 Une fille au teint rose avec des nattes blondes sortit du rang d'un pas mal assuré. Elle alla mettre le
 chapeau qui lui tomba devant les yeux et s'assit sur le tabouret.
 —POUFSOUFFLE ! cria le chapeau après un instant de silence.
@@ -2679,7 +2642,7 @@ prenait parfois le temps de la réflexion avant de se décider.
 Hermione courut presque jusqu'au tabouret et enfonça frénétiquement le chapeau sur sa tête.
 —GRYFFONDOR ! cria le chapeau.
 
-Ron émit un grognement.
+Ron émit un grognement.
 Harry eut soudain une de ces horribles pensées qui accompagnent généralement les états de panique.
 Et s'il n'était pas choisi du tout ? S'il restait là avec le Choixpeau sur la tête sans que rien ne se passe et
 que le professeur McGonagall finisse par lui annoncer qu'il y avait une erreur et qu'il devait rentrer
@@ -2713,7 +2676,7 @@ ta tête et Serpentard t'aiderait singulièrement sur le chemin de la grandeur, 
 Alors ? Non ? Vraiment ? Très bien, si tu es sûr de toi, il vaut mieux t'envoyer à... GRYFFONDOR !
 Harry entendit le dernier mot résonner dans la Grande Salle. Il ôta le chapeau et se dirigea, les jambes
 
-tremblantes, vers la table des Gryffondor. Soulagé d'avoir échappé à Serpentard, il remarqua à peine
+tremblantes, vers la table des Gryffondor. Soulagé d'avoir échappé à Serpentard, il remarqua à peine
 qu'on lui réservait la plus longue et la plus bruyante ovation de la soirée. Percy le Préfet se leva et lui
 serra vigoureusement la main tandis que les jumeaux Weasley scandaient:
 —Potter avec nous ! Potter avec nous !
@@ -2749,7 +2712,7 @@ rire ou pas.
 —Fou ? dit Percy d'un ton léger. C'est un génie ! Le plus grand sorcier du monde ! Mais c'est vrai, il
 est un peu fou. Tu veux des pommes de terre ?
 
-Harry resta bouche bée. Les plats disposés sur la table débordaient à présent de victuailles: roast-beef,
+Harry resta bouche bée. Les plats disposés sur la table débordaient à présent de victuailles: roast-beef,
 poulet, côtelettes de porc et d'agneau, saucisses, lard, steaks, gratin, pommes de terres sautées, frites,
 légumes divers, sauces onctueuses, ketchup et, il ne savait pour quelle raison, des bonbons à la
 menthe. Les Dursley n'avaient jamais privé Harry de nourriture, mais il n'avait pas vraiment le droit
@@ -2784,7 +2747,7 @@ Lorsque tout le monde se fut bien rempli l'estomac, ce qui restait dans les plat
 vaisselle devint étincelante de propreté. Ce fut alors le moment du dessert: crèmes glacées à tous les
 parfums possibles, tartes aux pommes, éclairs au chocolat, beignets, babas, fraises, gâteau de riz.
 
-Harry se servit. Tandis qu'il prenait un morceau de tarte à la mélasse, les autres se mirent à parler de
+Harry se servit. Tandis qu'il prenait un morceau de tarte à la mélasse, les autres se mirent à parler de
 leurs familles.
 —Moi, je suis moitié-moitié, expliqua Seamus. Mon père est un Moldu et ma mère a attendu qu'ils
 soient mariés pour lui dire qu'elle était une sorcière. Ça lui a fait un choc.
@@ -2820,7 +2783,7 @@ La douleur avait disparu aussi vite qu'elle était venue. En revanche, Harry n'a
 sensation qu'il avait éprouvée en croisant le regard du professeur—la sensation que cet homme ne
 l'aimait vraiment pas.
 
-—Qui c'est, le prof qui parle avec Quirrell ? demanda-t-il à Percy.
+—Qui c'est, le prof qui parle avec Quirrell ? demanda-t-il à Percy.
 —Tu connais déjà Quirrell ? Pas étonnant qu'il ait l'air si nerveux, l'autre, c'est le professeur Rogue. Il
 est chargé des cours de potions, mais ça ne lui plaît pas. Tout le monde sait qu'il essaye de prendre la
 place de Quirrell. Il en connaît un rayon en magie noire, ce Rogue.
@@ -2854,7 +2817,7 @@ Et toute l'école se mit à hurler:
 Poudlard, Poudlard, Pou du Lard du Poudlard,
 Apprends-nous ce qu'il faut savoir,
 
-Que l'on soit jeune ou vieux ou chauve
+Que l'on soit jeune ou vieux ou chauve
 Ou qu'on ait les jambes en guimauve,
 On veut avoir la tête bien pleine
 Jusqu'à en avoir la migraine
@@ -2886,7 +2849,7 @@ dessina dans les airs. Il avait les jambes croisées et se cramponnait aux canne
 —Ooooooooh ! lança-t-il en accompagnant son cri d'une sorte de caquètement. Voilà les petits
 nouveaux ! On va bien s'amuser !
 
-Il fondit alors sur eux, obligeant les élèves à se baisser.
+Il fondit alors sur eux, obligeant les élèves à se baisser.
 —Va-t'en, Peeves, sinon, le Baron sera prévenu. Et je ne plaisante pas ! s'exclama Percy.
 Peeves tira la langue et disparut en laissant tomber les cannes sur la tête de Neville. Des armures
 cliquetèrent sur son passage.
@@ -2916,7 +2879,7 @@ et Harry s'était réveille, le corps tremblant, baigné de sueur.
 Il s'était tourné de l'autre côté et s'était rendormi. Le lendemain, lorsqu'il se réveilla, il n'avait plus
 aucun souvenir du rêve.
 
-CHAPITRE 8 : LE MAÎTRE DES POTIONS
+CHAPITRE 8 : LE MAÎTRE DES POTIONS
 —Là, regarde.
 —Où ?
 —A côté du grand type roux.
@@ -2953,7 +2916,7 @@ un orteil au-delà d'une ligne interdite, elle filait prévenir son maître qui 
 comme un boeuf.
 Rusard connaissait les passages secrets de l'école mieux que personne (à part peut-être les jumeaux
 
-Weasley) et pouvait apparaître aussi soudainement que l'un des fantômes. Tous les élèves le
+Weasley) et pouvait apparaître aussi soudainement que l'un des fantômes. Tous les élèves le
 détestaient et nombre d'entre eux auraient été ravis de donner un bon coup de pied à Miss Teigne.
 Lorsqu'on avait enfin réussi à trouver la salle de classe, il fallait arriver à suivre les cours et Harry
 découvrit très vite que l'exercice de la magie ne consistait pas seulement à brandir une baguette
@@ -2992,7 +2955,7 @@ histoire sonnait faux. Quirrell, en effet, avait été incapable de raconter com
 zombie. En plus, le turban dégageait la même odeur que la salle de classe, ce qui avait fait dire aux
 jumeaux Weasley que le professeur l'avait rempli d'ail pour se protéger en permanence des vampires.
 
-Harry constata avec un grand soulagement qu'il n'avait guère de retard sur ses camarades. Nombre
+Harry constata avec un grand soulagement qu'il n'avait guère de retard sur ses camarades. Nombre
 d'entre eux avaient également été élevés dans des familles de Moldus et, tout comme lui, ne s'étaient
 jamais doutés qu'ils appartenaient au monde de la sorcellerie. Il y avait tant de choses à apprendre que
 même quelqu'un comme Ron ne tirait pas grand avantage de son appartenance à une vieille famille de
@@ -3028,7 +2991,7 @@ Le cours avait lieu dans l'un des cachots. Il y faisait plus froid que dans le r
 animaux qui flottaient dans des bocaux de formol alignés le long des murs rendaient l'endroit encore
 plus effrayant.
 
-Rogue commença par faire l'appel. Lorsqu'il fut arrivé au nom de Harry, il marqua une pause.
+Rogue commença par faire l'appel. Lorsqu'il fut arrivé au nom de Harry, il marqua une pause.
 —Ah oui, dit-il. Harry Potter. Notre nouvelle... célébrité.
 Drago Malefoy et ses amis Crabbe et Goyle ricanèrent en se cachant derrière leurs mains. Rogue
 acheva de faire l'appel et releva la tête. Ses yeux étaient aussi noirs que ceux de Hagrid mais ils
@@ -3062,7 +3025,7 @@ Crabbe et Goyle qui étaient secoués d'un fou rire.
 —Je ne sais pas, Monsieur, dit-il.
 —Vous n'alliez quand même pas vous donner la peine d'ouvrir un de vos livres avant d'arriver ici,
 
-n'est-ce pas, Potter ?
+n'est-ce pas, Potter ?
 Harry se força à ne pas baisser les yeux devant le regard glacé du professeur. En fait, il avait bel et
 bien ouvert ses livres quand il était encore chez les Dursley, mais Rogue ne pouvait pas exiger de lui
 qu'il ait retenu tout ce que contenait le manuel intitulé Mille herbes et champignons magiques. Rogue
@@ -3097,7 +3060,7 @@ Puis il se tourna vers Harry et Ron qui avaient préparé leur potion à côté 
 pensiez que s'il ratait sa potion, vous auriez l'air plus brillant ? Voilà qui va coûter un point de plus à
 Gryffondor.
 
-C'était tellement injuste que Harry ouvrit la bouche pour répliquer, mais Ron lui donna un petit coup
+C'était tellement injuste que Harry ouvrit la bouche pour répliquer, mais Ron lui donna un petit coup
 de pied pour l'en dissuader.
 —Laisse tomber, chuchota-t-il. Il paraît qu'il peut devenir très méchant quand il s'y met.
 Lorsqu'ils remontèrent du cachot, une heure plus tard, Harry remuait de sombres pensées et son
@@ -3131,7 +3094,7 @@ de Harry, bavait abondamment sur sa robe de sorcier.
 Harry et Ron furent enchantés d'entendre Hagrid qualifier Rusard de « vieille ganache ».
 —Et un de ces jours, j'aimerais bien présenter son horrible Miss Teigne à Crockdur. A chaque fois
 
-que j'entre dans l'école, elle me suit partout. Impossible de se débarrasser d'elle. C'est Rusard qui me
+que j'entre dans l'école, elle me suit partout. Impossible de se débarrasser d'elle. C'est Rusard qui me
 l'envoie.
 Lorsque Harry lui raconta ce qui s'était passé pendant le cours de Rogue, Hagrid lui fit la même
 réponse que Ron: il ne fallait pas y prêter attention, Rogue n'avait jamais aimé grand monde parmi
@@ -3166,7 +3129,7 @@ présent. Si c'était bien ce que cherchaient les voleurs, Hagrid l'avait emport
 posait aussi une autre question: Hagrid avait-il quelque chose à lui cacher au sujet de Rogue et de
 l'antipathie qu'il lui avait manifestée ?
 
-CHAPITRE 9 : LE DUEL À MINUIT
+CHAPITRE 9 : LE DUEL À MINUIT
 Harry avait toujours cru qu'il était impossible de rencontrer quelqu'un d'aussi détestable que Dudley,
 mais c'était avant de faire la connaissance de Drago Malefoy. Les Gryffondor pensaient n'avoir que le
 cours de potions en commun avec les Serpentard. Hélas, une note au tableau d'affichage les informa
@@ -3203,7 +3166,7 @@ ouvrait avec jubilation à la table des Serpentard.
 Ce matin-là, un hibou apporta à Neville un paquet que lui envoyait sa grand-mère. Il l'ouvrit
 fébrilement et montra à tout le monde une boule de verre de la taille d'une grosse bille qui semblait
 
-remplie de fumée.
+remplie de fumée.
 —C'est un Rapeltout ! expliqua-t-il. Ça sert à se souvenir de ce qu'on a oublié de faire. Ma grand-mère
 me l'a envoyé parce qu'elle trouve que je suis étourdi. Regardez, il suffit de la tenir dans sa main,
 comme ça et si on a oublié quelque chose, elle devient rouge.
@@ -3237,7 +3200,7 @@ peut-être comme les chevaux, songea Harry, quand on avait peur, ils le sentaien
 dans la voix de Neville indiquait clairement qu'il aurait préféré garder les deux pieds sur terre.
 Madame Bibine leur montra ensuite comment enfourcher le manche sans glisser. Elle passa devant
 
-chacun pour corriger la position et Harry et Ron furent enchantés de l'entendre dire à Malefoy qu'il
+chacun pour corriger la position et Harry et Ron furent enchantés de l'entendre dire à Malefoy qu'il
 tenait très mal son balai.
 —Et maintenant, dit le professeur, à mon coup de sifflet, vous donnez un coup de pied par terre pour
 vous lancer. Frappez fort. Vous tiendrez vos balais bien droits, vous vous élèverez d'un ou deux
@@ -3269,7 +3232,7 @@ Il se précipita soudain à l'endroit où Neville était tombé et ramassa quelq
 —C'est ce truc idiot que sa grand-mère lui a envoyé, dit-il en montrant le Rapeltout qui étincelait dans
 sa main.
 
-—Donne-moi ça, Malefoy, lança Harry d'une voix très calme.
+—Donne-moi ça, Malefoy, lança Harry d'une voix très calme.
 Tout le monde cessa de parler pour regarder la suite des événements. Malefoy eut un sourire mauvais.
 —Je vais le laisser quelque part pour que ce pauvre Neville puisse le retrouver. Au sommet d'un
 arbre, par exemple.
@@ -3301,7 +3264,7 @@ Et il lança la boule de verre le plus haut possible.
 Comme dans un film au ralenti, Harry vit la boule s'élever dans les airs puis amorcer sa chute. Il se
 pencha aussitôt en avant, abaissa le manche à balai et poursuivit la boule en fonçant vers le sol. Des
 
-cris se mêlaient au sifflement du vent dans ses oreilles, tandis qu'il fendait l'air à une vitesse
+cris se mêlaient au sifflement du vent dans ses oreilles, tandis qu'il fendait l'air à une vitesse
 vertigineuse. Soudain, il tendit la main et réussit à attraper la boule à une cinquantaine de centimètres
 du sol, juste à temps pour pouvoir redresser le manche de son balai et atterrir en douceur sur la
 pelouse, en tenant le Rapeltout au creux de son poing.
@@ -3335,7 +3298,7 @@ Du bois ? Avait-elle l'intention de lui donner des coups de bâton ? se demanda 
 Mais Dubois était en fait un élève de cinquième année, un garçon solide qui avait l'air très étonné
 d'être ainsi arraché à son cours.
 
-—Venez avec moi, tous les deux, dit le professeur McGonagall.
+—Venez avec moi, tous les deux, dit le professeur McGonagall.
 Ils la suivirent le long du couloir. Dubois lançait à Harry des regards surpris.
 —Entrez là, ordonna le professeur.
 Elle les fit entrer dans une classe vide où Peeves était occupé à écrire des gros mots au tableau.
@@ -3366,7 +3329,7 @@ Le professeur McGonagall observa Harry d'un air grave par-dessus ses lunettes.
 —Je veux que vous suiviez un entraînement intensif, Potter. Vous avez intérêt à vous donner du mal,
 sinon, je pourrais revenir sur ma décision de ne pas vous punir pour ce que vous venez de faire.
 
-Puis elle eut soudain un sourire.
+Puis elle eut soudain un sourire.
 —Votre père aurait été fier de vous, ajouta-t-elle. Lui aussi était un excellent joueur de Quidditch.
 —Tu plaisantes ou quoi ?
 C'était l'heure du dîner et Harry venait de raconter à Ron ce qui s'était passé avec le professeur
@@ -3399,7 +3362,7 @@ sourcils.
 Baguettes magiques uniquement, pas de contact physique. Qu'est-ce qu'il y a ? Tu ne sais pas ce que
 c'est qu'un duel de sorciers ?
 
-—Bien sûr que si, intervint Ron. Et je veux bien être son second. Et toi, qui tu prends comme second ?
+—Bien sûr que si, intervint Ron. Et je veux bien être son second. Et toi, qui tu prends comme second ?
 Malefoy se tourna vers Crabbe et Goyle et les évalua du regard.
 —Crabbe, dit-il. A minuit, d'accord ? On se retrouve dans la salle des trophées, elle n'est jamais
 fermée.
@@ -3430,7 +3393,7 @@ tentait un peu trop la chance, mais il avait enfin l'occasion de battre Malefoy 
 toutes et il ne fallait pas la laisser échapper.
 —Onze heures et demie, murmura Ron. Il est temps d'y aller.
 
-Ils enfilèrent leur robe de chambre, prirent leurs baguettes magiques et descendirent l'escalier en
+Ils enfilèrent leur robe de chambre, prirent leurs baguettes magiques et descendirent l'escalier en
 colimaçon qui menait à la salle commune. Quelques braises rougeoyaient encore dans l'âtre et les
 fauteuils avaient l'air de créatures informes, tapies dans la pénombre. Ils avaient presque atteint le trou
 qui permettait de sortir de la pièce lorsqu'une voix s'éleva derrière eux.
@@ -3462,7 +3425,7 @@ Mais avant qu'ils aient atteint le bout du couloir, Hermione les avait rattrapé
 les trois, je lui dirai la vérité, que j'ai essayé de vous faire revenir mais que je n'ai pas pu. Vous
 pourrez témoigner en ma faveur.
 
-—Tu ne manques pas de culot ! répliqua Ron à voix haute.
+—Tu ne manques pas de culot ! répliqua Ron à voix haute.
 —Taisez-vous, tous les deux, dit sèchement Harry. J'ai entendu quelque chose.
 On aurait dit quelqu'un qui reniflait.
 —Miss Teigne ? chuchota Ron en scrutant l'obscurité.
@@ -3494,7 +3457,7 @@ entendirent une voix, mais ce n'était pas celle de Malefoy.
 —Cherche ma belle, cherche bien, ils doivent se cacher dans un coin.
 C'était Rusard qui parlait à Miss Teigne. Frappé d'horreur, Harry fit des signes désespérés aux trois
 
-autres pour qu'ils s'enfuient le plus vite possible. Ils filèrent en silence jusqu'à la porte opposée et
+autres pour qu'ils s'enfuient le plus vite possible. Ils filèrent en silence jusqu'à la porte opposée et
 parvinrent tout juste à la franchir avant que Rusard entre dans la salle des trophées.
 —Il y a quelqu'un qui doit se cacher quelque part, marmonna-t-il derrière eux.
 Suivi des trois autres, Harry s'engagea dans une longue galerie où s'alignaient des armures. Ils
@@ -3527,7 +3490,7 @@ déclara-t-il d'une voix vertueuse. Pour votre propre bien, ajouta-t-il, les yeu
 —Fiche le camp, laisse-nous passer, lança Ron en faisant un geste pour écarter Peeves.
 C'était une grave erreur.
 
-—ÉLÈVES HORS DU DORTOIR ! hurla aussitôt Peeves. ELEVES HORS DU DORTOIR DANS LE
+—ÉLÈVES HORS DU DORTOIR ! hurla aussitôt Peeves. ELEVES HORS DU DORTOIR DANS LE
 COULOIR DES ENCHANTEMENTS !
 Ils se baissèrent pour passer sous l'esprit frappeur et coururent à toutes jambes jusqu'au bout du
 couloir où ils tombèrent sur une porte verrouillée.
@@ -3559,7 +3522,7 @@ Car ils ne se trouvaient pas dans une salle, comme il l'avait cru tout d'abord, 
 Plus précisément, dans le couloir interdit du deuxième étage. Et à présent, ils comprenaient pourquoi
 l'endroit était interdit.
 
-Devant leurs yeux, un chien monstrueux remplissait tout l'espace entre le soi et le plafond. L'animal
+Devant leurs yeux, un chien monstrueux remplissait tout l'espace entre le soi et le plafond. L'animal
 avait trois têtes : trois paires d'yeux étincelant d'une lueur démente, trois museaux qui les flairaient en
 frémissant avec avidité et trois gueules bavantes hérissées d'énormes crocs jaunâtres d'où pendaient
 des filets de salive épais comme des cordes.
@@ -3593,13 +3556,13 @@ maintenant, si ça ne vous dérange pas, je vais me coucher.
 Ron la regarda partir, bouche bée.
 —Non, ça ne nous dérange pas, dit-il. On dirait vraiment que c'est nous qui l'avons obligée à venir !
 
-Harry, lui, remonta dans le dortoir en pensant à ce qu'avait dit Hermione. Le chien était là pour garder
+Harry, lui, remonta dans le dortoir en pensant à ce qu'avait dit Hermione. Le chien était là pour garder
 quelque chose. Qu'avait dit Hagrid, déjà ? Que Gringotts était le meilleur endroit pour cacher un objet
 —en dehors de Poudlard, peut-être.
 Apparemment, Harry avait découvert où se trouvait désormais le petit paquet enveloppé de papier
 kraft que Hagrid était allé chercher dans la chambre forte numéro 713.
 
-CHAPITRE 10 : HALLOWEEN
+CHAPITRE 10 : HALLOWEEN
 Le lendemain, Malefoy n'en crut pas ses yeux lorsqu'il vit que Harry et Ron étaient toujours à
 Poudlard, l'air fatigué, mais la mine joyeuse. Après une bonne nuit de sommeil, Harry et Ron
 trouvaient que cette rencontre avec le chien aux trois têtes était finalement une belle aventure et ils
@@ -3632,7 +3595,7 @@ Harry montra la lettre à Ron en éprouvant les plus grandes difficultés à ne 
 Ils se hâtèrent de quitter la salle pour aller déballer le paquet loin des regards. Mais Crabbe et Goyle
 leur barrèrent le chemin de l'escalier et Malefoy prit le paquet des mains de Harry.
 
-—Ca m'a l'air d'être un balai, dit Malefoy en tâtant le paquet.
+—Ca m'a l'air d'être un balai, dit Malefoy en tâtant le paquet.
 Il le lui rendit avec une expression de mépris mêlée d'envie.
 —Cette fois, tu es fichu, Potter, les première année n'ont pas le droit d'avoir de balai.
 Ron ne put se retenir.
@@ -3663,7 +3626,7 @@ penser à son balai rangé sous son lit ou au terrain de Quidditch où il allait
 même. Il avala son dîner sans faire attention à ce qu'il mangeait et se rua avec Ron dans le dortoir
 pour déballer enfin le Nimbus 2000.
 
-—Eh ben dis donc, soupira Ron avec admiration.
+—Eh ben dis donc, soupira Ron avec admiration.
 Même aux yeux de Harry qui n'y connaissait rien, le balai paraissait superbe. Il avait une forme
 élégante, avec un manche d'acajou étincelant et un long faisceau de brindilles droites et lisses. La
 marque Nimbus 2000 était gravée en lettres d'or à une extrémité du marche.
@@ -3698,7 +3661,7 @@ basket-ball à six paniers qu'on joue sur des balais.
 Gryffondor, c'est moi. Mon rôle consiste à tourner autour des poteaux pour empêcher les
 poursuiveurs de l'équipe adverse de marquer.
 
-—Trois poursuiveurs, un gardien, dit Harry qui était bien décidé à faire entrer tout ça dans sa tête. Et
+—Trois poursuiveurs, un gardien, dit Harry qui était bien décidé à faire entrer tout ça dans sa tête. Et
 ils jouent avec le Souafle. D'accord, compris. Et les autres balles, elles servent à quoi ?
 —Je vais te montrer. Tiens, prends ça.
 Dubois lui tendit une batte un peu plus courte que les battes de base-ball.
@@ -3732,7 +3695,7 @@ Comparée aux trois autres, elle paraissait minuscule. De la taille d'une grosse
 —Ceci, dit Dubois, c'est le Vif d'or, la plus importante des quatre balles. Elle est très difficile à
 attraper à cause de sa rapidité et de sa petite taille. C'est l'attrapeur qui est chargé de la saisir. Il doit se
 
-faufiler parmi les autres joueurs pour essayer de l'attraper avant l'équipe adverse. Car l'attrapeur qui
+faufiler parmi les autres joueurs pour essayer de l'attraper avant l'équipe adverse. Car l'attrapeur qui
 parvient à s'emparer du Vif d'or fait gagner cent cinquante points à son équipe, ce qui lui assure
 pratiquement la victoire. Un match de Quidditch ne se termine que lorsque le Vif d'or a été attrapé.
 C'est pour ça que les matches peuvent durer indéfiniment. Je crois que le record est de trois mois. Il
@@ -3771,7 +3734,7 @@ dans les airs restait immobile sur la table. Seamus s'énerva tellement qu'il la
 baguette magique et y mit le feu. Harry dut l'éteindre avec son chapeau.
 A la table voisine, Ron n'avait pas beaucoup plus de chance.
 
-—Wingardium Leviosa ! s'écriait-il en agitant ses longs bras comme un moulin à vent.
+—Wingardium Leviosa ! s'écriait-il en agitant ses longs bras comme un moulin à vent.
 —Tu ne prononces pas bien, lança Hermione. Il faut dire Win-gar-dium Leviosa en accentuant bien le
 « gar ».
 —Tu n'as qu'à le faire si tu es si intelligente, répliqua Ron.
@@ -3804,7 +3767,7 @@ Puis il tomba évanoui sur le sol.
 Il y eut alors un grand tumulte dans la salle et le professeur Dumbledore dut faire exploser des gerbes
 d'étincelles à l'extrémité de sa baguette magique pour rétablir le silence.
 
-—Messieurs les préfets, veuillez ramener immédiatement vos condisciples dans les dortoirs de vos
+—Messieurs les préfets, veuillez ramener immédiatement vos condisciples dans les dortoirs de vos
 maisons respectives, ordonna-t-il.
 Percy fut à son affaire.
 —Suivez-moi ! lança-t-il. Les première année, vous restez bien groupés ! Vous n'aurez rien à craindre
@@ -3836,7 +3799,7 @@ tout au bout, une masse énorme s'était mise en mouvement et avançait dans leu
 recroquevillèrent dans l'obscurité et regardèrent la chose apparaître à la lueur d'une fenêtre que
 traversait un rayon de lune.
 
-C'était un spectacle épouvantable. Près de quatre mètres de hauteur, une peau grise et terne comme de
+C'était un spectacle épouvantable. Près de quatre mètres de hauteur, une peau grise et terne comme de
 la pierre, un corps couvert de verrues, qui avait l'air d'un énorme rocher au sommet duquel était
 plantée une petite tête chauve de la taille d'une noix de coco. La créature avait des jambes courtes,
 épaisses comme des troncs d'arbre avec des pieds plats hérissés de pointes. L'odeur pestilentielle
@@ -3871,7 +3834,7 @@ temps de passer derrière lui et de se précipiter sur Hermione.
 —Viens ! Cours ! cria-t-il en essayant de la tirer vers la porte.
 Mais elle était incapable de faire un geste et restait collée au mur, la bouche grande ouverte, figée de
 
-terreur. Leurs cris qui s'étaient répercutés en écho dans le couloir avaient rendu le troll fou furieux. Il
+terreur. Leurs cris qui s'étaient répercutés en écho dans le couloir avaient rendu le troll fou furieux. Il
 poussa un rugissement et marcha droit sur Ron qui était le plus près de lui et n'avait aucune issue.
 Empoignant sa baguette magique, Harry fit alors quelque chose qui était à la fois très courageux et
 très stupide: il prit son élan, sauta au cou du troll et parvint à s'accrocher derrière lui. Le troll ne
@@ -3906,7 +3869,7 @@ jamais vue aussi furieuse. Ses lèvres étaient livides.
 Harry échangea un regard avec Ron qui tenait toujours sa baguette en l'air.
 —Vous pouvez vous estimer heureux de ne pas vous être fait tuer, poursuivit le professeur
 
-McGonagall. Pourquoi n'êtes-vous pas dans votre dortoir ?
+McGonagall. Pourquoi n'êtes-vous pas dans votre dortoir ?
 Rogue jeta à Harry un regard féroce. Harry baissa les yeux. Une petite voix s'éleva alors:
 —Professeur McGonagall, ne soyez pas trop sévère, s'il vous plaît. Ils étaient venus me chercher.
 —Miss Granger !
@@ -3938,7 +3901,7 @@ c'était un grand soulagement de pouvoir échapper à l'horrible odeur du troll.
 —C'était bien de sa part de nous tirer d'affaire, admit Ron. Mais enfin, on lui a vraiment sauvé la vie.
 —Elle n'en aurait peut-être pas eu besoin si on ne l'avait pas enfermée avec la créature, lui rappela
 
-Harry.
+Harry.
 Ils étaient arrivés devant le portrait de la grosse dame.
 —Groin de porc, dirent-ils et le tableau les laissa passer.
 La pièce commune était bondée et bruyante. Tout le monde mangeait, sauf Hermione qui les attendait
@@ -3947,7 +3910,7 @@ sur les assiettes pleines de victuailles.
 A compter de ce moment, Hermione devint amie avec Ron et Harry. Il se crée des liens particuliers
 lorsqu'on fait ensemble certaines choses. Abattre un troll de quatre mètres de haut, par exemple.
 
-CHAPITRE 11 : LE MATCH DE QUIDDITCH
+CHAPITRE 11 : LE MATCH DE QUIDDITCH
 Le temps froid de novembre enveloppa de glace les montagnes qui entouraient l'école et la surface du
 lac prit une couleur d'acier. Chaque matin, le sol était couvert de givre et l'on voyait Hagrid,
 emmitouflé dans un gros manteau, qui dégivrait les balais sur le terrain de Quidditch.
@@ -3984,7 +3947,7 @@ Rogue. Donnez-le-moi et j'enlève cinq points à Gryffondor.
 claudiquant. Je me demande ce qu'il s'est fait à la jambe.
 —Je n'en sais rien, mais j'espère que ça lui fait mal, dit Ron d'un ton amer.
 
-La salle commune de Gryffondor était particulièrement bruyante, ce soir-là. Harry, Ron et Hermione
+La salle commune de Gryffondor était particulièrement bruyante, ce soir-là. Harry, Ron et Hermione
 étaient assis près de la fenêtre. Hermione vérifiait leurs devoirs pour le cours d'enchantements. Elle
 ne les aurait jamais laissés copier sur elle (sinon, comment feriez-vous pour apprendre quelque chose
 ?), mais elle leur donna quand même toutes les bonnes réponses.
@@ -4018,7 +3981,7 @@ chien à trois têtes le soir de Halloween. C'était là qu'il allait quand on l
 ce que garde le chien ! Et je suis prêt à parier mon balai qu'il a laissé entrer ce troll exprès pour faire
 diversion.
 
-Hermione ouvrit de grands yeux.
+Hermione ouvrit de grands yeux.
 —Il n'aurait pas fait une chose pareille ! dit-elle. Même s'il est désagréable, il n'essaierait pas de voler
 quelque chose que Dumbledore a mis en lieu sûr.
 —Tu crois vraiment que tous les profs sont des saints ? dit Ron. Moi, je suis d'accord avec Harry, je
@@ -4049,7 +4012,7 @@ Dubois s'éclaircit la gorge.
 —D'accord, Messieurs et Mesdemoiselles, corrigea Dubois. Nous y voilà.
 —Le grand jour est arrivé, dit Fred Weasley.
 
-—Celui que nous attendions tous, ajouta George.
+—Celui que nous attendions tous, ajouta George.
 —On connaît le discours d'Olivier par coeur, dit Fred à Harry. On était déjà dans l'équipe l'année
 dernière.
 —Taisez-vous, vous deux, coupa Dubois. C'est la meilleure équipe que nous ayons eue à Gryffondor
@@ -4082,7 +4045,7 @@ de Gryffondor.
 Gryffondor reprend le Souafle avec Katie Bell qui fait un joli plongeon pour éviter Flint et—AÏE—
 voilà qui a dû faire mal, un Cognard en pleine tête—le Souafle aux Serpentard—Adrian Pucey se
 
-précipite vers les buts, mais il est arrêté par un deuxième Cognard envoyé par Fred ou George
+précipite vers les buts, mais il est arrêté par un deuxième Cognard envoyé par Fred ou George
 Weasley, impossible d'être plus précis. En tout cas, c'est un joli coup du batteur de Gryffondor et
 Johnson reprend le Souafle sans aucun adversaire devant elle. Elle vole vraiment, c'est le cas de le
 dire, elle évite un Cognard, les buts sont devant elle, vas-y, Angelina—Bletchey, le gardien de but,
@@ -4117,7 +4080,7 @@ bloquer Harry et le Nimbus 2000 avait violemment dévié de sa trajectoire Harry
 manche, parvint de justesse à se maintenir sur son balai.
 —Faute ! hurlèrent les supporters de Gryffondor.
 
-Madame Bibine rappela Flint à l'ordre et ordonna un coup franc en faveur des Gryffondor. Bien
+Madame Bibine rappela Flint à l'ordre et ordonna un coup franc en faveur des Gryffondor. Bien
 entendu, la confusion qui régnait sur le terrain avait permis au Vif d'or de s'échapper.
 —Renvoyez-le ! hurla Dean Thomas dans les gradins. Carton rouge !
 —On n'est pas au football, l'interrompit Ron. On ne peut pas renvoyer les joueurs, au Quidditch—et
@@ -4150,7 +4113,7 @@ demande s'il n'a pas perdu le contrôle de son balai... Ça m'étonnerait, pourt
 Brusquement, des doigts se pointèrent en direction de Harry. Son balai s'était mis à tourner sur luimême et il parvenait tout juste à se cramponner au manche. La foule laissa échapper une exclamation
 de terreur. Le Nimbus 2000 venait de faire une embardée plus violente que les autres, désarçonnant
 
-Harry qui avait réussi à se rattraper au manche d'une seule main et restait suspendu dans le vide. Vous
+Harry qui avait réussi à se rattraper au manche d'une seule main et restait suspendu dans le vide. Vous
 croyez que le balai a pris un coup quand Flint a bloqué Harry ? s'inquiéta Seamus.
 —Impossible, répondit Hagrid d'une voix tremblante. Il n'y a que la magie noire qui puisse dérégler
 un balai. Aucun élève n'arriverait à faire ça à un Nimbus 2000.
@@ -4186,7 +4149,7 @@ Lorsque Harry redescendit en piqué vers le sol, la foule vit qu'il avait une ma
 bouche, comme s'il était sur le point de vomir. Il atterrit brutalement sur la pelouse du stade, toussa et
 un objet doré tomba alors au creux de sa main.
 
-—J'ai attrapé le Vif d'or ! hurla-t-il en agitant le bras au-dessus de sa tête.
+—J'ai attrapé le Vif d'or ! hurla-t-il en agitant le bras au-dessus de sa tête.
 Et le match prit fin dans la plus totale confusion.
 Vingt minutes plus tard, Marcus Flint continuait de hurler:
 —Il ne l'a pas attrapé, il a failli l'avaler !
@@ -4217,7 +4180,7 @@ chose pareille.
 jeter un sort. J'ai tout lu là-dessus ! Il faut fixer les yeux sur l'objet ou la personne visés et Rogue n'a
 pas cillé une seule fois, je l'ai bien vu !
 
-—Et moi, je te dis que tu as tort, s'emporta Hagrid. Je ne sais pas pourquoi le balai de Harry s'est
+—Et moi, je te dis que tu as tort, s'emporta Hagrid. Je ne sais pas pourquoi le balai de Harry s'est
 comporté de cette manière, mais jamais Rogue n'essaierait de tuer un élève ! Maintenant, écoutez-moi
 bien, tous les trois. Vous êtes en train de vous mêler de choses qui ne vous regardent absolument pas.
 Et c'est très dangereux. Alors, oubliez ce chien et oubliez ce qu'il garde, c'est une affaire entre le
@@ -4225,7 +4188,7 @@ professeur Dumbledore et Nicolas Flamel...
 —Ah, tiens ! s'exclama Harry. Il y a donc un nommé Nicolas Flamel dans le coup ?
 Hagrid eut soudain l'air furieux contre lui-même.
 
-CHAPITRE 12 : LE MIROIR DU RISÉD
+CHAPITRE 12 : LE MIROIR DU RISÉD
 Noël approchait. Un jour de la mi-décembre, Poudlard se réveilla sous une épaisse couche de neige.
 Le lac avait gelé et les jumeaux Weasley reçurent une punition pour avoir fabriqué des boules de
 neige magiques qui suivaient Quirrell partout où il allait en visant son turban.
@@ -4262,7 +4225,7 @@ faire un peu d'argent de poche, Weasley ? Tu vises la place de garde-chasse quan
 Poudlard ? C'est vrai que pour quelqu'un de ta famille, la cabane de Hagrid doit avoir l'air d'un
 palace.
 
-Ron se rua sur Malefoy au moment même où Rogue montait l'escalier.
+Ron se rua sur Malefoy au moment même où Rogue montait l'escalier.
 —WEASLEY !
 Ron lâcha Malefoy.
 —Il a été provoqué, professeur, dit Hagrid en montrant sa grosse tête hirsute derrière le sapin.
@@ -4294,7 +4257,7 @@ Nicolas Flamel, on essaye de savoir qui c'est.
 —Quoi ? s'exclama Hagrid, interloqué. Ecoutez-moi, je vous ai dit de laisser tomber. Ce que le chien
 garde, ce n'est pas votre affaire.
 
-—On veut simplement savoir qui est Nicolas Flamel, c'est tout, dit Hermione.
+—On veut simplement savoir qui est Nicolas Flamel, c'est tout, dit Hermione.
 —A moins que vous ne vouliez nous le dire vous-même pour nous épargner d'autres recherches,
 ajouta Harry. Nous avons déjà consulté des centaines de livres et nous n'avons rien trouvé. Pourtant,
 je suis sûr d'avoir lu son nom quelque part.
@@ -4331,7 +4294,7 @@ fait chou blanc. Ils auraient eu besoin de rester beaucoup plus longtemps à la 
 continuellement Madame Pince sur le dos.
 Cinq minutes plus tard, Ron et Hermione rejoignirent Harry en faisant non de la tête et ils allèrent
 
-déjeuner.
+déjeuner.
 —Vous continuerez à chercher pendant que je ne serai pas là, hein ? dit Hermione. Et si jamais vous
 trouvez quelque chose, envoyez-moi tout de suite un hibou.
 —Tu pourrais demander à tes parents s'ils savent quelque chose sur Flamel, suggéra Ron. Avec eux,
@@ -4368,7 +4331,7 @@ dedans et elle produisit un son semblable au ululement d'un hibou.
 Un autre paquet, tout petit, contenait un simple mot:
 —Nous avons reçu ton message. Voici ton cadeau de Noël, de la part de l'oncle Vernon et de la tante
 
-Pétunia.
+Pétunia.
 Une pièce de cinquante pence était collée au papier à l'aide d'un morceau de ruban adhésif.
 —C'est gentil de leur part, dit Harry.
 Ron était fasciné par la pièce de monnaie.
@@ -4399,7 +4362,7 @@ qui semblait flotter dans l'air. Son corps, lui, était devenu invisible. Il rem
 son reflet s'effaça complètement.
 —Il y a un mot ! dit soudain Ron. Un mot dans le paquet !
 
-Harry enleva la cape et lut ce qui était écrit d'une écriture arrondie qu'il n'avait jamais vue auparavant.
+Harry enleva la cape et lut ce qui était écrit d'une écriture arrondie qu'il n'avait jamais vue auparavant.
 « Ton père m'a laisse ceci avant de mourir. Il est temps que tu en hérites. Fais-en bon usage.
 Très joyeux Noël. »
 Il n'y avait pas de signature. Harry garda les yeux fixés sur le morceau de papier pendant que Ron
@@ -4430,7 +4393,7 @@ commencé à déballer ses cadeaux, car il avait sur le bras un gros pull-over d
 Je-ne-veux-pas-le mettre, protesta Percy tandis que les jumeaux l'obligeaient à enfiler le pull en
 faisant à moitié tomber ses lunettes.
 
-—Tu n'es pas avec les préfets, aujourd'hui, dit George. Noël, c'est une fête de famille.
+—Tu n'es pas avec les préfets, aujourd'hui, dit George. Noël, c'est une fête de famille.
 Ils traînèrent alors Percy hors de la pièce, les bras immobilisés par le pull.
 Jamais Harry n'avait passé un aussi bon réveillon. Dindes rôties, saucisses grillées, sauces
 onctueuses, confiture d'airelles et partout sur les tables, des pochettes-surprises avec des pétards qui
@@ -4468,7 +4431,7 @@ le mot.
 Il voulait l'essayer dès maintenant, à l'instant même et il s'enveloppa dans la cape. En regardant à ses
 pieds, il ne vit que des ombres et la tache d'un rayon de lune. C'était une impression très étrange.
 
-Fais-en bon usage.
+Fais-en bon usage.
 Harry se sentit soudain parfaitement réveillé. Grâce à sa cape, le château tout entier lui était ouvert.
 Debout dans l'obscurité et le silence. il éprouva un sentiment d'excitation, Il pouvait aller où bon lui
 semblait, à présent, et Rusard n'en saurait jamais rien.
@@ -4506,7 +4469,7 @@ devant l'entrée de la bibliothèque. Les yeux pâles et furieux du gardien le r
 Harry parvint à se faufiler entre le mur et lui, puis fonça dans le couloir, tandis que résonnait encore à
 ses oreilles le cri perçant du livre.
 
-Il s'arrêta soudain devant une haute armure. Il avait été si occupé à mettre la plus grande distance
+Il s'arrêta soudain devant une haute armure. Il avait été si occupé à mettre la plus grande distance
 possible entre la bibliothèque et lui qu'il n'avait pas fait attention à la direction qu'il avait prise. A
 cause de l'obscurité, peut-être, il était incapable de reconnaître l'endroit où il se trouvait. Il entendit
 alors la voix de Rusard.
@@ -4543,7 +4506,7 @@ Il vit à nouveau son reflet, livide, apeuré, et derrière lui au moins dix aut
 par-dessus son épaule. La pièce était toujours vide. Ou alors, eux aussi étaient peut-être invisibles,
 mais ce miroir avait la faculté de les refléter quand même ?
 
-A nouveau il regarda le miroir. Une femme, debout derrière son reflet, lui souriait en faisant des
+A nouveau il regarda le miroir. Une femme, debout derrière son reflet, lui souriait en faisant des
 signes de la main. Il tendit le bras derrière lui, mais il ne sentit que le vide. Si cette femme avait été
 vraiment présente dans la pièce, il aurait pu la toucher, mais il n'y avait rien. Tous ces gens
 n'existaient que dans le miroir.
@@ -4578,7 +4541,7 @@ miroir ne montre que les morts. C'est dommage que tu n'aies pas réussi à trouv
 Mais Harry avait presque oublié Flamel, il ne pensait plus qu'à ses parents. Il voulait les revoir la nuit
 prochaine. Peu lui importait désormais le chien à trois têtes et ce qu'il gardait.
 
-—Ça va ? s'inquiéta Ron. Tu as l'air bizarre.
+—Ça va ? s'inquiéta Ron. Tu as l'air bizarre.
 Ce que Harry craignait le plus, c'était de ne pas être capable de retrouver la pièce où était le miroir.
 Ron et lui s'étaient enveloppés dans la cape, mais ils ne pouvaient pas se déplacer aussi vite que
 lorsque Harry était tout seul. Ils essayèrent de refaire le chemin que Harry avait suivi la veille en
@@ -4607,7 +4570,7 @@ Ron s'arracha à la contemplation de son reflet et regarda Harry d'un air fébri
 —C'est impossible, toute ma famille est morte. Laisse-moi regarder.
 —Tu l'as eu pour toi tout seul la nuit dernière, maintenant, c'est mon tour,
 
-—Toi, tu ne fais que tenir la coupe de Quidditch, je ne vois pas ce que ça a de passionnant. C'est quand
+—Toi, tu ne fais que tenir la coupe de Quidditch, je ne vois pas ce que ça a de passionnant. C'est quand
 même plus important de voir mes parents.
 —Arrête de me pousser.
 Un bruit soudain en provenance du couloir mit fin à leur discussion. Ils ne s'étaient pas rendu compte
@@ -4638,7 +4601,7 @@ ici toute la nuit à contempler sa famille. Rien, sauf peut-être...
 Harry sentit son sang se glacer. Il regarda derrière lui. Assis sur un bureau, près du mur, il reconnut...
 Albus Dumbledore !
 
-—Je... je ne vous avais pas vu, Monsieur, balbutia Harry.
+—Je... je ne vous avais pas vu, Monsieur, balbutia Harry.
 —On dirait que l'invisibilité te rend myope, dit Dumbledore et Harry fut soulagé de voir qu'il
 souriait.
 Albus Dumbledore vint s'asseoir par terre, à côté de lui.
@@ -4670,7 +4633,7 @@ Harry se releva.
 —Monsieur, dit-il. Est-ce que je peux vous demander quelque chose ?
 —C'est ce que tu viens de faire, mais tu peux recommencer, si tu veux.
 
-—Et vous, qu'est-ce que vous voyez quand vous regardez le miroir ?
+—Et vous, qu'est-ce que vous voyez quand vous regardez le miroir ?
 —Moi ? Je me vois avec une bonne paire de chaussettes de laine à la main.
 Harry ouvrit des yeux ébahis.
 —On manque toujours de chaussettes. Noël vient de passer et je n'en ai même pas eu une seule paire.
@@ -4678,7 +4641,7 @@ Les gens s'obstinent à m'offrir des livres.
 Lorsqu'il eut rejoint son lit, Harry se demanda si Dumbledore lui avait bien répondu la vérité. Mais
 après tout, c'était peut-être une question un peu trop personnelle.
 
-CHAPITRE 13 : NICHOLAS FLAMEL
+CHAPITRE 13 : NICHOLAS FLAMEL
 Dumbledore avait réussi à convaincre Harry de ne plus chercher le Miroir du Riséd et pendant toutes
 les vacances de Noël, la cape d'invisibilité était restée rangée au fond de sa valise. Harry aurait bien
 voulu oublier aussi facilement ce qu'il avait vu dans le miroir, mais c'était impossible. Il commença à
@@ -4713,7 +4676,7 @@ Le reste de l'équipe atterrit auprès de George pour protester également.
 —Je n'y suis pour rien, se défendit Dubois. Tout ce que nous pouvons faire, c'est jouer
 impeccablement, comme ça, Rogue n'aura aucun prétexte pour s'en prendre à nous.
 
-Sans doute, pensa Harry, mais lui-même avait des raisons personnelles pour souhaiter que Rogue ne
+Sans doute, pensa Harry, mais lui-même avait des raisons personnelles pour souhaiter que Rogue ne
 soit pas trop près de lui pendant le match...
 A la fin de la séance, Harry rentra directement à la salle commune de Gryffondor où il retrouva Ron
 et Hermione qui jouaient aux échecs. Les échecs étaient le seul jeu auquel Hermione perdait et, aux
@@ -4745,7 +4708,7 @@ pas lui faciliter la tâche en se couchant devant lui.
 —Je sais bien que je ne suis pas assez courageux pour être à Gryffondor, Malefoy me l'a déjà dit,
 sanglota Neville.
 
-Harry fouilla dans sa poche et en sortit un Chocogrenouille, le dernier de la boîte qu'Hermione lui
+Harry fouilla dans sa poche et en sortit un Chocogrenouille, le dernier de la boîte qu'Hermione lui
 avait offerte pour Noël. Il le donna à Neville qui semblait sur le point de fondre en larmes.
 —Tu vaux douze fois mieux que Malefoy, dit Harry. C'est le Choixpeau magique qui a décidé de
 t'envoyer à Gryffondor, non ? Et Malefoy, où est-il, lui ? Chez ces horribles Serpentard !
@@ -4777,7 +4740,7 @@ Mais Hermione ne fit pas attention à lui.
 philosophale.
 —La quoi ? dirent en choeur Harry et Ron.
 
-—Vous ne lisez donc jamais rien ? Regardez ça.
+—Vous ne lisez donc jamais rien ? Regardez ça.
 Hermione poussa le livre vers eux pour qu'ils puissent lire ce qu'elle leur montrait:
 « Les anciennes recherches alchimiques avaient pour objet de fabriquer la Pierre philosophale, une
 substance légendaire dotée de pouvoirs étonnants. Cette Pierre a en effet la propriété de transformer
@@ -4814,7 +4777,7 @@ un cauchemar hebdomadaire. Rogue savait-il qu'ils étaient au courant de la Pier
 Harry ne voyait pas comment il aurait pu faire pour le découvrir, mais parfois, il avait l'abominable
 impression que Rogue lisait dans les pensées.
 
-Lorsque, dans l'après-midi du lendemain, ils lui souhaitèrent bonne chance à l'entrée des vestiaires,
+Lorsque, dans l'après-midi du lendemain, ils lui souhaitèrent bonne chance à l'entrée des vestiaires,
 Harry savait que Ron et Hermione se demandaient s'ils le reverraient jamais vivant. Ce n'était pas une
 impression très réconfortante et Harry entendit à peine le discours d'encouragement que Dubois
 prononça pendant que les joueurs de Gryffondor se préparaient à entrer sur le terrain.
@@ -4847,7 +4810,7 @@ Malefoy adressa un large sourire à Crabbe et à Goyle.
 parier ? A ton avis, Weasley ?
 Ron ne répondit pas. Rogue venait d'accorder un penalty à l'équipe de Poufsouffle parce que George
 
-Weasley avait renvoyé un Cognard dans sa direction. Hermione, les doigts croisés, regardait fixement
+Weasley avait renvoyé un Cognard dans sa direction. Hermione, les doigts croisés, regardait fixement
 Harry qui tournoyait comme un faucon au-dessus du terrain, à la recherche du Vif d'or.
 —Vous savez comment ils choisissent leurs joueurs dans l'équipe de Gryffondor ? dit Malefoy, alors
 que Rogue accordait aux Poufsouffle un nouveau penalty tout aussi injustifié. Ils vont chercher les
@@ -4880,7 +4843,7 @@ bras levé en signe de triomphe, la main serrée sur le Vif d'or.
 La foule se mit à hurler d'enthousiasme. C'était sûrement un record. Personne n'avait jamais vu un
 joueur attraper le Vif d'or aussi rapidement.
 
-—Ron ! Ron ! Où es-tu ? Le match est fini ! Harry a gagné ! On a gagné ! Gryffondor prend la tête du
+—Ron ! Ron ! Où es-tu ? Le match est fini ! Harry a gagné ! On a gagné ! Gryffondor prend la tête du
 championnat ! hurla Hermione en dansant sur son banc et en serrant dans ses bras quiconque se
 trouvait à sa portée.
 Harry sauta de son balai. Il n'arrivait pas à y croire. Il avait réussi. Le match avait à peine duré cinq
@@ -4916,7 +4879,7 @@ l'oreille pour s'efforcer d'entendre ce qu'ils disaient.
 —Il vaut mieux que notre conversation reste confidentielle, répondit Rogue d'une voix glaciale.
 Après tout, les élèves ne sont pas censés connaître l'existence de la Pierre philosophale.
 
-Harry se pencha en avant. Quirrell marmonnait quelque chose, mais Rogue l'interrompit.
+Harry se pencha en avant. Quirrell marmonnait quelque chose, mais Rogue l'interrompit.
 —Vous avez trouvé comment faire pour passer devant cette bestiole sans se faire dévorer ? dit-il.
 —M... M... mais, Severus... Je...
 —Vous ne voudriez quand même pas que je devienne votre ennemi, Quirrell ? lança Rogue en faisant
@@ -4949,9 +4912,9 @@ tas de sortilèges, probablement, et Quirrell doit connaître les formules magiq
 —Ce qui veut dire que pour protéger la Pierre, il faut que Quirrell tienne tête à Rogue, dit Hermione,
 inquiète.
 
-—Dans ce cas, elle aura bientôt disparu... conclut Ron.
+—Dans ce cas, elle aura bientôt disparu... conclut Ron.
 
-CHAPITRE 14 : NORBERT LE DRAGON
+CHAPITRE 14 : NORBERT LE DRAGON
 Quirrell se montra cependant plus courageux qu'ils ne l'auraient cru. Dans les semaines qui suivirent,
 il devint encore plus pâle et plus maigre, mais il ne semblait pas avoir cédé.
 Chaque fois qu'ils passaient devant le couloir interdit du deuxième étage, Harry, Ron et Hermione
@@ -4986,7 +4949,7 @@ les yeux lorsqu'il entendit Ron s'écrier:
 Hagrid apparut, cachant quelque chose derrière son dos. Avec son gros manteau en poil de taupe, il
 paraissait déplacé dans un tel lieu.
 
-—Je suis simplement venu jeter un coup d'oeil, dit-il d'une voix qui ne paraissait pas très naturelle. Et
+—Je suis simplement venu jeter un coup d'oeil, dit-il d'une voix qui ne paraissait pas très naturelle. Et
 vous, qu'est-ce que vous faites ? ajouta-t-il d'un air soupçonneux. J'espère que vous avez cessé de
 vous intéresser à Nicolas Flamel ?
 —Oh, il y a longtemps que nous avons trouvé ce que nous cherchions, dit Ron d'un ton assuré. Et
@@ -5020,7 +4983,7 @@ Chaque fois qu'un Moldu en voit un, il faut lui jeter un sort pour qu'il oublie 
 Une heure plus tard, lorsqu'ils allèrent frapper à la porte du garde-chasse, ils furent surpris de voir
 que tous les rideaux de la cabane étaient tirés.
 
-—Qui est là ? demanda Hagrid avant de les faire entrer et de refermer rapidement la porte derrière
+—Qui est là ? demanda Hagrid avant de les faire entrer et de refermer rapidement la porte derrière
 eux.
 A l'intérieur, il faisait une chaleur étouffante. Bien qu'au-dehors la température fût clémente, un grand
 feu ronflait dans la cheminée. Hagrid prépara du thé et leur proposa des sandwiches à l'hermine, mais
@@ -5054,7 +5017,7 @@ Harry savait que Ron et Hermione pensaient la même chose que lui. Si Rogue avai
 protection de la Pierre, il lui était sans doute facile de connaître les sortilèges employés
 par les autres professeurs pour assurer sa sécurité. Il devait simplement ignorer le sortilège de
 
-Quirrell, ainsi que le moyen de passer devant Touffu sans se faire mordre.
+Quirrell, ainsi que le moyen de passer devant Touffu sans se faire mordre.
 —Vous êtes le seul à savoir comment faire pour se protéger de Touffu, n'est-ce pas ? demanda Harry
 d'un ton fébrile. Et vous ne voulez le dire à personne ? Même pas à un professeur ?
 —Personne ne le sait, à part moi et Dumbledore, répondit Hagrid avec fierté.
@@ -5087,7 +5050,7 @@ qu'il abritait dans sa cabane un dragon interdit ?
 —Je me demande à quoi ça ressemble, une vie paisible, soupira Ron, accablé par le poids des devoirs
 à faire.
 
-Un matin au petit déjeuner, Hedwige, la chouette de Harry, lui apporta un message signé Hagrid. Il
+Un matin au petit déjeuner, Hedwige, la chouette de Harry, lui apporta un message signé Hagrid. Il
 n'avait écrit que quelques mots: « Il est en train d'éclore. »
 Ron voulut aller voir à l'instant même, mais Hermione l'en dissuada.
 —On a un cours, ce n'est pas le moment de nous attirer des ennuis. Et ce ne sera rien comparé à ceux
@@ -5119,7 +5082,7 @@ fenêtre.
 —Qu'est-ce qu'il y a ?
 —Quelqu'un regardait entre les rideaux. Un garçon. Il s'est enfui vers le château.
 
-Harry bondit sur la porte et l'ouvrit pour regarder au-dehors. Même de loin, il était impossible de s'y
+Harry bondit sur la porte et l'ouvrit pour regarder au-dehors. Même de loin, il était impossible de s'y
 tromper.
 Malefoy avait vu le dragon.
 Dans les jours qui suivirent, le sourire qui se dessinait sans cesse sur le visage de Malefoy mit Harry,
@@ -5152,7 +5115,7 @@ de la grosse dame pivota. Ron enleva la cape d'invisibilité qui le recouvrait, 
 part. Il revenait de la cabane où il avait aidé Hagrid à nourrir Norbert qui mangeait à présent des kilos
 de rats morts.
 
-—Il m'a mordu ! s'écria-t-il en leur montrant sa main enveloppée d'un mouchoir ensanglanté. Je vais
+—Il m'a mordu ! s'écria-t-il en leur montrant sa main enveloppée d'un mouchoir ensanglanté. Je vais
 être incapable de tenir une plume pendant au moins une semaine. Ce dragon est la créature la plus
 effroyable que j'aie jamais rencontrée, mais Hagrid en parle comme si c'était un gentil petit lapin.
 Quand il m'a mordu, il a dit que c'était ma faute, que je lui avais fait peur. Et quand je suis parti, il lui
@@ -5186,7 +5149,7 @@ venir se moquer de moi. Il m'a menacé de révéler à Madame Pomfresh qui m'ava
 ai dit que c'était un chien, mais je crois qu'elle ne m'a pas cru.
 Harry et Hermione essayèrent de le calmer.
 
-—Tout sera terminé samedi à minuit, promit Hermione.
+—Tout sera terminé samedi à minuit, promit Hermione.
 Mais Ron n'en fut pas le moins du monde apaisé. Il se redressa brusquement dans son lit, le visage en
 sueur.
 —Samedi à minuit ! Oh, non ! Oh, non ! Je, viens de me souvenir. J'ai laissé la lettre de Charlie dans
@@ -5220,7 +5183,7 @@ situé au pied de la tour la plus haute.
 Un brusque mouvement, un peu plus loin, manqua de leur faire lâcher la boîte à dragon. Oubliant
 qu'ils étaient déjà invisibles, ils se rencognèrent dans la pénombre, les yeux fixés sur deux silhouettes
 
-qui semblaient se débattre à quelques mètres devant eux. Une lampe s'alluma.
+qui semblaient se débattre à quelques mètres devant eux. Une lampe s'alluma.
 Le professeur McGonagall, vêtue d'une robe de chambre écossaise, les cheveux dans un filet, tenait
 Malefoy par l'oreille.
 —Vous aurez une retenue ! s'écria-t-elle. Et j'enlève vingt points à Serpentard. Se promener dans le
@@ -5247,7 +5210,7 @@ Sauf peut-être la silhouette de Rusard qui les attendait au bas des marches.
 —Je crois bien que nous allons avoir des ennuis, jeunes gens, murmura-t-il.
 Ils se rendirent compte alors qu'ils avaient oublié la cape d'invisibilité au sommet de la tour.
 
-CHAPITRE 15 : LA FORÊT INTERDITE
+CHAPITRE 15 : LA FORÊT INTERDITE
 Les choses n'auraient pas pu tourner plus mal.
 Rusard les conduisit dans le bureau du professeur McGonagall où ils s'assirent en silence. Hermione
 tremblait. Harry tournait et retournait dans sa tête toutes les excuses qu'il pouvait trouver pour
@@ -5283,7 +5246,7 @@ moins en cette période, c'est extrêmement dangereux et j'enlève cinquante poi
 Ils perdaient du même coup la tête du championnat qu'ils avaient gagnée lors du dernier match de
 Quidditch.
 
-—Cinquante points chacun ! précisa le professeur McGonagall.
+—Cinquante points chacun ! précisa le professeur McGonagall.
 —Professeur, s'il vous plaît...
 —Vous ne pouvez pas...
 —Ce n'est pas à vous de me dire ce que je peux faire ou pas, Potter. Et maintenant, retournez vous
@@ -5318,7 +5281,7 @@ Quidditch.
 —Démissionner ? tonna Dubois. Et ça nous servira à quoi ? Comment on va faire pour regagner des
 points si on ne peut plus gagner les matches ?
 
-Mais même le Quidditch avait cessé de l'amuser. Les autres joueurs refusaient d'adresser la parole à
+Mais même le Quidditch avait cessé de l'amuser. Les autres joueurs refusaient d'adresser la parole à
 Harry pendant les séances d'entraînement et quand ils avaient besoin de parler de lui, ils le désignaient
 sous le nom d'attrapeur.
 Hermione et Neville souffraient, eux aussi. Ils n'avaient pas à subir autant d'avanies, car ils n'étaient
@@ -5354,7 +5317,7 @@ quelque chose nous-mêmes, on va se faire renvoyer, c'est sûr.
 —Mais on n'a aucune preuve, répondit Harry. Quirrell a bien trop peur pour confirmer ce qu'on dira.
 Rogue se contentera de prétendre qu'il ignore comment le troll est entré le jour de Halloween et qu'il
 
-ne s'est pas rendu au deuxième étage. Et qui est-ce qu'on va croire ? Lui ou nous ? Tout le monde sait
+ne s'est pas rendu au deuxième étage. Et qui est-ce qu'on va croire ? Lui ou nous ? Tout le monde sait
 qu'on le déteste. Dumbledore pensera que nous avons inventé toute l'histoire pour essayer de le faire
 renvoyer. Rusard ne nous aiderait pour rien au monde, même si sa vie en dépendait. Il est bien trop
 ami avec Rogue et, à ses yeux, plus il y a d'élèves qui se font renvoyer, mieux c'est. En plus on n'est
@@ -5389,7 +5352,7 @@ Harry se sentit soudain un peu plus léger. Si leur punition consistait à trava
 moins difficile que prévu. Le soulagement avait dû apparaître sur son visage, car Rusard s'empressa
 de le décevoir.
 
-—Vous vous imaginez peut-être que vous allez passer un peu de bon temps avec ce fainéant ?
+—Vous vous imaginez peut-être que vous allez passer un peu de bon temps avec ce fainéant ?
 Détrompez-vous, jeunes gens. C'est dans la Forêt interdite que vous allez et ça m'étonnerait que vous
 soyez encore entiers quand vous en ressortirez.
 Neville était un gémissement et Malefoy s'arrêta net.
@@ -5421,7 +5384,7 @@ père préfère que tu t'en ailles, tu n'as qu'à retourner au château et prép
 Malefoy ne bougea pas. Il lança à Hagrid un regard furieux, puis il baissa les yeux.
 —Très bien, dit Hagrid, et maintenant écoutez-moi bien, tous les quatre, parce que c'est dangereux ce
 
-que nous allons faire cette nuit. Je ne veux pas que vous preniez des risques. Suivez-moi par là.
+que nous allons faire cette nuit. Je ne veux pas que vous preniez des risques. Suivez-moi par là.
 Il les amena à la lisière de la forêt, leva sa lampe et montra un étroit sentier qui serpentait parmi les
 gros arbres noirs. Une petite brise agitait leurs cheveux tandis qu'ils contemplaient la forêt.
 —Regardez, dit Hagrid, vous voyez cette chose argentée qui brille par terre ? C'est du sang de
@@ -5457,7 +5420,7 @@ Hagrid attrapa Harry et Hermione et les souleva de terre pour les cacher derriè
 l'écart du chemin. Il saisit une flèche dans son carquois, l'ajusta sur son arbalète qu'il leva, prêt à tirer.
 Tous trois tendirent l'oreille. Quelque chose rampait sur des feuilles mortes. On aurait dit le bas d'une
 
-cape qui traînait sur le sol. Hagrid scruta le sentier, mais quelques instants plus tard, le bruit s'était
+cape qui traînait sur le sol. Hagrid scruta le sentier, mais quelques instants plus tard, le bruit s'était
 évanoui.
 —J'en étais sûr, murmura-t-il. Il y a dans cette forêt quelque chose qui ne devrait pas y être.
 —Un loup-garou ? risqua Harry.
@@ -5487,7 +5450,7 @@ Ronan ne répondit pas tout de suite. Il garda les yeux levés vers le ciel, pui
 —Les innocents sont toujours les premières victimes, dit-il. Il en a toujours été ainsi, il en sera
 toujours de même.
 
-—Oui, dit Hagrid. Mais est-ce que tu as vu quelque chose, Ronan ? Quelque chose d'inhabituel ?
+—Oui, dit Hagrid. Mais est-ce que tu as vu quelque chose, Ronan ? Quelque chose d'inhabituel ?
 —On voit bien Mars, ce soir, répéta Ronan. Il est beaucoup plus brillant que d'habitude.
 —Je te demandais si tu avais vu quelque chose plus près d'ici, dit Hagrid avec impatience. Alors ?
 —Les forêts sont pleines de secrets, déclara Ronan.
@@ -5517,7 +5480,7 @@ Ils l'entendirent s'enfoncer dans les sous-bois en échangeant un regard terrifi
 —Tu crois qu'ils sont blessés ? murmura Hermione.
 —Si c'est Malefoy, ça m'est égal, mais s'il est arrivé quelque chose à Neville... C'est à cause de nous
 
-qu'il est ici.
+qu'il est ici.
 Les minutes passèrent, interminables. Leur ouïe s'affinait, Harry percevait chaque souffle de vent,
 chaque craquement de brindille. Que se passait-il ? Où étaient les autres ? Enfin, des bruits de pas
 sonores annoncèrent le retour de Hagrid. Malefoy, Neville et Crockdur étaient avec lui. Hagrid
@@ -5554,7 +5517,7 @@ couleur claire.
 —Ça va ? demanda le centaure en aidant Harry à se relever.
 —Oui, merci. Qu'est-ce que c'était ?
 
-Le centaure ne répondit pas. Il avait des yeux d'un bleu surprenant, comme des saphirs délavés. Il
+Le centaure ne répondit pas. Il avait des yeux d'un bleu surprenant, comme des saphirs délavés. Il
 observa attentivement Harry et son regard s'attarda sur la cicatrice qui brillait, livide, sur son front.
 —Tu es le fils Potter, dit le centaure. Il vaudrait mieux que tu retournes auprès de Hagrid. La forêt
 n'est pas sûre, ces temps-ci, surtout pour toi. Tu sais monter à cheval ? Ce sera plus rapide. Je
@@ -5587,7 +5550,7 @@ traversaient d'épais sous-bois, Firenze s'arrêta soudain.
 —Non, répondit Harry, surpris par l'étrange question. Dans les potions, nous n'utilisons que leurs
 cornes et les crins de leur queue.
 
-—Tuer une licorne est une chose monstrueuse, dit Firenze. Pour commettre un tel crime il faut
+—Tuer une licorne est une chose monstrueuse, dit Firenze. Pour commettre un tel crime il faut
 n'avoir rien à perdre et tout à gagner. Le sang de licorne permet de survivre, même si on est sur le
 point de mourir, mais à un prix terrible. Car il faut tuer un être pur et sans défense pour sauver sa
 propre vie. Et dès l'instant où les lèvres touchent le sang, ce n'est plus qu'une demi-vie, une vie
@@ -5621,7 +5584,7 @@ frissonnant.
 Ron était tombé endormi dans la salle commune en attendant leur retour. Mais lorsque Harry le
 secoua, il se sentit parfaitement réveille et écouta le récit de ce qui s'était passé dans la forêt.
 
-Harry ne tenait pas en place. Toujours tremblant, il faisait les cent pas devant la cheminée.
+Harry ne tenait pas en place. Toujours tremblant, il faisait les cent pas devant la cheminée.
 —Rogue veut la Pierre pour la donner à Voldemort... Et Voldemort l'attend dans la forêt... Et pendant
 tout ce temps-là, nous pensions que Rogue voulait simplement devenir riche...
 —Arrête de prononcer ce nom ! murmura Ron, effrayé.
@@ -5644,7 +5607,7 @@ Lorsqu'il défit son lit, Harry découvrit la cape d'invisibilité soigneusement
 mot y était épinglé, sur lequel était écrit:
 « Au cas où ».
 
-CHAPITRE 16 : SOUS LA TRAPPE
+CHAPITRE 16 : SOUS LA TRAPPE
 Longtemps encore, Harry se demanderait comment il avait pu faire pour passer ses examens tout en
 ayant sans cesse la hantise de voir Voldemort surgir dans la salle de classe. Pourtant, au fil des jours,
 il ne faisait aucun doute que Touffu était toujours bien vivant et fidèle au poste.
@@ -5679,7 +5642,7 @@ Harry, on a une semaine de tranquillité avant de savoir tout ce qu'on a fait de
 plus la peine de s'inquiéter.
 Harry se frottait le front.
 
-—J'aimerais bien savoir ce que ça signifie, s'écria-t-il soudain avec colère. Ma cicatrice continue à
+—J'aimerais bien savoir ce que ça signifie, s'écria-t-il soudain avec colère. Ma cicatrice continue à
 me faire mal. Ça m'était déjà arrivé avant, mais jamais aussi souvent.
 —Va voir Madame Pomfresh, suggéra Hermione.
 —Je ne suis pas malade, dit Harry. Je crois plutôt que c'est un avertissement. Il y a un danger qui
@@ -5713,7 +5676,7 @@ Mais Harry ne répondit pas et se hâta en direction de la forêt.
 Hagrid était assis dans un fauteuil, devant sa cabane. Il avait relevé ses manches et ses bas de pantalon
 et s'occupait à écosser des petits pois dans un grand bol.
 
-—Alors, dit-il, c'est fini, ces examens ? Vous voulez boire quelque chose ?
+—Alors, dit-il, c'est fini, ces examens ? Vous voulez boire quelque chose ?
 —Non, on est pressés, dit Harry. J'ai quelque chose à vous demander. Le soir où vous avez gagné
 Norbert aux cartes, à quoi ressemblait le voyageur qui vous l'a donné ?
 —Je ne sais pas, répondit Hagrid, il a gardé sa cape avec son capuchon sur la tête.
@@ -5747,7 +5710,7 @@ direction. On ne leur avait jamais dit où habitait Dumbledore et ils ne connais
 jamais été envoyé dans son bureau.
 —On n'a qu'à... commença Harry mais une voix résonna soudain dans le hall.
 
-C'était le professeur McGonagall qui traversait le hall avec une énorme pile de livres dans les bras.
+C'était le professeur McGonagall qui traversait le hall avec une énorme pile de livres dans les bras.
 —On veut voir le professeur Dumbledore, dit courageusement Hermione.
 —Voir le professeur Dumbledore ? répéta le professeur McGonagall, comme si elle trouvait l'idée
 particulièrement saugrenue. Et pourquoi donc ?
@@ -5777,7 +5740,7 @@ Mais ils restèrent là.
 —C'est cette nuit que ça va se passer, dit Harry lorsqu'ils furent certains que le professeur
 McGonagall était trop loin pour les entendre. Rogue va essayer d'ouvrir la trappe, il a tout ce qu'il
 
-faut pour y arriver et il s'est arrangé pour éloigner Dumbledore. C'est lui qui a envoyé cette lettre. Ils
+faut pour y arriver et il s'est arrangé pour éloigner Dumbledore. C'est lui qui a envoyé cette lettre. Ils
 vont être étonnés, au ministère de la Magie, en voyant débarquer Dumbledore.
 A ce moment, Hermione étouffa un cri. Ron et Harry firent volte-face. Rogue se tenait derrière eux.
 —Bonjour, dit-il d'une voix douce.
@@ -5808,7 +5771,7 @@ reste de l'école que le professeur McGonagall apparut à nouveau, et cette fois
 Si jamais j'apprends que vous êtes revenus dans ces parages, j'enlève cinquante points de plus à
 Gryffondor ! Parfaitement, Weasley ! Même si c'est ma propre maison !
 
-Harry et Ron retournèrent dans la salle commune. Quelques instants plus tard, le portrait de la grosse
+Harry et Ron retournèrent dans la salle commune. Quelques instants plus tard, le portrait de la grosse
 dame pivota et Hermione entra à son tour.
 —Je suis désolée, Harry, gémit-elle. Rogue est sorti de la salle des profs et m'a demandé ce que je
 faisais là. Je lui ai dit que j'attendais Flitwick et il est allé le chercher. Quand j'ai pu repartir, je ne
@@ -5842,7 +5805,7 @@ douze pour cent de bonnes réponses à son examen.
 Après dîner, ils s'assirent tous les trois à l'écart dans la salle commune. Personne ne les dérangea
 puisque les autres Gryffondor refusaient toujours d'adresser la parole à Harry.
 
-Pour une fois, celui-ci en était plutôt soulagé. Hermione parcourait ses cahiers de cours, espérant y
+Pour une fois, celui-ci en était plutôt soulagé. Hermione parcourait ses cahiers de cours, espérant y
 dénicher le moyen de neutraliser les sortilèges qu'ils devraient affronter. Harry et Ron ne disaient pas
 grand-chose. Tous deux pensaient à ce qui les attendait.
 Peu à peu, la salle se vida à mesure que les élèves allaient se coucher. Lorsque le dernier fut parti,
@@ -5872,7 +5835,7 @@ Et il lâcha son crapaud qui disparut sous un meuble.
 Elle s'avança alors vers Neville et brandit sa baguette magique.
 —Désolée, Neville, dit-elle, mais il le faut. Petrificus Totalus !
 
-Aussitôt, les bras de Neville se collèrent le long de ses flancs, ses jambes se joignirent, son corps
+Aussitôt, les bras de Neville se collèrent le long de ses flancs, ses jambes se joignirent, son corps
 devint rigide, il vacilla un instant, puis tomba en avant et resta immobile à plat ventre, raide comme
 une planche.
 Hermione s'empressa de le retourner sur le dos. La mâchoire de Neville était collée, il ne pouvait plus
@@ -5904,7 +5867,7 @@ commis une erreur, une regrettable erreur, je ne vous avais pas vu. Bien sûr, p
 invisible. Je vous demande de pardonner sa plaisanterie à ce vieux Peeves, Monsieur le Baron.
 —J'ai des affaires à mener ici, dit Harry de sa voix rauque. Ne reviens plus dans les parages cette nuit.
 
-—Oh mais bien sûr, Monsieur le Baron, bien entendu, dit Peeves en remontant dans les airs. J'espère
+—Oh mais bien sûr, Monsieur le Baron, bien entendu, dit Peeves en remontant dans les airs. J'espère
 que vos affaires se passeront bien, Monsieur le Baron. Je ne vous dérangerai plus.
 Et il fila ailleurs.
 —Formidable, Harry ! murmura Ron.
@@ -5934,7 +5897,7 @@ Lorsqu'ils approchèrent des trois têtes du chien, ils sentirent son souffle br
 Ron serra les dents, enjamba les pattes du chien avec précaution, puis tira l'anneau de la trappe qui se
 souleva sans difficulté et s'ouvrit.
 
-—Qu'est-ce que tu vois ? demanda Hermione avec angoisse.
+—Qu'est-ce que tu vois ? demanda Hermione avec angoisse.
 —Rien, c'est tout noir, Il n'y a ni échelle ni corde pour descendre, il faudra se laisser tomber.
 Harry qui jouait toujours de la flûte fit un signe de la main à Ron et tapota sa poitrine de l'index.
 —Tu veux passer le premier ? Tu es sûr ? Je n'ai aucune idée de la profondeur. Donne la flûte à
@@ -5966,7 +5929,7 @@ dès l'instant où elle avait atterri, les vrilles de la plante, longues comme d
 commencé à s'enrouler autour de ses chevilles. Quant à Ron et à Harry, des sortes de lianes leur
 avaient déjà ligoté les jambes sans qu'ils s'en rendent compte.
 
-Hermione avait réussi à se libérer avant que la plante ait eu le temps de l'immobiliser. Elle regarda
+Hermione avait réussi à se libérer avant que la plante ait eu le temps de l'immobiliser. Elle regarda
 avec horreur Harry et Ron qui se débattaient pour essayer de se libérer, mais plus ils tiraient sur les
 tentacules, plus l'emprise du monstre végétal se resserrait autour d'eux.
 —Ne bougez plus ! leur ordonna Hermione. Je connais cette plante, c'est un Filet du Diable !
@@ -5998,7 +5961,7 @@ Harry écouta. Venant d'un peu plus loin, on entendait un bruissement confus auq
 quelques tintements.
 —On dirait des bruits d'ailes, dit Harry.
 
-—Il y a de la lumière là-bas, remarqua Ron. Je vois quelque chose bouger.
+—Il y a de la lumière là-bas, remarqua Ron. Je vois quelque chose bouger.
 Parvenus à l'extrémité du passage, ils découvrirent une salle brillamment éclairée, avec un haut
 plafond en forme d'arche. L'endroit était envahi de petits oiseaux étincelants qui voletaient sans cesse
 tout autour de la pièce. Dans le mur d'en face, il y avait une grande porte de bois.
@@ -6031,7 +5994,7 @@ clé d'argent qui avait une aile tordue, comme si quelqu'un l'avait déjà attra
 introduite dans la serrure.
 —C'est celle-ci ! cria-t-il aux deux autres. La grosse, là, avec les ailes bleues. Les plumes sont toutes
 
-froissées d'un côté.
+froissées d'un côté.
 Ron fila dans la direction indiquée par Harry, mais, emporté par son élan, il s'écrasa contre le plafond
 et faillit tomber de son balai.
 —Il faut la cerner, cria Harry, sans quitter des yeux la clé à l'aile blessée. Ron, tu restes au-dessus,
@@ -6064,7 +6027,7 @@ frappa l'échiquier de ses sabots et le cavalier tourna vers Ron sa tête coiff�
 Le cavalier noir approuva d'un signe de tête. Ron se tourna vers les deux autres.
 —Il faut bien réfléchir, dit-il. On va devoir prendre la place de trois des pièces noires.
 
-Harry et Hermione restèrent silencieux, attendant que Ron ait pris une décision.
+Harry et Hermione restèrent silencieux, attendant que Ron ait pris une décision.
 —Ne vous vexez pas, dit-il enfin, mais vous n'êtes pas très bons aux échecs, tous les deux.
 —On ne se vexe pas, dit Harry. Dis-nous simplement ce qu'on doit faire.
 —Toi, Harry, tu prends la place de ce fou et toi, Hermione tu te mets du même côté sur la case de la
@@ -6095,7 +6058,7 @@ La reine blanche tourna vers lui sa tête sans visage.
 qui te permettra de faire échec et mat, Harry.
 —Mais...
 
-—Tu veux arrêter Rogue, ou pas ?
+—Tu veux arrêter Rogue, ou pas ?
 —Ron...
 —Si tu ne te dépêches pas, il va s'emparer de la Pierre !
 Il n'y avait rien d'autre à faire.
@@ -6127,7 +6090,7 @@ gagner la porte suivante. Lorsque Harry l'ouvrit, ils s'attendaient au pire, mai
 d'effrayant, Il y avait simplement une table sur laquelle étaient alignées sept bouteilles de différentes
 formes.
 
-—Ça, c'est le maléfice de Rogue, dit Harry. Qu'est-ce qu'on doit faire ?
+—Ça, c'est le maléfice de Rogue, dit Harry. Qu'est-ce qu'on doit faire ?
 Dès qu'ils eurent franchi le seuil de la porte, de grandes flammes jaillirent derrière eux. Mais ce
 n'était pas un feu ordinaire: celui-ci était violet. Au même moment, d'autres flammes, noires cette fois,
 s'élevèrent dans l'encadrement de la porte du fond. Ils étaient pris au piège.
@@ -6155,7 +6118,7 @@ grands sorciers qui n'ont pas la moindre logique, ils n'arriveraient jamais à t
 —Et nous non plus...
 —Bien sûr que si. Tout ce dont nous avons besoin est écrit sur ce papier. Il y a sept bouteilles, trois
 
-contiennent du poison, deux du vin, l'une d'elles permet de franchir sans mal les flammes noires et
+contiennent du poison, deux du vin, l'une d'elles permet de franchir sans mal les flammes noires et
 une autre permet de retourner sur nos pas en traversant les flammes violettes.
 —Mais comment savoir laquelle boire ?
 —Laisse-moi réfléchir.
@@ -6185,7 +6148,7 @@ l'amitié..
 —Certaine ! assura Hermione.
 Elle but une longue gorgée au goulot de la bouteille ronde et fut parcourue d'un frisson.
 
-—Ce n'est pas du poison ? demanda Harry d'une voix angoissée.
+—Ce n'est pas du poison ? demanda Harry d'une voix angoissée.
 —Non, mais on dirait de la glace.
 —Dépêche-toi, vas-y avant que les effets disparaissent.
 —Bonne chance... Sois prudent...
@@ -6200,7 +6163,7 @@ chaleur. Pendant quelques instants, il ne vit plus que la couleur noire du feu m
 retrouva de l'autre côté, dans la dernière salle.
 Quelqu'un était déjà là, mais ce n'était pas Rogue. Ce n'était même pas Voldemort.
 
-CHAPITRE 17 : L'HOMME AUX DEUX VISAGES
+CHAPITRE 17 : L'HOMME AUX DEUX VISAGES
 C'était Quirrell.
 —Vous ! s'écria Harry, suffoqué.
 Quirrell sourit, le visage parfaitement calme.
@@ -6232,7 +6195,7 @@ dans les couloirs le soir de Halloween ! Il me semblait que vous m'aviez surpris
 voir ce qui protégeait la Pierre.
 —C'est vous qui avez fait entrer le troll ?
 
-—Bien sûr. J'ai un don avec les trolls. Vous avez dû constater ce que j'ai fait à celui qui se trouve dans
+—Bien sûr. J'ai un don avec les trolls. Vous avez dû constater ce que j'ai fait à celui qui se trouve dans
 l'autre salle, là-bas ? Malheureusement, pendant que tout le monde le cherchait partout, Rogue, qui me
 soupçonnait déjà, est monté directement au deuxième étage pour m'empêcher d'entrer dans le fameux
 couloir. Et non seulement mon troll n'a pas réussi à vous tuer, mais ce chien à trois têtes n'est même
@@ -6267,7 +6230,7 @@ horreur.
 —Il est toujours avec moi, où que j'aille, répondit tranquillement Quirrell. Je l'ai rencontré quand je
 voyageais autour du monde. J'étais un jeune homme stupide, à l'époque, plein d'idées ridicules sur les
 
-notions de bien et de mal. Lord Voldemort m'a montré à quel point j'avais tort. Il n'y a pas de bien ni
+notions de bien et de mal. Lord Voldemort m'a montré à quel point j'avais tort. Il n'y a pas de bien ni
 de mal, il n'y a que le pouvoir, et ceux qui sont trop faibles pour le rechercher... Depuis ce temps-là, je
 l'ai servi fidèlement, bien que je l'aie laissé tomber à plusieurs reprises. Il a dû sévir, avec moi.
 Quirrell fut soudain parcouru d'un frisson.
@@ -6299,7 +6262,7 @@ provenir de son turban, Il ferma les yeux, fit un pas vers le miroir et les rouv
 Il vit tout d'abord son reflet, pâle et terrifié. Mais un instant plus tard, le reflet lui sourit. Il se vit alors
 mettre la main dans sa poche et en retirer une Pierre rouge sang. Son reflet lui adressa un clin d'oeil
 
-et remit la Pierre dans sa poche. Au même moment, Harry sentit quelque chose de lourd tomber dans
+et remit la Pierre dans sa poche. Au même moment, Harry sentit quelque chose de lourd tomber dans
 sa vraie poche. Il ne savait pas comment, il n'arrivait pas à le croire, mais maintenant, c'était lui qui
 avait la Pierre !
 —Alors ? dit Quirrell avec impatience. Qu'est-ce que vous voyez ?
@@ -6331,7 +6294,7 @@ Harry essaya de faire un pas en arrière, mais ses jambes refusaient de lui obé
 le corps de quelqu'un d'autre... Heureusement, il en reste toujours qui sont prêts à m'accueillir dans
 leur coeur et leur tête... Le sang de licorne m'a redonné des forces, ces dernières semaines... Dans la
 
-forêt, tu as vu le fidèle Quirrell s'en abreuver pour moi... Et lorsque j'aurai l'élixir de longue vie, je
+forêt, tu as vu le fidèle Quirrell s'en abreuver pour moi... Et lorsque j'aurai l'élixir de longue vie, je
 pourrai recréer un corps qui sera bien à moi... Maintenant... Donne-moi cette Pierre qui se trouve dans
 ta poche.
 Il savait donc. Harry sentit soudain ses jambes revenir à la vie. Il fit un pas en arrière.
@@ -6366,7 +6329,7 @@ chair à vif.
 Quirrell leva le bras pour lancer un maléfice mortel, mais Harry, d'un geste instinctif, plaqua les
 mains contre le visage de son ennemi.
 
-—AAAAAAAAAARG !
+—AAAAAAAAAARG !
 Quirrell roula sur le sol, le visage également brûlé. Harry se rendit compte que son adversaire ne
 pouvait pas le toucher sans souffrir de terribles brûlures. Sa seule chance, c'était de saisir Quirrell et
 de lui infliger une telle douleur qu'il soit incapable de lancer un sort.
@@ -6398,7 +6361,7 @@ pensant que ça t'amuserait. Mais Madame Pomfresh a trouvé que ce ne serait peu
 hygiénique et elle l'a confisqué.
 —Ça fait combien de temps que je suis là ?
 
-—Trois jours. Mr Ronald Weasley et Miss Granger vont être grandement soulagés de voir que tu es
+—Trois jours. Mr Ronald Weasley et Miss Granger vont être grandement soulagés de voir que tu es
 revenu à toi. Ils se sont terriblement inquiétés à ton sujet.
 —Mais la Pierre...
 —Je vois qu'il est inutile d'essayer de te distraire. Très bien. Alors... La Pierre, le professeur Quirrell
@@ -6432,7 +6395,7 @@ en souriant.
 —Monsieur ? dit enfin Harry. Je me demande... Même si la Pierre n'existe plus, Vol... Je veux dire,
 Vous-Savez-Qui...
 
-—Tu peux l'appeler Voldemort, Harry. Nomme toujours les choses par leur nom. La peur d'un nom
+—Tu peux l'appeler Voldemort, Harry. Nomme toujours les choses par leur nom. La peur d'un nom
 ne fait qu'accroître la peur de la chose elle-même.
 —Voldemort va chercher d'autres moyens de revenir, n'est-ce pas ? Je veux dire qu'il n'a pas
 complètement disparu ?
@@ -6469,7 +6432,7 @@ en lui que de la souffrance.
 Dumbledore manifesta un intérêt soudain pour un oiseau qui venait de se poser sur le rebord de la
 fenêtre, ce qui donna le temps à Harry de s'essuyer les yeux avec son drap.
 
-—Et la cape d'invisibilité ? demanda Harry, lorsqu'il eut retrouvé sa voix. Vous savez qui me l'a
+—Et la cape d'invisibilité ? demanda Harry, lorsqu'il eut retrouvé sa voix. Vous savez qui me l'a
 envoyée ?
 —Ah... Il se trouve que ton père l'avait laissée en ma possession et j'ai pensé que tu aimerais peut-être
 l'avoir. C'est parfois utile... Quand il était au collège, ton père s'en servait pour se glisser jusqu'à la
@@ -6503,7 +6466,7 @@ surtout pas ! Enfin, je pense que je ne risque rien avec un caramel.
 Il sourit et mit la dragée d'un brun doré dans sa bouche. Puis il se mit à tousser.
 —Quelle horreur ! De la cire d'oreilles !
 
-Madame Pomfresh était une femme charmante, mais très stricte.
+Madame Pomfresh était une femme charmante, mais très stricte.
 —Seulement cinq minutes, supplia Harry.
 —Il n'en est pas question.
 —Vous avez bien laissé entrer le professeur Dumbledore...
@@ -6534,7 +6497,7 @@ allé le retrouver ? » et il a foncé au deuxième étage.
 d'invisibilité ?
 —Si jamais c'est vrai, c'est terrible ! s'écria Hermione. Tu aurais pu te faire tuer !
 
-—Ce n'est pas tout à fait ça, répondit Harry d'un air songeur. C'est un drôle de personnage, ce
+—Ce n'est pas tout à fait ça, répondit Harry d'un air songeur. C'est un drôle de personnage, ce
 Dumbledore. Je crois qu'il a voulu me donner une chance. Il doit savoir à peu près tout ce qui passe à
 l'école et je pense qu'il devait se douter de notre projet, mais au lieu d'essayer de nous arrêter, il a
 cherché à nous aider. Je ne crois pas que ce soit un hasard s'il m'a laissé découvrir comment le miroir
@@ -6568,7 +6531,7 @@ elle est détruite maintenant, il ne peut plus s'en servir. Prenez donc un Choco
 Ah, au fait, ça me fait penser que j'ai un cadeau pour toi, dit Hagrid en s'essuyant le nez d'un revers de
 main.
 
-—J'espère que ça n'est pas un sandwich à l'hermine.
+—J'espère que ça n'est pas un sandwich à l'hermine.
 —Mais non, sourit Hagrid, Dumbledore m'a accordé un jour de congé hier pour le préparer. Il aurait
 plutôt dû me renvoyer. Voilà...
 Il lui donna un beau livre à la reliure de cuir. Harry l'ouvrit avec curiosité: il était rempli de photos de
@@ -6603,7 +6566,7 @@ Ron devint écarlate. Il avait soudain l'air d'un radis qui aurait pris un coup 
 —Pour la plus belle partie d'échecs qu'on ait jouée à Poudlard depuis de nombreuses années, je donne
 à Gryffondor cinquante points.
 
-Les acclamations des Gryffondor atteignirent presque le plafond enchanté. Les étoiles au-dessus de
+Les acclamations des Gryffondor atteignirent presque le plafond enchanté. Les étoiles au-dessus de
 leur tête parurent frémir.
 —C'est mon frère ! disait Percy aux autres préfets. Mon plus jeune frère ! Il a réussi à traverser
 l'échiquier géant de McGonagall !
@@ -6640,7 +6603,7 @@ aussitôt que les sentiments de Rogue à son égard n'avaient pas changé. Mais 
 contrariété. La vie redeviendrait normale dès l'année prochaine, aussi normale qu'elle pouvait l'être à
 Poudlard.
 
-Ce fut la plus belle soirée que Harry eût jamais connue. Il était encore plus heureux que le jour où il
+Ce fut la plus belle soirée que Harry eût jamais connue. Il était encore plus heureux que le jour où il
 avait gagné le match de Quidditch, plus heureux que le soir de Noël, plus heureux que lorsqu'ils
 avaient vaincu le troll. Il garderait à jamais le souvenir de ces précieux instants.
 Harry en avait presque oublié le résultat des examens. A leur grande surprise, Ron et lui avaient
@@ -6673,7 +6636,7 @@ Mrs Weasley leur adressa un grand sourire.
 —Vous avez eu une année chargée ? dit-elle.
 —Très, répondit Harry. Merci pour le pull, Mrs Weasley.
 
-—Oh, ce n'était rien.
+—Oh, ce n'était rien.
 —Alors, tu es prêt ?
 C'était l'oncle Vernon, toujours moustachu, toujours écarlate, toujours furieux que Harry ait l'audace
 de se promener avec un hibou dans une cage au milieu d'une gare remplie de gens parfaitement
@@ -6687,5 +6650,3 @@ l'oncle Vernon.
 Elle n'avait encore jamais vu quelqu'un d'aussi désagréable.
 —Oh, sûrement, répondit Harry avec un grand sourire. Eux, ils ne savent pas que l'usage de la magie
 est interdit à la maison. Je crois que je vais bien m'amuser avec Dudley, cet été.
-
-
