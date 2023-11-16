@@ -2,12 +2,21 @@
 """
 Created on Mon Nov 13 00:46:10 2023
 
-@author: farka
+@author: adamWolf
 """
 
-import basic_functions as base_fns
-import remove_hyphenations_from_HP_english
-import remove_characters as rm_chars
+import clear_HP_english
+import clear_HP_french
+import clear_HP_german
+import clear_HP_spanish
+import number_of_words_and_lines
 
-remove_hyphenations_from_HP_english
-rm_chars.remove_unnecessary_chars((base_fns.open_text("HP-english.txt")).read())
+#clear all texts
+clear_HP_english
+clear_HP_french
+clear_HP_german
+clear_HP_spanish
+
+#write number of words and lines in texts
+number_of_words_and_lines
+
