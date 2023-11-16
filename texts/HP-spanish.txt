@@ -1,41 +1,4 @@
-Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y del
-insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe
-una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado
-como alumno en el colegio interno Hogwarts de magia y hechicería. A partir de ese
-momento, la suerte de Harry da un vuelco espectacular. En esa escuela tan especial
-aprenderá encantamientos, trucos fabulosos y tácticas de defensa contra las malas artes.
-Se convertirá en el campeón escolar de quidditch, especie de fútbol aéreo que se juega
-montado sobre escobas, y se hará un puñado de buenos amigos… aunque también algunos
-temibles enemigos. Pero sobre todo, conocerá los secretos que le permitirán cumplir con su
-destino. Pues, aunque no lo parezca a primera vista, Harry no es un chico común y
-corriente. ¡Es un mago!
-
-J. K. Rowling
-
-Harry Potter
-y la piedra filosofal
-Harry Potter 1
-
-Título original: Harry Potter and the Philosopher’s Stone
-J. K. Rowling, 1997
-Traducción: Alicia Dellepiane Rawson
-Ilustraciones: Mary GrandPré
-Diseño de portada: Dolores Avendaño
-Editor digital: Horus
-ePub base r1.1
-
-Harry Potter
-y la piedra filosofal
-
-por
-J.K. Rowling
-Ilustraciones por Mary GrandPré
-
-Para Jessica, a quien le gustan las historias,
-para Anne, a quien también le gustaban,
-y para Di, que oyó ésta primero.
-
-CAPÍTULO UNO
+CAPÍTULO UNO
 
 El niño que vivió
 
@@ -62,7 +25,7 @@ Nuestra historia comienza cuando el señor y la señora Dursley se despertaron u
 cubierto de nubes grises que amenazaban tormenta. Pero nada había en aquel nublado cielo que sugiriera
 los acontecimientos extraños y misteriosos que poco después tendrían lugar en toda la región. El señor
 
-Dursley canturreaba mientras se ponía su corbata más sosa para ir al trabajo, y la señora Dursley
+Dursley canturreaba mientras se ponía su corbata más sosa para ir al trabajo, y la señora Dursley
 parloteaba alegremente mientras instalaba al ruidoso Dudley en la silla alta.
 Ninguno vio la gran lechuza parda que pasaba volando por la ventana.
 A las ocho y media, el señor Dursley cogió su maletín, besó a la señora Dursley en la mejilla y trató
@@ -104,7 +67,7 @@ papel, alcanzó a oír unas pocas palabras de su conversación.
 —Sí, su hijo, Harry…
 El señor Dursley se quedó petrificado. El temor lo invadió. Se volvió hacia los que murmuraban,
 
-como si quisiera decirles algo, pero se contuvo.
+como si quisiera decirles algo, pero se contuvo.
 Se apresuró a cruzar la calle y echó a correr hasta su oficina. Dijo a gritos a su secretaria que no
 quería que le molestaran, cogió el teléfono y, cuando casi había terminado de marcar los números de su
 casa, cambió de idea. Dejó el aparato y se atusó los bigotes mientras pensaba… No, se estaba
@@ -146,7 +109,7 @@ que las lechuzas han cambiado sus horarios de sueño. —El locutor se permitió
 misterioso. Y ahora, de nuevo con Jim McGuffin y el pronóstico del tiempo. ¿Habrá más lluvias de
 lechuzas esta noche, Jim?
 
-—Bueno, Ted —dijo el meteorólogo—, eso no lo sé, pero no sólo las lechuzas han tenido hoy una
+—Bueno, Ted —dijo el meteorólogo—, eso no lo sé, pero no sólo las lechuzas han tenido hoy una
 actitud extraña. Telespectadores de lugares tan apartados como Kent, Yorkshire y Dundee han telefoneado
 para decirme que en lugar de la lluvia que prometí ayer ¡tuvieron un chaparrón de estrellas fugaces! Tal
 vez la gente ha comenzado a celebrar antes de tiempo la Noche de las Hogueras. ¡Es la semana que viene,
@@ -188,7 +151,7 @@ algo que tuviera que ver (bostezó y se dio la vuelta)… No, no podría afectar
 El señor Dursley cayó en un sueño intranquilo, pero el gato que estaba sentado en la pared del jardín
 no mostraba señales de adormecerse. Estaba tan inmóvil como una estatua, con los ojos fijos, sin
 
-pestañear, en la esquina de Privet Drive. Apenas tembló cuando se cerró la puerta de un coche en la calle
+pestañear, en la esquina de Privet Drive. Apenas tembló cuando se cerró la puerta de un coche en la calle
 de al lado, ni cuando dos lechuzas volaron sobre su cabeza. La verdad es que el gato no se movió hasta la
 medianoche.
 Un hombre apareció en la esquina que el gato había estado observando, y lo hizo tan súbita y
@@ -230,7 +193,7 @@ poquito más prudentes, pero no… ¡Hasta los muggles se han dado cuenta de que
 noticias. —Torció la cabeza en dirección a la ventana del oscuro salón de los Dursley—. Lo he oído.
 Bandadas de lechuzas, estrellas fugaces… Bueno, no son totalmente estúpidos. Tenían que darse cuenta
 
-de algo. Estrellas fugaces cayendo en Kent… Seguro que fue Dedalus Diggle. Nunca tuvo mucho sentido
+de algo. Estrellas fugaces cayendo en Kent… Seguro que fue Dedalus Diggle. Nunca tuvo mucho sentido
 común.
 —No puede reprochárselo —dijo Dumbledore con tono afable—. Hemos tenido tan poco que
 celebrar durante once años…
@@ -272,7 +235,7 @@ dijera que era verdad. Dumbledore, sin embargo, estaba eligiendo otro caramelo y
 —Lo que están diciendo —insistió— es que la pasada noche Voldemort apareció en el valle de
 Godric. Iba a buscar a los Potter. El rumor es que Lily y James Potter están… están… bueno, que están
 
-muertos.
+muertos.
 Dumbledore inclinó la cabeza. La profesora McGonagall se quedó boquiabierta.
 —Lily y James… no puedo creerlo… No quiero creerlo… Oh, Albus…
 Dumbledore se acercó y le dio una palmada en la espalda.
@@ -314,7 +277,7 @@ pronto observó la capa del profesor, como si pensara que podía tener escondido
 —Hagrid lo traerá.
 —¿Le parece… sensato… confiar a Hagrid algo tan importante como eso?
 
-—A Hagrid, le confiaría mi vida —dijo Dumbledore.
+—A Hagrid, le confiaría mi vida —dijo Dumbledore.
 —No estoy diciendo que su corazón no esté donde debe estar —dijo a regañadientes la profesora
 McGonagall—. Pero no me dirá que no es descuidado. Tiene la costumbre de… ¿Qué ha sido eso?
 Un ruido sordo rompió el silencio que los rodeaba. Se fue haciendo más fuerte mientras ellos miraban
@@ -356,7 +319,7 @@ tres contemplaron el pequeño bulto. Los hombros de Hagrid se estremecieron. La 
 parpadeó furiosamente. La luz titilante que los ojos de Dumbledore irradiaban habitualmente parecía
 haberlos abandonado.
 
-—Bueno —dijo finalmente Dumbledore—, ya está. No tenemos nada que hacer aquí. Será mejor que
+—Bueno —dijo finalmente Dumbledore—, ya está. No tenemos nada que hacer aquí. Será mejor que
 nos vayamos y nos unamos a las celebraciones.
 —Ajá —respondió Hagrid con voz ronca—. Más vale que me deshaga de esta moto. Buenas noches,
 profesora McGonagall, profesor Dumbledore.
@@ -378,7 +341,7 @@ próximas semanas pinchado y pellizcado por su primo Dudley… No podía saber t
 mismo momento, las personas que se reunían en secreto por todo el país estaban levantando sus copas y
 diciendo, con voces quedas: «¡Por Harry Potter… el niño que vivió!»
 
-CAPÍTULO 2
+CAPÍTULO 2
 
 El vidrio que se desvaneció
 
@@ -405,7 +368,7 @@ anteriormente.
 Su tía volvió a la puerta.
 ABÍAN
 
-—¿Ya estás levantado? —quiso saber.
+—¿Ya estás levantado? —quiso saber.
 —Casi —respondió Harry.
 —Bueno, date prisa, quiero que vigiles el beicon. Y no te atrevas a dejar que se queme. Quiero que
 todo sea perfecto el día del cumpleaños de Duddy.
@@ -447,7 +410,7 @@ espacio. Entretanto, Dudley contaba sus regalos. Su cara se ensombreció.
 —Treinta y seis —dijo, mirando a su madre y a su padre—. Dos menos que el año pasado.
 —Querido, no has contado el regalo de tía Marge. Mira, está debajo de este grande de mamá y papá.
 
-—Muy bien, treinta y siete entonces —dijo Dudley, poniéndose rojo.
+—Muy bien, treinta y siete entonces —dijo Dudley, poniéndose rojo.
 Harry, que podía ver venir un gran berrinche de Dudley, comenzó a comerse el beicon lo más rápido
 posible, por si volcaba la mesa.
 Tía Petunia también sintió el peligro, porque dijo rápidamente:
@@ -489,7 +452,7 @@ Tía Petunia lo miró como si se hubiera tragado un limón.
 —No voy a quemar la casa —dijo Harry, pero no le escucharon.
 —Supongo que podemos llevarlo al zoológico —dijo en voz baja tía Petunia—… y dejarlo en el
 
-coche…
+coche…
 —El coche es nuevo, no se quedará allí solo…
 Dudley comenzó a llorar a gritos. En realidad no lloraba, hacía años que no lloraba de verdad, pero
 sabía que, si retorcía la cara y gritaba, su madre le daría cualquier cosa que quisiera.
@@ -531,7 +494,7 @@ grandes cubos que estaban detrás de la puerta de la cocina. Harry suponía que 
 levantado en medio de su salto.
 Pero aquel día nada iba a salir mal. Incluso estaba bien pasar el día con Dudley y Piers si eso
 
-significaba no tener que estar en el colegio, en su alacena, o en el salón de la señora Figg, con su olor a
+significaba no tener que estar en el colegio, en su alacena, o en el salón de la señora Figg, con su olor a
 repollo.
 Mientras conducía, tío Vernon se quejaba a tía Petunia. Le gustaba quejarse de muchas cosas. Harry,
 el ayuntamiento, Harry, el banco y Harry eran algunos de sus temas favoritos. Aquella mañana le tocó a
@@ -573,7 +536,7 @@ Tío Vernon golpeó con los nudillos, pero el animal siguió dormitando.
 —Esto es aburrido —se quejó Dudley. Se alejó arrastrando los pies.
 Harry se movió frente al vidrio y miró intensamente a la serpiente. Si él hubiera estado allí dentro,
 
-sin duda se habría muerto de aburrimiento, sin ninguna compañía, salvo la de gente estúpida golpeando el
+sin duda se habría muerto de aburrimiento, sin ninguna compañía, salvo la de gente estúpida golpeando el
 vidrio y molestando todo el día. Era peor que tener por dormitorio una alacena donde la única visitante
 era tía Petunia, llamando a la puerta para despertarlo: al menos, él podía recorrer el resto de la casa.
 De pronto, la serpiente abrió sus ojillos, pequeños y brillantes como cuentas. Lenta, muy lentamente,
@@ -615,7 +578,7 @@ El director del zoológico en persona preparó una taza de té fuerte y dulce pa
 disculpaba una y otra vez. Piers y Dudley no dejaban de quejarse. Por lo que Harry había visto, la
 serpiente no había hecho más que darles un golpe juguetón en los pies, pero cuando volvieron al asiento
 
-trasero del coche de tío Vernon, Dudley les contó que casi lo había mordido en la pierna, mientras Piers
+trasero del coche de tío Vernon, Dudley les contó que casi lo había mordido en la pierna, mientras Piers
 juraba que había intentado estrangularlo. Pero lo peor, para Harry al menos, fue cuando Piers se calmó y
 pudo decir:
 —Harry le estaba hablando. ¿Verdad, Harry?
@@ -648,7 +611,7 @@ En el colegio, Harry no tenía amigos. Todos sabían que el grupo de Dudley odia
 Harry Potter, con su ropa vieja y holgada y sus gafas rotas, y a nadie le gustaba estar en contra de la
 banda de Dudley.
 
-CAPÍTULO 3
+CAPÍTULO 3
 
 Las cartas de nadie
 
@@ -675,7 +638,7 @@ divertido.
 —No, gracias —respondió Harry—. Los pobres inodoros nunca han tenido que soportar nada tan
 horrible como tu cabeza y pueden marearse. —Luego salió corriendo antes de que Dudley pudiera
 
-entender lo que le había dicho.
+entender lo que le había dicho.
 Un día del mes de julio, tía Petunia llevó a Dudley a Londres para comprarle su uniforme de
 Smeltings, dejando a Harry en casa de la señora Figg. Aquello no resultó tan terrible como de costumbre.
 La señora Figg se había fracturado la pierna al tropezar con un gato y ya no parecía tan encariñada con
@@ -717,7 +680,7 @@ que parecía una factura, y una carta para Harry.
 Harry la recogió y la miró fijamente, con el corazón vibrando como una gigantesca banda elástica.
 Nadie, nunca, en toda su vida, le había escrito a él. ¿Quién podía ser? No tenía amigos ni otros parientes.
 
-Ni siquiera era socio de la biblioteca, así que nunca había recibido notas que le reclamaran la
+Ni siquiera era socio de la biblioteca, así que nunca había recibido notas que le reclamaran la
 devolución de libros. Sin embargo, allí estaba, una carta dirigida a él de una manera tan clara que no
 había equivocación posible.
 Señor H. Potter
@@ -757,7 +720,7 @@ Harry no se movió.
 —¡QUIERO MI CARTA! —gritó.
 —¡Déjame verla! —exigió Dudley.
 
-—¡FUERA! —gritó tío Vernon y, cogiendo a Harry y a Dudley por el cogote, los arrojó al recibidor y
+—¡FUERA! —gritó tío Vernon y, cogiendo a Harry y a Dudley por el cogote, los arrojó al recibidor y
 cerró la puerta de la cocina. Harry y Dudley iniciaron una lucha, furiosa pero callada, para ver quién
 espiaba por el ojo de la cerradura. Ganó Dudley, así que Harry, con las gafas colgando de una oreja, se
 tiró al suelo para escuchar por la rendija que había entre la puerta y el suelo.
@@ -799,7 +762,7 @@ Harry suspiró y se estiró en la cama. El día anterior habría dado cualquier 
 habitación. Pero en aquel momento prefería volver a su alacena con la carta a estar allí sin ella.
 A la mañana siguiente, durante el desayuno, todos estaban muy callados. Dudley se hallaba en estado
 
-de conmoción. Había gritado, había pegado a su padre con el bastón de Smeltings, se había puesto malo a
+de conmoción. Había gritado, había pegado a su padre con el bastón de Smeltings, se había puesto malo a
 propósito, le había dado una patada a su madre, arrojado la tortuga por el techo del invernadero, y seguía
 sin conseguir que le devolvieran su habitación. Harry estaba pensando en el día anterior, y con amargura
 pensó que ojalá hubiera abierto la carta en el vestíbulo. Tío Vernon y tía Petunia se miraban
@@ -839,7 +802,7 @@ tendrán que dejar de hacerlo.
 Vernon, tratando de dar golpes a un clavo con el pedazo de pastel de fruta que tía Petunia le acababa de
 llevar.
 
-El viernes, no menos de doce cartas llegaron para Harry. Como no las podían echar en el buzón, las
+El viernes, no menos de doce cartas llegaron para Harry. Como no las podían echar en el buzón, las
 habían pasado por debajo de la puerta, por entre las rendijas, y unas pocas por la ventanita del cuarto de
 baño de abajo.
 Tío Vernon se quedó en casa otra vez. Después de quemar todas las cartas, salió con el martillo y los
@@ -878,7 +841,7 @@ quería ver y nunca había pasado tanto tiempo sin hacer estallar un monstruo en
 Tío Vernon se detuvo finalmente ante un hotel de aspecto lúgubre, en las afueras de una gran ciudad.
 Dudley y Harry compartieron una habitación con camas gemelas y sábanas húmedas y gastadas. Dudley
 
-roncaba, pero Harry permaneció despierto, sentado en el borde de la ventana, contemplando las luces de
+roncaba, pero Harry permaneció despierto, sentado en el borde de la ventana, contemplando las luces de
 los coches que pasaban y deseando saber…
 Al día siguiente, comieron para el desayuno copos de trigo, tostadas y tomates de lata. Estaban a
 punto de terminar, cuando la dueña del hotel se acercó a la mesa.
@@ -917,7 +880,7 @@ este caballero aceptó gentilmente alquilarnos su bote!
 Un viejo desdentado se acercó a ellos, señalando un viejo bote que se balanceaba en el agua grisácea.
 —Ya he conseguido algo de comida —dijo tío Vernon—. ¡Así que todos a bordo!
 
-En el bote hacía un frío terrible. El mar congelado los salpicaba, la lluvia les golpeaba la cabeza y un
+En el bote hacía un frío terrible. El mar congelado los salpicaba, la lluvia les golpeaba la cabeza y un
 viento gélido les azotaba el rostro. Después de lo que pareció una eternidad, llegaron al peñasco, donde
 tío Vernon los condujo hasta la desvencijada casa.
 El interior era horrible: había un fuerte olor a algas, el viento se colaba por las rendijas de las
@@ -950,7 +913,7 @@ BUM.
 Toda la cabaña se estremeció y Harry se enderezó, mirando fijamente a la puerta. Alguien estaba
 fuera, llamando.
 
-CAPÍTULO 4
+CAPÍTULO 4
 
 El guardián de las llaves
 
@@ -978,7 +941,7 @@ Se desparramó en el sofá donde Dudley estaba petrificado de miedo.
 Dudley se escapó de allí y corrió a esconderse junto a su madre, que estaba agazapada detrás de tío
 Vernon.
 
-—¡Ah! ¡Aquí está Harry! —dijo el gigante.
+—¡Ah! ¡Aquí está Harry! —dijo el gigante.
 Harry levantó la vista ante el rostro feroz y peludo, y vio que los ojos negros le sonreían.
 —La última vez que te vi eras sólo una criatura —dijo el gigante—. Te pareces mucho a tu padre,
 pero tienes los ojos de tu madre.
@@ -1020,7 +983,7 @@ nadie parecía dispuesto a explicar nada, dijo:
 El gigante tomó un sorbo de té y se secó la boca con el dorso de la mano.
 —Llámame Hagrid —contestó—. Todos lo hacen. Y como te dije, soy el guardián de las llaves de
 
-Hogwarts. Ya lo sabrás todo sobre Hogwarts, por supuesto.
+Hogwarts. Ya lo sabrás todo sobre Hogwarts, por supuesto.
 —Pues… yo no… —dijo Harry.
 Hagrid parecía impresionado.
 —Lo lamento —dijo rápidamente Harry.
@@ -1062,7 +1025,7 @@ Tía Petunia dejó escapar un gemido de horror.
 —Voy a romperles la cabeza —dijo Hagrid—. Harry, debes saber que eres un mago.
 Se produjo un silencio en la cabaña. Sólo podía oírse el mar y el silbido del viento.
 
-—¿Que soy qué? —dijo Harry con voz entrecortada.
+—¿Que soy qué? —dijo Harry con voz entrecortada.
 —Un mago —respondió Hagrid, sentándose otra vez en el sofá, que crujió y se hundió—. Y muy
 bueno, debo añadir, en cuanto te hayas entrenado un poco. Con unos padres como los tuyos ¿qué otra cosa
 podías ser? Y creo que ya es hora de que leas la carta.
@@ -1101,7 +1064,7 @@ Hagrid gruñó.
 —Me gustaría ver a un gran muggle como usted deteniéndolo a él —dijo.
 —¿Un qué? —preguntó interesado Harry.
 
-—Un muggle —respondió Hagrid—. Es como llamamos a la gente «no-mágica» como ellos. Y tuviste
+—Un muggle —respondió Hagrid—. Es como llamamos a la gente «no-mágica» como ellos. Y tuviste
 la mala suerte de crecer en una familia de los más grandes muggles que haya visto.
 —Cuando lo adoptamos, juramos que íbamos a detener toda esa porquería —dijo tío Vernon—.
 ¡Juramos que la íbamos a sacar de él! ¡Un mago, ni más ni menos!
@@ -1143,7 +1106,7 @@ mago que se volvió… malo. Tan malo como te puedas imaginar. Peor. Peor que pe
 Hagrid tragó, pero no le salía la voz.
 —¿Quiere escribirlo? —sugirió Harry.
 
-—No… no sé cómo se escribe. Está bien… Voldemort. —Hagrid se estremeció—. No me lo hagas
+—No… no sé cómo se escribe. Está bien… Voldemort. —Hagrid se estremeció—. No me lo hagas
 repetir. De todos modos, este… este mago, hace unos veinte años, comenzó a buscar seguidores. Y los
 consiguió. Algunos porque le tenían miedo, otros sólo querían un poco de su poder, porque él iba
 consiguiendo poder. Eran días negros, Harry. No se sabía en quién confiar, uno no se animaba a hacerse
@@ -1185,7 +1148,7 @@ Es lo que yo esperaba: siempre supe que iban a terminar mal…
 Pero en aquel momento Hagrid se levantó del sofá y sacó de su abrigo un paraguas rosado. Apuntando
 a tío Vernon, como con una espada, dijo:
 
-—Le prevengo, Dursley, le estoy avisando, una palabra más y…
+—Le prevengo, Dursley, le estoy avisando, una palabra más y…
 Ante el peligro de ser alanceado por la punta de un paraguas empuñado por un gigante barbudo, el
 valor de tío Vernon desapareció otra vez. Se aplastó contra la pared y permaneció en silencio.
 —Así está mejor —dijo Hagrid, respirando con dificultad y sentándose otra vez en el sofá, que
@@ -1227,7 +1190,7 @@ hechizos, varitas y…
 Lily y James Potter para que no vaya a Hogwarts! Está loco. Su nombre está apuntado casi desde que
 nació. Irá al mejor colegio de magia del mundo. Siete años allí y no se conocerá a sí mismo. Estará con
 
-jóvenes de su misma clase, lo que será un cambio. Y estará con el más grande director que Hogwarts
+jóvenes de su misma clase, lo que será un cambio. Y estará con el más grande director que Hogwarts
 haya tenido: Albus Dumbled…
 —¡NO VOY A PAGAR PARA QUE ALGÚN CHIFLADO VIEJO TONTO LE ENSEÑE TRUCOS DE MAGIA! —gritó tío
 Vernon.
@@ -1257,7 +1220,7 @@ Se quitó su grueso abrigo negro y se lo entregó a Harry.
 —Puedes taparte con esto —dijo—. No te preocupes si algo se agita. Creo que todavía tengo lirones
 en un bolsillo.
 
-CAPÍTULO 5
+CAPÍTULO 5
 
 El callejón Diagon
 
@@ -1284,7 +1247,7 @@ Harry trató de apartar a la lechuza, pero ésta cerró el pico amenazadoramente
 abrigo.
 —¡Hagrid! —dijo Harry en voz alta—. Aquí hay una lechuza…
 
-—Págala —gruñó Hagrid desde el sofá.
+—Págala —gruñó Hagrid desde el sofá.
 —¿Qué?
 —Quiere que le pagues por traer el periódico. Busca en los bolsillos.
 El abrigo de Hagrid parecía hecho de bolsillos, con contenidos de todo tipo: manojos de llaves,
@@ -1326,7 +1289,7 @@ tormenta.
 —¿Volando?
 —Sí… pero vamos a regresar en esto. No debo utilizar la magia, ahora que ya te encontré.
 
-Subieron al bote. Harry todavía miraba a Hagrid, tratando de imaginárselo volando.
+Subieron al bote. Harry todavía miraba a Hagrid, tratando de imaginárselo volando.
 —Sin embargo, me parece una lástima tener que remar —dijo Hagrid, dirigiendo a Harry una mirada
 de soslayo—. Si yo… apresuro las cosas un poquito, ¿te importaría no mencionarlo en Hogwarts?
 —Por supuesto que no —respondió Harry, deseoso de ver más magia. Hagrid sacó otra vez el
@@ -1368,7 +1331,7 @@ La gente los miraba más que nunca en el tren. Hagrid ocupó dos asientos y come
 parecía una carpa de circo color amarillo canario.
 —¿Todavía tienes la carta, Harry? —preguntó, mientras contaba los puntos.
 
-Harry sacó del bolsillo el sobre de pergamino.
+Harry sacó del bolsillo el sobre de pergamino.
 —Bien —dijo Hagrid—. Hay una lista con todo lo que necesitas.
 Harry desdobló otra hoja, que no había visto la noche anterior, y leyó:
 COLEGIO HOGWARTS DE MAGIA
@@ -1409,7 +1372,7 @@ metro y se quejó en voz alta porque los asientos eran muy pequeños y los trene
 —No sé cómo los muggles se las arreglan sin magia —comentó, mientras subían por una escalera
 mecánica estropeada que los condujo a una calle llena de tiendas.
 
-Hagrid era tan corpulento que separaba fácilmente a la muchedumbre. Lo único que Harry tenía que
+Hagrid era tan corpulento que separaba fácilmente a la muchedumbre. Lo único que Harry tenía que
 hacer era mantenerse detrás de él. Pasaron ante librerías y tiendas de música, ante hamburgueserías y
 cines, pero en ningún lado parecía que vendieran varitas mágicas. Era una calle normal, llena de gente
 normal. ¿De verdad habría cantidades de oro de magos enterradas debajo de ellos? ¿Había allí realmente
@@ -1451,7 +1414,7 @@ Harry estrechó manos una y otra vez. Doris Crockford volvió a repetir el salud
 Un joven pálido se adelantó, muy nervioso. Tenía un tic en el ojo.
 —¡Profesor Quirrell! —dijo Hagrid—. Harry, el profesor Quirrell te dará clases en Hogwarts.
 
-—P-P-Potter —tartamudeó el profesor Quirrell, apretando la mano de Harry—. N-no pue-e-do
+—P-P-Potter —tartamudeó el profesor Quirrell, apretando la mano de Harry—. N-no pue-e-do
 decirte l-lo contento que-e estoy de co-conocerte.
 —¿Qué clase de magia enseña usted, profesor Quirrell?
 —D-Defensa Contra las Artes O-Oscuras —murmuró el profesor Quirrell, como si no quisiera
@@ -1492,7 +1455,7 @@ compras. Una mujer regordeta negaba con la cabeza en la puerta de una droguería
 diciendo: «Hígado de dragón a dieciséis sickles la onza, están locos…»
 Un suave ulular llegaba de una tienda oscura que tenía un rótulo que decía: «Emporio de la Lechuza.
 
-Color pardo, castaño, gris y blanco.» Varios chicos de la edad de Harry pegaban la nariz contra un
+Color pardo, castaño, gris y blanco.» Varios chicos de la edad de Harry pegaban la nariz contra un
 escaparate lleno de escobas. «Mirad —oyó Harry que decía uno—, la nueva Nimbus 2000, la más
 veloz.» Algunas tiendas vendían ropa; otras, telescopios y extraños instrumentos de plata que Harry nunca
 había visto. Escaparates repletos de bazos de murciélagos y ojos de anguilas, tambaleantes montones de
@@ -1533,7 +1496,7 @@ El duende la examinó de cerca.
 sobre lo-que-usted-sabe, en la cámara setecientos trece.
 El duende leyó la carta cuidadosamente.
 
-—Muy bien —dijo, devolviéndosela a Hagrid—. Voy a hacer que alguien los acompañe abajo, a las
+—Muy bien —dijo, devolviéndosela a Hagrid—. Voy a hacer que alguien los acompañe abajo, a las
 dos cámaras. ¡Griphook!
 Griphook era otro duende. Cuando Hagrid guardó todas las galletas de perro en sus bolsillos, él y
 Harry siguieron a Griphook hacia una de las puertas de salida del vestíbulo.
@@ -1575,7 +1538,7 @@ Fueron más abajo y a mayor velocidad. El aire se volvió cada vez más frío, m
 estrechos recodos. Llegaron entre sacudidas al otro lado de una hondonada subterránea, y Harry se
 inclinó hacia un lado para ver qué había en el fondo oscuro, pero Hagrid gruñó y lo enderezó, cogiéndolo
 
-del cuello.
+del cuello.
 La cámara setecientos trece no tenía cerradura.
 —Un paso atrás —dijo Griphook, dándose importancia. Tocó la puerta con uno de sus largos dedos y
 ésta desapareció—. Si alguien que no sea un duende de Gringotts lo intenta, será succionado por la puerta
@@ -1616,7 +1579,7 @@ Harry recordaba a Dudley.
 —No —dijo de nuevo Harry, preguntándose qué diablos sería el quidditch.
 —Yo sí. Papá dice que sería un crimen que no me eligieran para jugar por mi casa, y la verdad es que
 
-estoy de acuerdo. ¿Ya sabes en qué casa vas a estar?
+estoy de acuerdo. ¿Ya sabes en qué casa vas a estar?
 —No —dijo Harry, sintiéndose cada vez más tonto.
 —Bueno, nadie lo sabrá realmente hasta que lleguemos allí, pero yo sé que seré de Slytherin, porque
 toda mi familia fue de allí. ¿Te imaginas estar en Hufflepuff? Yo creo que me iría, ¿no te parece?
@@ -1658,7 +1621,7 @@ Madame Malkin.
 —… y dijo que la gente de familia de muggles no deberían poder ir…
 —Tú no eres de una familia muggle. Si hubiera sabido quién eres… Él ha crecido conociendo tu
 
-nombre, si sus padres son magos. Ya lo has visto en el Caldero Chorreante. De todos modos, qué sabe él,
+nombre, si sus padres son magos. Ya lo has visto en el Caldero Chorreante. De todos modos, qué sabe él,
 algunos de los mejores que he conocido eran los únicos con magia en una larga línea de muggles. ¡Mira tu
 madre! ¡Y mira la hermana que tuvo!
 —Entonces ¿qué es el quidditch?
@@ -1700,7 +1663,7 @@ pasaron de moda hace años, se burlarán… y no me gustan los gatos, me hacen e
 regalar una lechuza. Todos los chicos quieren tener una lechuza. Son muy útiles, llevan tu
 correspondencia y todo lo demás.
 
-Veinte minutos más tarde, salieron del Emporio de la Lechuza, que era oscuro y lleno de ojos
+Veinte minutos más tarde, salieron del Emporio de la Lechuza, que era oscuro y lleno de ojos
 brillantes, susurros y aleteos. Harry llevaba una gran jaula con una hermosa lechuza blanca, medio
 dormida, con la cabeza debajo de un ala. Y no dejó de agradecer el regalo, tartamudeando como el
 profesor Quirrell.
@@ -1742,7 +1705,7 @@ Negó con la cabeza y entonces, para alivio de Harry, fijó su atención en Hagr
 —¡Rubeus! ¡Rubeus Hagrid! Me alegro de verlo otra vez… Roble, cuarenta centímetros y medio,
 flexible… ¿Era así?
 
-—Así era, sí, señor —dijo Hagrid.
+—Así era, sí, señor —dijo Hagrid.
 —Buena varita. Pero supongo que la partieron en dos cuando lo expulsaron —dijo el señor
 Ollivander, súbitamente severo.
 —Eh…, sí, eso hicieron, sí —respondió Hagrid, arrastrando los pies—. Sin embargo, todavía tengo
@@ -1784,7 +1747,7 @@ el señor Ollivander dijo:
 Puso la varita de Harry en su caja y la envolvió en papel de embalar, todavía murmurando:
 «Curioso… muy curioso.»
 
-—Perdón —dijo Harry—. Pero ¿qué es tan curioso?
+—Perdón —dijo Harry—. Pero ¿qué es tan curioso?
 El señor Ollivander fijó en Harry su mirada pálida.
 —Recuerdo cada varita que he vendido, Harry Potter. Cada una de las varitas. Y resulta que la cola
 de fénix de donde salió la pluma que está en tu varita dio otra pluma, sólo una más. Y realmente es muy
@@ -1823,7 +1786,7 @@ veré pronto, Harry.
 El tren arrancó de la estación. Harry deseaba ver a Hagrid hasta que se perdiera de vista. Se levantó
 del asiento y apretó la nariz contra la ventanilla, pero parpadeó y Hagrid ya no estaba.
 
-CAPÍTULO 6
+CAPÍTULO 6
 
 El viaje desde el andén nueve y tres cuartos
 
@@ -1850,7 +1813,7 @@ Tío Vernon gruñó, para demostrar que lo escuchaba.
 —Hum… necesito estar mañana en King's Cross para… para ir a Hogwarts.
 Tío Vernon gruñó otra vez.
 
-—¿Podría ser que me lleves hasta allí?
+—¿Podría ser que me lleves hasta allí?
 Otro gruñido. Harry interpretó que quería decir sí.
 —Muchas gracias.
 Estaba a punto de volver a subir la escalera, cuando tío Vernon finalmente habló.
@@ -1891,7 +1854,7 @@ seca. ¿Qué haría? Estaba llamando la atención, a causa de Hedwig. Tendría q
 Detuvo a un guarda que pasaba, pero no se atrevió a mencionar el andén nueve y tres cuartos. El
 guarda nunca había oído hablar de Hogwarts, y cuando Harry no pudo decirle en qué parte del país
 
-quedaba, comenzó a molestarse, como si pensara que Harry se hacía el tonto a propósito. Sin saber qué
+quedaba, comenzó a molestarse, como si pensara que Harry se hacía el tonto a propósito. Sin saber qué
 hacer, Harry le preguntó por el tren que salía a las once, pero el guarda le dijo que no había ninguno. Al
 final, el guarda se alejó, murmurando algo sobre la gente que hacía perder el tiempo. Según el gran reloj
 que había sobre la tabla de horarios de llegada, tenía diez minutos para coger el tren a Hogwarts y no
@@ -1933,7 +1896,7 @@ y una larga nariz.
 entre los dos andenes. No te detengas y no tengas miedo de chocar, eso es muy importante. Lo mejor es ir
 deprisa, si estás nervioso. Ve ahora, ve antes que Ron.
 
-—Hum… De acuerdo —dijo Harry.
+—Hum… De acuerdo —dijo Harry.
 Empujó su carrito y se dirigió hacia la barrera. Parecía muy sólida.
 Comenzó a andar. La gente que andaba a su alrededor iba al andén nueve o al diez. Fue más rápido.
 Iba a chocar contra la taquilla y tendría problemas. Se inclinó sobre el carrito y comenzó a correr (la
@@ -1975,7 +1938,7 @@ Los dos muchachos lo miraron boquiabiertos y Harry sintió que se ruborizaba. En
 alivio, una voz llegó a través de la puerta abierta del compartimiento.
 —¿Fred? ¿George? ¿Estáis ahí?
 
-—Ya vamos, mamá.
+—Ya vamos, mamá.
 Con una última mirada a Harry, los gemelos saltaron del vagón.
 Harry se sentó al lado de la ventanilla. Desde allí, medio oculto, podía observar a la familia de
 pelirrojos en el andén y oír lo que decían. La madre acababa de sacar un pañuelo.
@@ -2017,7 +1980,7 @@ quién es?
 —¿Quién?
 —¡Harry Potter!
 
-Harry oyó la voz de la niña.
+Harry oyó la voz de la niña.
 —Mamá, ¿puedo subir al tren para verlo? ¡Oh, mamá, por favor…!
 —Ya lo has visto, Ginny y, además, el pobre chico no es algo para que lo mires como en el
 zoológico. ¿Es él realmente, Fred? ¿Cómo lo sabes?
@@ -2059,7 +2022,7 @@ Ron, nuestro hermano. Nos veremos después, entonces.
 Harry asintió.
 —Oh… bien, pensé que podía ser una de las bromas de Fred y George —dijo Ron—. ¿Y realmente te
 
-hiciste eso… ya sabes…?
+hiciste eso… ya sabes…?
 Señaló la frente de Harry.
 Harry se levantó el flequillo para enseñarle la luminosa cicatriz. Ron la miró con atención.
 —¿Así que eso es lo que Quien-tú-sabes…?
@@ -2101,7 +2064,7 @@ Ron bufó.
 —Has pronunciado el nombre de Quien-tú-sabes —dijo Ron, tan conmocionado como impresionado
 —. Yo creí que tú, entre todas las personas…
 
-—No estoy tratando de hacerme el valiente, ni nada por el estilo, al decir el nombre —dijo Harry—.
+—No estoy tratando de hacerme el valiente, ni nada por el estilo, al decir el nombre —dijo Harry—.
 Es que no sabía que no debía decirlo. ¿Ves lo que te decía? Tengo muchísimas cosas que aprender…
 Seguro —añadió, diciendo por primera vez en voz alta algo que últimamente lo preocupaba mucho—,
 seguro que seré el peor de la clase.
@@ -2143,7 +2106,7 @@ hombre. Llevaba gafas de media luna, tenía una nariz larga y encorvada, cabello
 bigotes. Debajo de la foto estaba el nombre: Albus Dumbledore.
 —¡Así que éste es Dumbledore! —dijo Harry.
 
-—¡No me digas que nunca has oído hablar de Dumbledore! —dijo Ron—. ¿Puedo servirme una rana?
+—¡No me digas que nunca has oído hablar de Dumbledore! —dijo Ron—. ¿Puedo servirme una rana?
 Podría encontrar a Agripa… Gracias…
 Harry dio la vuelta a la tarjeta y leyó:
 Albus Dumbledore, actualmente director de Hogwarts. Considerado por casi todo el mundo como
@@ -2184,7 +2147,7 @@ Cuando los dos negaron con la cabeza, gimió.
 Se fue.
 —No sé por qué está tan triste —comentó Ron—. Si yo hubiera traído un sapo, lo habría perdido lo
 
-más rápidamente posible. Aunque en realidad he traído a Scabbers, así que no puedo hablar.
+más rápidamente posible. Aunque en realidad he traído a Scabbers, así que no puedo hablar.
 La rata seguía durmiendo en las rodillas de Ron.
 —Podría estar muerta y no notarías la diferencia —dijo Ron con disgusto—. Ayer traté de volverla
 amarilla para hacerla más interesante, pero el hechizo no funcionó. Te lo voy a enseñar, mira…
@@ -2226,7 +2189,7 @@ Y se marchó, llevándose al chico sin sapo.
 baúl—. Qué hechizo más estúpido, me lo dijo George. Seguro que era falso.
 —¿En qué casa están tus hermanos? —preguntó Harry.
 
-—Gryffindor —dijo Ron. Otra vez parecía deprimido—. Mamá y papá también estuvieron allí. No sé
+—Gryffindor —dijo Ron. Otra vez parecía deprimido—. Mamá y papá también estuvieron allí. No sé
 qué van a decir si yo no estoy. No creo que Ravenclaw sea tan mala, pero imagina si me ponen en
 Slytherin.
 —¿Ésa es la casa en la que Vol… quiero decir Quien-tú-sabes… estaba?
@@ -2267,7 +2230,7 @@ Ron dejó escapar una débil tos, que podía estar ocultando una risita. Draco (
 que todos los Weasley son pelirrojos, con pecas y más hijos que los que pueden mantener.
 Se volvió hacia Harry.
 
-—Muy pronto descubrirás que algunas familias de magos son mucho mejores que otras, Potter. No
+—Muy pronto descubrirás que algunas familias de magos son mucho mejores que otras, Potter. No
 querrás hacerte amigo de los de la clase indebida. Yo puedo ayudarte en eso.
 Extendió la mano, para estrechar la de Harry, pero Harry no la aceptó.
 —Creo que puedo darme cuenta solo de cuáles son los indebidos, gracias —dijo con frialdad.
@@ -2309,7 +2272,7 @@ importaría salir para que nos cambiemos?
 Hermione en tono despectivo—. A propósito, ¿te has dado cuenta de que tienes sucia la nariz?
 Ron le lanzó una mirada de furia mientras ella salía. Harry miró por la ventanilla. Estaba
 
-oscureciendo. Podía ver montañas y bosques, bajo un cielo de un profundo color púrpura. El tren parecía
+oscureciendo. Podía ver montañas y bosques, bajo un cielo de un profundo color púrpura. El tren parecía
 aminorar la marcha.
 Él y Ron se quitaron las camisas y se pusieron las largas túnicas negras. La de Ron era un poco corta
 para él, y se le podían ver los pantalones de gimnasia.
@@ -2351,12 +2314,12 @@ bajaba de ellos.
 —¡Trevor! —gritó Neville, muy contento, extendiendo las manos. Luego subieron por un pasadizo en
 la roca, detrás de la lámpara de Hagrid, saliendo finalmente a un césped suave y húmedo, a la sombra del
 
-castillo.
+castillo.
 Subieron por unos escalones de piedra y se reunieron ante la gran puerta de roble.
 —¿Estáis todos aquí? Tú, ¿todavía tienes tu sapo?
 Hagrid levantó un gigantesco puño y llamó tres veces a la puerta del castillo.
 
-CAPÍTULO 7
+CAPÍTULO 7
 
 El sombrero seleccionador
 
@@ -2383,7 +2346,7 @@ seleccionados para vuestras casas. La Selección es una ceremonia muy importante
 estéis aquí, vuestras casas serán como vuestra familia en Hogwarts. Tendréis clases con el resto de la
 casa que os toque, dormiréis en los dormitorios de vuestras casas y pasaréis el tiempo libre en la sala
 
-común de la casa.
+común de la casa.
 »Las cuatro casas se llaman Gryffindor, Hufflepuff, Ravenclaw y Slytherin. Cada casa tiene su propia
 noble historia y cada una ha producido notables brujas y magos. Mientras estéis en Hogwarts, vuestros
 triunfos conseguirán que las casas ganen puntos, mientras que cualquier infracción de las reglas hará que
@@ -2425,7 +2388,7 @@ Algunos asintieron.
 —¡Espero veros en Hufflepuff —continuó el Fraile—. Mi antigua casa, ya sabéis.
 —En marcha —dijo una voz aguda—. La Ceremonia de Selección va a comenzar.
 
-La profesora McGonagall había vuelto. Uno a uno, los fantasmas flotaron a través de la pared
+La profesora McGonagall había vuelto. Uno a uno, los fantasmas flotaron a través de la pared
 opuesta.
 —Ahora formad una hilera —dijo la profesora a los de primer año— y seguidme.
 Con la extraña sensación de que sus piernas eran de plomo, Harry se puso detrás de un chico de pelo
@@ -2468,7 +2431,7 @@ Su osadía, temple y caballerosidad
 ponen aparte a los de Gryffindor.
 Puedes pertenecer a Hufflepuff,
 
-donde son justos y leales.
+donde son justos y leales.
 Esos perseverantes Hufflepuff
 de verdad no temen el trabajo pesado.
 O tal vez a la antigua sabiduría de Ravenclaw,
@@ -2511,7 +2474,7 @@ Bulstrode, Millicent fue a Slytherin. Tal vez era la imaginación de Harry, desp
 había oído sobre Slytherin, pero le pareció que era un grupo desagradable.
 Comenzaba a sentirse decididamente mal. Recordó lo que pasaba en las clases de gimnasia de su
 
-antiguo colegio, cuando se escogían a los jugadores para los equipos. Siempre había sido el último en ser
+antiguo colegio, cuando se escogían a los jugadores para los equipos. Siempre había sido el último en ser
 elegido, no porque fuera malo, sino porque nadie deseaba que Dudley pensara que lo querían.
 —¡Finch-Fletchley, Justin!
 —¡HUFFLEPUFF!
@@ -2553,7 +2516,7 @@ Harry oyó al sombrero gritar la última palabra a todo el comedor. Se quitó el
 algo mareado, hacia la mesa de Gryffindor. Estaba tan aliviado de que lo hubiera elegido y no lo hubiera
 puesto en Slytherin, que casi no se dio cuenta de que recibía los saludos más calurosos hasta el momento.
 
-Percy el prefecto se puso de pie y le estrechó la mano vigorosamente, mientras los gemelos Weasley
+Percy el prefecto se puso de pie y le estrechó la mano vigorosamente, mientras los gemelos Weasley
 gritaban: «¡Tenemos a Potter! ¡Tenemos a Potter!» Harry se sentó en el lado opuesto al fantasma que
 había visto antes. Éste le dio una palmada en el brazo, dándole la horrible sensación de haberlo metido
 en un cubo de agua helada.
@@ -2595,7 +2558,7 @@ con un poco de todo, salvo los bombones de menta, y comenzó a comer. Todo estab
 —No he comido desde hace unos quinientos años —dijo el fantasma—. No lo necesito, por supuesto,
 pero uno lo echa de menos. Creo que no me he presentado, ¿verdad? Sir Nicholas de Mimsy-Porpington a
 
-su servicio. Fantasma Residente de la Torre de Gryffindor.
+su servicio. Fantasma Residente de la Torre de Gryffindor.
 —¡Yo sé quién es usted! —dijo súbitamente Ron—. Mi hermano me lo contó. ¡Usted es Nick Casi
 Decapitado!
 —Yo preferiría que me llamaran Sir Nicholas de Mimsy… —comenzó a decir el fantasma con
@@ -2637,7 +2600,7 @@ empiecen en seguida, hay mucho que aprender, yo estoy particularmente interesada
 ya sabes, convertir algo en otra cosa, por supuesto parece ser que es muy difícil. Hay que empezar con
 cosas pequeñas, como cerillas en agujas y todo eso…»)
 
-Harry, que comenzaba a sentirse reconfortado y soñoliento, miró otra vez hacia la mesa de los
+Harry, que comenzaba a sentirse reconfortado y soñoliento, miró otra vez hacia la mesa de los
 profesores. Hagrid bebía copiosamente de su copa. McGonagall hablaba con el profesor Dumbledore. El
 profesor Quirrell, con su absurdo turbante, conversaba con un profesor de grasiento pelo negro, nariz
 ganchuda y piel cetrina.
@@ -2679,7 +2642,7 @@ elevó sobre las mesas, se agitó como una serpiente y se transformó en palabra
 Y todo el colegio vociferó:
 Hogwarts, Hogwarts, Hogwarts,
 
-enséñanos algo, por favor.
+enséñanos algo, por favor.
 Aunque seamos viejos y calvos
 o jóvenes con rodillas sucias,
 nuestras mentes pueden ser llenadas
@@ -2721,7 +2684,7 @@ Al final del pasillo colgaba un retrato de una mujer muy gorda, con un vestido d
 —¿Santo y seña? —preguntó.
 —Caput draconis —dijo Percy, y el retrato se balanceó hacia delante y dejó ver un agujero redondo
 
-en la pared. Todos se amontonaron para pasar (Neville necesitó ayuda) y se encontraron en la sala común
+en la pared. Todos se amontonaron para pasar (Neville necesitó ayuda) y se encontraron en la sala común
 de Gryffindor, una habitación redonda y acogedora, llena de cómodos sillones.
 Percy condujo a las niñas a través de una puerta, hacia sus dormitorios, y a los niños por otra puerta.
 Al final de una escalera de caracol (era evidente que estaban en una de las torres) encontraron, por fin,
@@ -2741,7 +2704,7 @@ verde y Harry se despertó, temblando y empapado en sudor.
 Se dio la vuelta y se volvió a dormir. Al día siguiente, cuando se despertó, no recordaba nada de
 aquel sueño.
 
-CAPÍTULO 8
+CAPÍTULO 8
 
 El profesor de pociones
 , mira.
@@ -2767,7 +2730,7 @@ unos a otros, y Harry estaba seguro de que las armaduras podían andar.
 Los fantasmas tampoco ayudaban. Siempre era una desagradable sorpresa que alguno se deslizara
 súbitamente a través de la puerta que se intentaba abrir. Nick Casi Decapitado siempre se sentía contento
 
-de señalar el camino indicado a los nuevos Gryffindors, pero Peeves el poltergeist se encargaba de poner
+de señalar el camino indicado a los nuevos Gryffindors, pero Peeves el poltergeist se encargaba de poner
 puertas cerradas y escaleras con trampas en el camino de los que llegaban tarde a clase. También les
 tiraba papeleras a la cabeza, corría las alfombras debajo de los pies del que pasaba, les tiraba tizas o,
 invisible, se deslizaba por detrás, cogía la nariz de alguno y gritaba: ¡TENGO TU NARIZ!
@@ -2809,7 +2772,7 @@ muy impresionados y no aguantaban las ganas de empezar, pero muy pronto se diero
 pasaría mucho tiempo antes de que pudieran transformar muebles en animales. Después de hacer una
 cantidad de complicadas anotaciones, les dio a cada uno una cerilla para que intentaran convertirla en
 
-una aguja. Al final de la clase, sólo Hermione Granger había hecho algún cambio en la cerilla. La
+una aguja. Al final de la clase, sólo Hermione Granger había hecho algún cambio en la cerilla. La
 profesora McGonagall mostró a todos cómo se había vuelto plateada y puntiaguda, y dedicó a la niña una
 excepcional sonrisa.
 La clase que todos esperaban era Defensa Contra las Artes Oscuras, pero las lecciones de Quirrell
@@ -2850,7 +2813,7 @@ Fue una suerte que Hagrid hubiera invitado a Harry a tomar el té, porque la cla
 ser la peor cosa que le había ocurrido allí, hasta entonces.
 Al comenzar el banquete de la primera noche, Harry había pensado que no le caía bien al profesor
 
-Snape. Pero al final de la primera clase de Pociones supo que no se había equivocado. No era sólo que a
+Snape. Pero al final de la primera clase de Pociones supo que no se había equivocado. No era sólo que a
 Snape no le gustara Harry: lo detestaba.
 Las clases de Pociones se daban abajo, en un calabozo. Hacía mucho más frío allí que arriba, en la
 parte principal del castillo, y habría sido igualmente tétrico sin todos aquellos animales conservados,
@@ -2892,7 +2855,7 @@ y hongos?
 Snape seguía haciendo caso omiso de la mano temblorosa de Hermione.
 —¿Cuál es la diferencia, Potter, entre acónito y luparia?
 
-Ante eso, Hermione se puso de pie, con el brazo extendido hacia el techo de la mazmorra.
+Ante eso, Hermione se puso de pie, con el brazo extendido hacia el techo de la mazmorra.
 —No lo sé —dijo Harry con calma—. Pero creo que Hermione lo sabe. ¿Por qué no se lo pregunta a
 ella?
 Unos pocos rieron. Harry captó la mirada de Seamus, que le guiñó un ojo. Snape, sin embargo, no
@@ -2934,7 +2897,7 @@ de goma estaban al lado de la puerta delantera.
 Cuando Harry llamó a la puerta, oyeron unos frenéticos rasguños y varios ladridos. Luego se oyó la
 voz de Hagrid, diciendo:
 
-—Atrás, Fang, atrás.
+—Atrás, Fang, atrás.
 La gran cara peluda de Hagrid apareció al abrirse la puerta.
 —Entrad —dijo—. Atrás, Fang.
 Los dejó entrar, tirando del collar de un imponente perro negro.
@@ -2975,7 +2938,7 @@ saben lo que les conviene», declaró esta tarde un duende portavoz de Gringotts
 Harry recordó que Ron le había contado en el tren que alguien había tratado de robar en Gringotts,
 pero su amigo no había mencionado la fecha.
 
-—¡Hagrid! —dijo Harry—. ¡Ese robo en Gringotts sucedió el día de mi cumpleaños! ¡Pudo haber
+—¡Hagrid! —dijo Harry—. ¡Ese robo en Gringotts sucedió el día de mi cumpleaños! ¡Pudo haber
 sucedido mientras estábamos allí!
 Aquella vez no tuvo dudas: Hagrid decididamente evitó su mirada. Gruñó y le ofreció más pastel.
 Harry volvió a leer la nota. «La cámara que se registró había sido vaciada aquel mismo día.» Hagrid
@@ -2986,7 +2949,7 @@ fueron demasiado amables para rechazar, Harry pensaba que ninguna de las clases 
 reflexionar tanto como aquella merienda con Hagrid. ¿Hagrid habría sacado el paquete justo a tiempo?
 ¿Dónde podía estar? ¿Sabría algo sobre Snape que no quería decirle?
 
-CAPÍTULO 9
+CAPÍTULO 9
 
 El duelo a medianoche
 
@@ -3013,7 +2976,7 @@ constantemente de quidditch. Ron ya había tenido una gran discusión con Dean T
 dormitorio con ellos, sobre fútbol. Ron no podía ver qué tenía de excitante un juego con una sola pelota,
 donde nadie podía volar. Harry había descubierto a Ron tratando de animar un cartel de Dean en que
 
-aparecía el equipo de fútbol de West Ham, para hacer que los jugadores se movieran.
+aparecía el equipo de fútbol de West Ham, para hacer que los jugadores se movieran.
 Neville no había tenido una escoba en toda su vida, porque su abuela no se lo permitía. Harry pensó
 que ella había actuado correctamente, dado que Neville se las ingeniaba para tener un número
 extraordinario de accidentes, incluso con los dos pies en tierra.
@@ -3054,7 +3017,7 @@ un halcón.
 Harry miró su escoba. Era vieja y algunas de las ramitas de paja sobresalían formando ángulos
 extraños.
 
-—Extended la mano derecha sobre la escoba —les indicó la señora Hooch— y decid «arriba».
+—Extended la mano derecha sobre la escoba —les indicó la señora Hooch— y decid «arriba».
 —¡ARRIBA! —gritaron todos.
 La escoba de Harry saltó de inmediato en sus manos, pero fue uno de los pocos que lo consiguió. La
 de Hermione Granger no hizo más que rodar por el suelo y la de Neville no se movió en absoluto. «A lo
@@ -3096,7 +3059,7 @@ copa de un árbol?
 sabía volar. Desde las ramas más altas de un roble lo llamó:
 —¡Ven a buscarla, Potter!
 
-Harry cogió su escoba.
+Harry cogió su escoba.
 —¡No! —gritó Hermione Granger—. La señora Hooch dijo que no nos moviéramos. Nos vas a meter
 en un lío.
 Harry no le hizo caso. Le ardían las orejas. Se montó en su escoba, pegó una fuerte patada y subió. El
@@ -3138,7 +3101,7 @@ a la puerta de su casa?
 Subieron por los peldaños delanteros y después por la escalera de mármol. La profesora McGonagall
 seguía sin hablar. Abría puertas y andaba por los pasillos, con Harry corriendo tristemente tras ella. Tal
 
-vez lo llevaba ante Dumbledore. Pensó en Hagrid, expulsado, pero con permiso para quedarse como
+vez lo llevaba ante Dumbledore. Pensó en Hagrid, expulsado, pero con permiso para quedarse como
 guardabosque. Quizá podría ser el ayudante de Hagrid. Se le revolvió el estómago al imaginarse
 observando a Ron y los otros convirtiéndose en magos, mientras él andaba por ahí, llevando la bolsa de
 Hagrid.
@@ -3179,7 +3142,7 @@ Luego, súbitamente, sonrió.
 —Tu padre habría estado orgulloso —dijo—. Era un excelente jugador de quidditch.
 —Es una broma.
 
-Era la hora de la cena. Harry había terminado de contarle a Ron todo lo sucedido cuando dejó el
+Era la hora de la cena. Harry había terminado de contarle a Ron todo lo sucedido cuando dejó el
 parque con la profesora McGonagall. Ron tenía un trozo de pastel de carne y riñones en el tenedor, pero
 se olvidó de llevárselo a la boca.
 —¿Buscador? —dijo—. Pero los de primer año nunca… Serías el jugador más joven en…
@@ -3221,7 +3184,7 @@ negaras.
 —¿Y si levanto mi varita y no sucede nada?
 —La tiras y le das un puñetazo en la nariz —le sugirió Ron.
 
-—Disculpad.
+—Disculpad.
 Los dos miraron. Era Hermione Granger.
 —¿No se puede comer en paz en este lugar? —dijo Ron.
 Hermione no le hizo caso y se dirigió a Harry.
@@ -3262,7 +3225,7 @@ Pero lo que eran no lo supieron. Hermione había retrocedido hasta el retrato de
 volver, y descubrió que la tela estaba vacía. La Dama Gorda se había ido a una visita nocturna y
 Hermione estaba encerrada, fuera de la torre de Gryffindor.
 
-—¿Y ahora qué voy a hacer? —preguntó con tono agudo.
+—¿Y ahora qué voy a hacer? —preguntó con tono agudo.
 —Ése es tu problema —dijo Ron—. Nosotros tenemos que irnos o llegaremos tarde.
 No habían llegado al final del pasillo cuando Hermione los alcanzó.
 —Voy con vosotros —dijo.
@@ -3304,7 +3267,7 @@ Era Filch, hablando con la Señora Norris. Aterrorizado, Harry gesticuló salvaj
 demás lo siguieran lo más rápido posible. Se escurrieron silenciosamente hacia la puerta más alejada de
 la voz de Filch. Neville acababa de pasar, cuando oyeron que Filch entraba en el salón de los trofeos.
 
-—Tienen que estar en algún lado —lo oyeron murmurar—. Probablemente se han escondido.
+—Tienen que estar en algún lado —lo oyeron murmurar—. Probablemente se han escondido.
 —¡Por aquí! —señaló Harry a los otros y, aterrados, comenzaron a atravesar una larga galería, llena
 de armaduras. Podían oír los pasos de Filch, acercándose a ellos. Súbitamente, Neville dejó escapar un
 chillido de miedo y empezó a correr, tropezó, se aferró a la muñeca de Ron y se golpearon contra una
@@ -3347,7 +3310,7 @@ gritos de Peeves.
 El pestillo hizo un clic y la puerta se abrió. Pasaron todos, la cerraron rápidamente y se quedaron
 escuchando.
 
-—¿Adónde han ido, Peeves? —decía Filch—. Rápido, dímelo.
+—¿Adónde han ido, Peeves? —decía Filch—. Rápido, dímelo.
 —Di «por favor».
 —No me fastidies, Peeves. Dime adónde fueron.
 —Te diré algo si me lo pides por favor —dijo Peeves, con su molesta vocecita.
@@ -3389,14 +3352,14 @@ Se puso de pie, mirándolos indignada.
 importa, me voy a la cama.
 Ron la contempló boquiabierto.
 
-—No, no nos importa —dijo—. Nosotros no la hemos arrastrado, ¿no?
+—No, no nos importa —dijo—. Nosotros no la hemos arrastrado, ¿no?
 Pero Hermione le había dado a Harry algo más para pensar, mientras se metía en la cama. El perro
 vigilaba algo… ¿Qué había dicho Hagrid? Gringotts era el lugar más seguro del mundo para cualquier
 cosa que uno quisiera ocultar… excepto tal vez Hogwarts.
 Parecía que Harry había descubierto dónde estaba el paquetito arrugado de la cámara setecientos
 trece.
 
-CAPÍTULO 10
+CAPÍTULO 10
 
 Halloween
 
@@ -3423,7 +3386,7 @@ de inmediato en un paquete largo y delgado, que llevaban seis lechuzas blancas. 
 interesado como los demás en ver qué contenía, y se sorprendió mucho cuando las lechuzas bajaron y
 dejaron el paquete frente a él, tirando al suelo su tocino. Se estaban alejando, cuando otra lechuza dejó
 
-caer una carta sobre el paquete.
+caer una carta sobre el paquete.
 Harry abrió el sobre para leer primero la carta y fue una suerte, porque decía:
 NO ABRAS EL PAQUETE EN LA MESA. Contiene tu nueva Nimbus 2000, pero no quiero que todos sepan
 
@@ -3465,7 +3428,7 @@ noche aprendería a jugar. Durante la cena comió sin darse cuenta de lo que tra
 subir con Ron, para sacar, por fin, a la Nimbus 2000 de su paquete.
 —Oh —suspiró Ron, cuando la escoba rodó sobre la colcha de la cama de Harry.
 
-Hasta Harry, que no sabía nada sobre las diferencias en las escobas, pensó que parecía maravillosa.
+Hasta Harry, que no sabía nada sobre las diferencias en las escobas, pensó que parecía maravillosa.
 Pulida y brillante, con el mango de caoba, tenía una larga cola de ramitas rectas y, escrito en letras
 doradas: «Nimbus 2.000.»
 Cerca de las siete, Harry salió del castillo y se encaminó hacia el campo de quidditch. Nunca había
@@ -3507,7 +3470,7 @@ De inmediato, la pelota negra se elevó en el aire y se lanzó contra la cara de
 con el bate, para impedir que le rompiera la nariz, y la mandó volando por el aire. Pasó zumbando
 alrededor de ellos y luego se tiró contra Wood, que se las arregló para sujetarla contra el suelo.
 
-—¿Ves? —dijo Wood jadeando, metiendo la pelota en la caja a la fuerza y asegurándola con las tiras
+—¿Ves? —dijo Wood jadeando, metiendo la pelota en la caja a la fuerza y asegurándola con las tiras
 —. Las bludgers andan por ahí, tratando de derribar a los jugadores de las escobas. Por eso hay dos
 golpeadores en cada equipo (los gemelos Weasley son los nuestros). Su trabajo es proteger a su equipo
 de las bludgers y desviarlas hacia el equipo contrario. ¿Lo has entendido?
@@ -3548,7 +3511,7 @@ meses en Hogwarts. El castillo era mucho más su casa de lo que nunca había sid
 clases, también, eran cada vez más interesantes, una vez aprendidos los principios básicos.
 En la mañana de Halloween se despertaron con el delicioso aroma de calabaza asada flotando por
 
-todos los pasillos. Pero lo mejor fue que el profesor Flitwick anunció en su clase de Encantamientos que
+todos los pasillos. Pero lo mejor fue que el profesor Flitwick anunció en su clase de Encantamientos que
 pensaba que ya estaban listos para empezar a hacer volar objetos, algo que todos se morían por hacer,
 desde que vieron cómo hacía volar el sapo de Neville. El profesor Flitwick puso a la clase por parejas
 para que practicaran. La pareja de Harry era Seamus Finnigan (lo que fue un alivio, porque Neville había
@@ -3590,7 +3553,7 @@ mesas, como nubes negras, haciendo temblar las velas de las calabazas. El festí
 los platos dorados, como había ocurrido en el banquete de principio de año.
 Harry se estaba sirviendo una patata con su piel, cuando el profesor Quirrell llegó rápidamente al
 
-comedor, con el turbante torcido y cara de terror. Todos lo contemplaron mientras se acercaba al profesor
+comedor, con el turbante torcido y cara de terror. Todos lo contemplaron mientras se acercaba al profesor
 Dumbledore, se apoyaba sobre la mesa y jadeaba:
 —Un trol… en las mazmorras… Pensé que debía saberlo.
 Y se desplomó en el suelo.
@@ -3632,7 +3595,7 @@ Era una visión horrible. Más de tres metros y medio de alto y tenía la piel d
 descomunal cuerpo deforme y una pequeña cabeza pelada. Tenía piernas cortas, gruesas como troncos de
 árbol, y pies achatados y deformes. El olor que despedía era increíble. Llevaba un gran bastón de madera
 
-que arrastraba por el suelo, porque sus brazos eran muy largos.
+que arrastraba por el suelo, porque sus brazos eran muy largos.
 El monstruo se detuvo en una puerta y miró hacia el interior. Agitó sus largas orejas, tomando
 decisiones con su minúsculo cerebro, y luego entró lentamente en la habitación.
 —La llave está en la cerradura —susurró Harry—. Podemos encerrarlo allí.
@@ -3674,7 +3637,7 @@ hacer, y se oyó gritar el primer hechizo que se le ocurrió:
 —¡Wingardium leviosa!
 El bastón salió volando de las manos del trol, se elevó, muy arriba, y luego dio la vuelta y se dejó
 
-caer con fuerza sobre la cabeza de su dueño. El trol se balanceó y cayó boca abajo con un ruido que hizo
+caer con fuerza sobre la cabeza de su dueño. El trol se balanceó y cayó boca abajo con un ruido que hizo
 temblar la habitación.
 Harry se puso de pie. Le faltaba el aire. Ron estaba allí, con la varita todavía levantada,
 contemplando su obra.
@@ -3716,7 +3679,7 @@ empezara a repartir golosinas.
 —Hermione Granger, por esto Gryffindor perderá cinco puntos —dijo la profesora McGonagall—.
 Estoy muy desilusionada por tu conducta. Si no te ha hecho daño, mejor que vuelvas a la torre Gryffindor.
 
-Los alumnos están terminando la fiesta en sus casas.
+Los alumnos están terminando la fiesta en sus casas.
 Hermione se marchó.
 La profesora McGonagall se volvió hacia Harry y Ron.
 —Bueno, sigo pensando que tuvisteis suerte, pero no muchos de primer año podrían derrumbar a esta
@@ -3737,7 +3700,7 @@ mirarse, todos dijeron: «Gracias» y corrieron a buscar platos para comer.
 Pero desde aquel momento Hermione Granger se convirtió en su amiga. Hay algunas cosas que no se
 pueden compartir sin terminar unidos, y derrumbar un trol de tres metros y medio es una de esas cosas.
 
-CAPÍTULO 11
+CAPÍTULO 11
 
 Quidditch
 
@@ -3764,7 +3727,7 @@ consignado durante los Mundiales de 1473; que los buscadores eran habitualmente 
 pequeños y veloces, y que los accidentes más graves les sucedían a ellos; que, aunque la gente no moría
 jugando al quidditch, se sabía de árbitros que habían desaparecido, para reaparecer meses después en el
 
-desierto del Sahara.
+desierto del Sahara.
 Hermione se había vuelto un poco más flexible en lo que se refería a quebrantar las reglas, desde que
 Harry y Ron la salvaron del monstruo, y era mucho más agradable. El día anterior al primer partido de
 Harry los tres estaban fuera, en el patio helado, durante un recreo, y la muchacha había hecho aparecer un
@@ -3805,7 +3768,7 @@ Harry se fue, antes de que Snape pudiera quitarle puntos para Gryffindor. Subió
 —¿Lo has conseguido? —preguntó Ron, cuando se reunió con ellos—. ¿Qué ha pasado?
 Entre susurros, Harry les contó lo que había visto.
 
-—¿Sabéis lo que quiere decir? —terminó sin aliento—. ¡Que trató de pasar por donde estaba el perro
+—¿Sabéis lo que quiere decir? —terminó sin aliento—. ¡Que trató de pasar por donde estaba el perro
 de tres cabezas, en Halloween! Allí se dirigía cuando lo vimos… ¡Iba a buscar lo que sea que tengan
 guardado allí! ¡Y apuesto mi escoba a que fue él quien dejó entrar al monstruo, para distraer la atención!
 Hermione tenía los ojos muy abiertos.
@@ -3846,7 +3809,7 @@ Wood se aclaró la garganta para pedir silencio.
 —Nos sabemos de memoria el discurso de Oliver —dijo Fred a Harry—. Estábamos en el equipo el
 año pasado.
 
-—Callaos los dos —ordenó Wood—. Éste es el mejor equipo que Gryffindor ha tenido en muchos
+—Callaos los dos —ordenó Wood—. Éste es el mejor equipo que Gryffindor ha tenido en muchos
 años. Y vamos a ganar.
 Les lanzó una mirada que parecía decir: «Si no…»
 —Bien. Ya es la hora. Buena suerte a todos.
@@ -3888,7 +3851,7 @@ Ron y Hermione se juntaron para dejarle espacio a Hagrid.
 —Estaba mirando desde mi cabaña —dijo Hagrid, enseñando el largo par de binoculares que le
 colgaban del cuello—. Pero no es lo mismo que estar con toda la gente. Todavía no hay señales de la
 
-snitch, ¿no?
+snitch, ¿no?
 —No —dijo Ron—. Harry todavía no tiene mucho que hacer.
 —Mantenerse fuera de los problemas ya es algo —dijo Hagrid, cogiendo sus binoculares y fijándolos
 en la manchita que era Harry.
@@ -3930,7 +3893,7 @@ A Lee Jordan le costaba ser imparcial.
 —¡Jordan, no digas que no te aviso…!
 —Muy bien, muy bien. Flint casi mata al buscador de Gryffindor, cosa que le podría suceder a
 
-cualquiera, estoy seguro, así que penalti para Gryffindor, la coge Spinnet, que tira, no sucede nada, y
+cualquiera, estoy seguro, así que penalti para Gryffindor, la coge Spinnet, que tira, no sucede nada, y
 continúa el juego, Gryffindor todavía en posesión de la pelota.
 Cuando Harry esquivó otra bludger, que pasó peligrosamente cerca de su cabeza, ocurrió. Su escoba
 dio una súbita y aterradora sacudida. Durante un segundo pensó que iba a caer. Se aferró con fuerza a la
@@ -3972,7 +3935,7 @@ Marcus Flint cogió la quaffle y marcó cinco tantos sin que nadie lo advirtiera
 —Vamos, Hermione —murmuraba desesperado Ron.
 Hermione había cruzado las gradas hacia donde se encontraba Snape y en aquel momento corría por
 
-la fila de abajo. Ni se detuvo para disculparse cuando atropelló al profesor Quirrell y, cuando llegó
+la fila de abajo. Ni se detuvo para disculparse cuando atropelló al profesor Quirrell y, cuando llegó
 donde estaba Snape, se agachó, sacó su varita y susurró unas pocas y bien elegidas palabras.
 Unas llamas azules salieron de su varita y saltaron a la túnica de Snape. El profesor tardó unos treinta
 segundos en darse cuenta de que se incendiaba. Un súbito aullido le indicó a la chica que había hecho su
@@ -4014,12 +3977,12 @@ vista fija y Snape ni pestañeaba, yo lo vi!
 reaccionó de esa manera… ¡Pero Snape no iba a tratar de matar a un alumno! Ahora, escuchadme los tres,
 os estáis metiendo en cosas que no os conciernen y eso es peligroso. Olvidaos de ese perro y olvidad lo
 
-que está vigilando. En eso sólo tienen un papel el profesor Dumbledore y Nicolás Flamel…
+que está vigilando. En eso sólo tienen un papel el profesor Dumbledore y Nicolás Flamel…
 —¡Ah! —dijo Harry—. Entonces hay alguien llamado Nicolás Flamel que está involucrado en esto,
 ¿no?
 Hagrid pareció enfurecerse consigo mismo.
 
-CAPÍTULO 12
+CAPÍTULO 12
 
 El espejo de Oesed
 
@@ -4046,7 +4009,7 @@ buscador. Pero entonces se dio cuenta de que nadie lo encontraba gracioso, porqu
 impresionados por la forma en que Harry se había mantenido en su escoba. Así que Malfoy, celoso y
 enfadado, había vuelto a fastidiar a Harry por no tener una familia apropiada.
 
-Era verdad que Harry no iría a Privet Drive para las fiestas. La profesora McGonagall había pasado
+Era verdad que Harry no iría a Privet Drive para las fiestas. La profesora McGonagall había pasado
 la semana antes, haciendo una lista de los alumnos que iban a quedarse allí para Navidad, y Harry puso
 su nombre de inmediato. Y no se sentía triste, ya que probablemente ésa sería la mejor Navidad de su
 vida. Ron y sus hermanos también se quedaban, porque el señor y la señora Weasley se marchaban a
@@ -4088,7 +4051,7 @@ Un poco triste, ¿no creéis?
 —Oh, no es un trabajo —explicó alegremente Harry—. Desde que mencionaste a Nicolás Flamel,
 estamos tratando de averiguar quién es.
 
-—¿Qué? —Hagrid parecía impresionado—. Escuchadme… Ya os lo dije… No os metáis. No tiene
+—¿Qué? —Hagrid parecía impresionado—. Escuchadme… Ya os lo dije… No os metáis. No tiene
 nada que ver con vosotros lo que custodia ese perro.
 —Nosotros queremos saber quién es Nicolás Flamel, eso es todo —dijo Hermione.
 —Salvo que quieras ahorrarnos el trabajo —añadió Harry—. Ya hemos buscado en miles de libros y
@@ -4129,7 +4092,7 @@ tendrá riesgos.
 —Ningún riesgo, ya que ambos son dentistas —respondió Hermione.
 Cuando comenzaron las vacaciones, Ron y Harry tuvieron mucho tiempo para pensar en Flamel. Tenían el
 
-dormitorio para ellos y la sala común estaba mucho más vacía que de costumbre, así que podían elegir
+dormitorio para ellos y la sala común estaba mucho más vacía que de costumbre, así que podían elegir
 los mejores sillones frente al fuego. Se quedaban comiendo todo lo que podían pinchar en un tenedor de
 tostar (pan, buñuelos, melcochas) y planeaban formas de hacer que expulsaran a Malfoy, muy divertidas,
 pero imposibles de llevar a cabo.
@@ -4171,7 +4134,7 @@ El siguiente regalo también tenía golosinas, una gran caja de ranas de chocola
 Hermione.
 Le quedaba el último. Harry lo cogió y notó que era muy ligero. Lo desenvolvió.
 
-Algo fluido y de color gris plateado se deslizó hacia el suelo y se quedó brillando. Ron bufó.
+Algo fluido y de color gris plateado se deslizó hacia el suelo y se quedó brillando. Ron bufó.
 —Había oído hablar de esto —dijo con voz ronca, dejando caer la caja de grageas de todos los
 sabores, regalo de Hermione—. Si es lo que pienso, es algo verdaderamente raro y valioso.
 —¿Qué es?
@@ -4212,7 +4175,7 @@ Percy Weasley asomó la cabeza a través de la puerta, con aire de desaprobació
 había ido desenvolviendo sus regalos por el camino, porque también tenía un jersey bajo el brazo, que
 Fred vio.
 
-—¡P de prefecto! Pruébatelo, Percy, vamos, todos nos lo hemos puesto, hasta Harry tiene uno.
+—¡P de prefecto! Pruébatelo, Percy, vamos, todos nos lo hemos puesto, hasta Harry tiene uno.
 —Yo… no… quiero —dijo Percy, con firmeza, mientras los gemelos le metían el jersey por la
 cabeza, tirándole las gafas al suelo.
 —Y hoy no te sentarás con los prefectos —dijo George—. La Navidad es para pasarla en familia.
@@ -4253,7 +4216,7 @@ la luz de la luna y las sombras. Era una sensación muy curiosa.
 «Utilízalo bien.»
 De pronto, Harry se sintió muy despierto. Con aquella capa, todo Hogwarts estaba abierto para él.
 
-Mientras estaba allí, en la oscuridad y el silencio, la excitación se apoderó de él. Podía ir a cualquier
+Mientras estaba allí, en la oscuridad y el silencio, la excitación se apoderó de él. Podía ir a cualquier
 lado con ella, a cualquier lado, y Filch nunca lo sabría.
 Ron gruñó entre sueños. ¿Debía despertarlo? Algo lo detuvo. La capa de su padre… Sintió que
 aquella vez (la primera vez) quería utilizarla solo.
@@ -4295,7 +4258,7 @@ el pasillo era estrecho y, si se acercaban mucho, iban a chocar contra él. La c
 materialidad.
 Retrocedió lo más silenciosamente que pudo. A la izquierda había una puerta entreabierta. Era su
 
-única esperanza. Se deslizó, conteniendo la respiración y tratando de no hacer ruido. Para su alivio, entró
+única esperanza. Se deslizó, conteniendo la respiración y tratando de no hacer ruido. Para su alivio, entró
 en la habitación sin que lo notaran. Pasaron por delante de él y Harry se apoyó contra la pared,
 respirando profundamente, mientras escuchaba los pasos que se alejaban. Habían estado cerca, muy
 cerca. Transcurrieron unos pocos segundos antes de que se fijara en la habitación que lo había ocultado.
@@ -4337,7 +4300,7 @@ un ruido lejano lo hizo volver a la realidad. No podía quedarse allí, tenía q
 el dormitorio. Apartó los ojos de los de su madre y susurró: «Volveré.» Salió apresuradamente de la
 habitación.
 
-—Podías haberme despertado —dijo malhumorado Ron.
+—Podías haberme despertado —dijo malhumorado Ron.
 —Puedes venir esta noche. Yo voy a volver, quiero enseñarte el espejo.
 —Me gustaría ver a tu madre y a tu padre —dijo Ron con interés.
 —Y yo quiero ver a toda tu familia, todos los Weasley. Podrás enseñarme a tus otros hermanos y a
@@ -4377,7 +4340,7 @@ quidditch… ¡Y también soy capitán de quidditch!
 Ron apartó los ojos de aquella espléndida visión y miró excitado a Harry.
 —¿Crees que este espejo muestra el futuro?
 
-—¿Cómo puede ser? Si toda mi familia está muerta… déjame mirar de nuevo…
+—¿Cómo puede ser? Si toda mi familia está muerta… déjame mirar de nuevo…
 —Lo has tenido toda la noche, déjame un ratito más.
 —Pero si estás sosteniendo la copa de quidditch, ¿qué tiene eso de interesante? Quiero ver a mis
 padres.
@@ -4416,7 +4379,7 @@ estaba tan desesperado por llegar hasta el espejo que no había notado su presen
 —No… no lo había visto, señor.
 —Es curioso lo miope que se puede volver uno al ser invisible —dijo Dumbledore, y Harry se sintió
 
-aliviado al ver que le sonreía—. Entonces —continuó Dumbledore, bajando del pupitre para sentarse en
+aliviado al ver que le sonreía—. Entonces —continuó Dumbledore, bajando del pupitre para sentarse en
 el suelo con Harry—, tú, como cientos antes que tú, has descubierto las delicias del espejo de Oesed.
 —No sabía que se llamaba así, señor.
 —Pero espero que te habrás dado cuenta de lo que hace, ¿no?
@@ -4454,7 +4417,7 @@ En cuanto Harry estuvo de nuevo en su cama, se le ocurrió pensar que tal vez Du
 sido sincero. Pero es que, pensó mientras sacaba a Scabbers de su almohada, había sido una pregunta
 muy personal.
 
-CAPÍTULO 13
+CAPÍTULO 13
 
 Nicolás Flamel
 
@@ -4481,7 +4444,7 @@ reemplazado a la nieve podía doblegar su ánimo. Los Weasley se quejaban de que
 convertido en un fanático, pero Harry estaba de acuerdo con Wood. Si ganaban el próximo partido contra
 Hufflepuff, podrían alcanzar a Slytherin en el campeonato de las casas, por primera vez en siete años.
 
-Además de que deseaba ganar, Harry descubrió que tenía menos pesadillas cuando estaba cansado por el
+Además de que deseaba ganar, Harry descubrió que tenía menos pesadillas cuando estaba cansado por el
 ejercicio.
 Entonces, durante un entrenamiento en un día especialmente húmedo y lleno de barro, Wood les dio
 una mala noticia. Se había enfadado mucho con los Weasley, que se tiraban en picado y fingían caerse de
@@ -4523,7 +4486,7 @@ buscando a alguien para practicarlo.
 Neville negó con la cabeza.
 —No quiero tener más problemas —murmuró.
 
-—¡Tienes que hacerle frente, Neville! —dijo Ron—. Está acostumbrado a llevarse a todo el mundo
+—¡Tienes que hacerle frente, Neville! —dijo Ron—. Está acostumbrado a llevarse a todo el mundo
 por delante, pero ésa no es una razón para echarse al suelo a su paso y hacerle las cosas más fáciles.
 —No es necesario que me digas que no soy lo bastante valiente para pertenecer a Gryffindor, eso ya
 me lo dice Malfoy —dijo Neville, atragantándose.
@@ -4565,7 +4528,7 @@ existe actualmente pertenece al señor Nicolás Flamel, el notable alquimista y 
 ópera. El señor Flamel, que cumplió seiscientos sesenta y cinco años el año pasado, lleva una
 vida tranquila en Devon con su esposa Perenela (de seiscientos cincuenta y ocho años).
 
-—¿Veis? —dijo Hermione, cuando Harry y Ron terminaron—. El perro debe de estar custodiando la
+—¿Veis? —dijo Hermione, cuando Harry y Ron terminaron—. El perro debe de estar custodiando la
 Piedra Filosofal de Flamel. Seguro que le pidió a Dumbledore que se la guardase, porque son amigos y
 porque debe de saber que alguien la busca. ¡Por eso quiso que sacaran la Piedra de Gringotts!
 —¡Una piedra que convierte en oro y hace que uno nunca muera! —dijo Harry—. ¡No es raro que
@@ -4604,7 +4567,7 @@ manga de la túnica.
 —Ya lo sé —respondió enfadado—. No me des la lata.
 Mientras tanto, en el vestuario, Wood había llevado aparte a Harry.
 
-—No quiero presionarte, Potter, pero si alguna vez necesitamos que se capture en seguida la snitch,
+—No quiero presionarte, Potter, pero si alguna vez necesitamos que se capture en seguida la snitch,
 es ahora. Necesitamos terminar el partido antes de que Snape pueda favorecer demasiado a Hufflepuff.
 —¡Todo el colegio está allí fuera! —dijo Fred Weasley, espiando a través de la puerta—. Hasta…
 ¡Vaya, Dumbledore ha venido al partido!
@@ -4646,7 +4609,7 @@ al suelo. Neville vaciló, pero luego se encaramó al respaldo de su silla para 
 —¡Vamos, Harry! —gritaba Hermione, subiéndose al asiento para ver bien a Harry, sin darse cuenta
 de que Malfoy y Ron rodaban bajo su asiento y sin oír los gritos y golpes de Neville, Crabbe y Goyle.
 
-En el aire, Snape puso en marcha su escoba justo a tiempo para ver algo escarlata que pasaba a su
+En el aire, Snape puso en marcha su escoba justo a tiempo para ver algo escarlata que pasaba a su
 lado, y que no chocó con él por sólo unos centímetros. Al momento siguiente Harry subía con el brazo
 levantado en gesto de triunfo y la mano apretando la snitch.
 Las tribunas bullían. Aquello era un récord, nadie recordaba que se hubiera atrapado tan rápido la
@@ -4687,7 +4650,7 @@ allí. Harry no podía verle la cara, pero tartamudeaba como nunca. Harry se esf
 —Oh, pensé que íbamos a mantener esto en privado —dijo Snape con voz gélida—. Después de todo,
 los alumnos no deben saber nada sobre la Piedra Filosofal.
 
-Harry se inclinó hacia delante. Quirrell tartamudeaba algo y Snape lo interrumpió.
+Harry se inclinó hacia delante. Quirrell tartamudeaba algo y Snape lo interrumpió.
 —¿Ya has averiguado cómo burlar a esa bestia de Hagrid?
 —P-p-pero Severus, y-yo…
 —Tú no querrás que yo sea tu enemigo, Quirrell —dijo Snape, dando un paso hacia él.
@@ -4720,7 +4683,7 @@ Snape necesita romper…
 alarmada Hermione.
 —En ese caso no durará mucho —dijo Ron.
 
-CAPÍTULO 14
+CAPÍTULO 14
 
 Norberto, el ridgeback noruego
 
@@ -4747,7 +4710,7 @@ exámenes para entrar en segundo año? Son muy importantes, tendría que haber e
 un mes, no sé lo que me pasó…
 Pero desgraciadamente, los profesores parecían pensar lo mismo que Hermione. Les dieron tantos
 
-deberes que las vacaciones de Pascua no resultaron tan divertidas como las de Navidad. Era difícil
+deberes que las vacaciones de Pascua no resultaron tan divertidas como las de Navidad. Era difícil
 relajarse con Hermione al lado, recitando los doce usos de la sangre de dragón o practicando
 movimientos con la varita. Quejándose y bostezando, Harry y Ron pasaban la mayor parte de su tiempo
 libre en la biblioteca con ella, tratando de hacer todo el trabajo suplementario.
@@ -4789,7 +4752,7 @@ quemaduras que Charlie se hizo con esos dragones salvajes de Rumania.
 Magia le ha costado trabajo silenciar ese asunto, te lo aseguro. Los nuestros tienen que hacerles
 encantamientos a los muggles que los han visto para que los olviden.
 
-—Entonces ¿en qué está metido Hagrid? —dijo Hermione.
+—Entonces ¿en qué está metido Hagrid? —dijo Hermione.
 Cuando llamaron a la puerta de la cabaña del guardabosques, una hora más tarde, les sorprendió ver
 todas las cortinas cerradas. Hagrid preguntó «¿quién es?» antes de dejarlos entrar, y luego cerró
 rápidamente la puerta tras ellos.
@@ -4831,7 +4794,7 @@ Pero ya sabía lo que era. En el centro de la chimenea, debajo de la cazuela, ha
 negro.
 —Ah —dijo Hagrid, tirándose con nerviosismo de la barba—. Eso… eh…
 
-—¿Dónde lo has conseguido, Hagrid? —preguntó Ron, agachándose ante la chimenea para ver de
+—¿Dónde lo has conseguido, Hagrid? —preguntó Ron, agachándose ante la chimenea para ver de
 cerca el huevo—. Debe de haberte costado una fortuna.
 —Lo gané —explicó Hagrid—. La otra noche. Estaba en la aldea, tomando unas copas y me puse a
 jugar a las cartas con un desconocido. Creo que se alegró mucho de librarse de él, si he de ser sincero.
@@ -4872,7 +4835,7 @@ De pronto se oyó un ruido y el huevo se abrió. La cría de dragón aleteó en 
 exactamente bonito. Harry pensó que parecía un paraguas negro arrugado. Sus alas puntiagudas eran
 enormes, comparadas con su cuerpo flacucho. Tenía un hocico largo con anchas fosas nasales, las puntas
 
-de los cuernos ya le salían y tenía los ojos anaranjados y saltones.
+de los cuernos ya le salían y tenía los ojos anaranjados y saltones.
 Estornudó. Volaron unas chispas.
 —¿No es precioso? —murmuró Hagrid. Alargó una mano para acariciar la cabeza del dragón. Éste le
 dio un mordisco en los dedos, enseñando unos colmillos puntiagudos.
@@ -4911,7 +4874,7 @@ Y al final, Hagrid aceptó que enviaran una lechuza para pedirle ayuda a Charlie
 La semana siguiente pareció alargarse. La noche del miércoles encontró a Harry y Hermione sentados
 solos en la sala común, mucho después de que todos se fueran a acostar. El reloj de la pared acababa de
 
-dar doce campanadas cuando el agujero de la pared se abrió de golpe. Ron surgió de la nada, al quitarse
+dar doce campanadas cuando el agujero de la pared se abrió de golpe. Ron surgió de la nada, al quitarse
 la capa invisible de Harry. Había estado en la cabaña de Hagrid, ayudándolo a alimentar a Norberto, que
 ya comía ratas muertas.
 —¡Me ha mordido! —dijo, enseñándoles la mano envuelta en un pañuelo ensangrentado—. No podré
@@ -4952,7 +4915,7 @@ contrario, se sentó en la cama y comenzó a temblar.
 carta de Charlie estaba en el libro que se llevó Malfoy, se enterará de la forma en que nos libraremos de
 Norberto.
 
-Harry y Hermione no tuvieron tiempo de contestarle. Apareció la señora Pomfrey y los hizo salir,
+Harry y Hermione no tuvieron tiempo de contestarle. Apareció la señora Pomfrey y los hizo salir,
 diciendo que Ron necesitaba dormir.
 —Es muy tarde para cambiar los planes —dijo Harry a Hermione—. No tenemos tiempo de enviar a
 Charlie otra lechuza y ésta puede ser nuestra única oportunidad de librarnos de Norberto. Tendremos que
@@ -4991,7 +4954,7 @@ Malfoy por la oreja.
 —¡Castigo! —gritaba—. ¡Y veinte puntos menos para Slytherin! Vagando en medio de la noche…
 ¿Cómo te atreves…?
 
-—Usted no lo entiende, profesora, Harry Potter vendrá. ¡Y con un dragón!
+—Usted no lo entiende, profesora, Harry Potter vendrá. ¡Y con un dragón!
 —¡Qué absurda tontería! ¿Cómo te atreves a decir esas mentiras? Vamos, hablaré de ti con el
 profesor Snape… ¡Vamos, Malfoy!
 Después de aquello, la escalera de caracol hacia la torre más alta les pareció lo más fácil del mundo.
@@ -5014,7 +4977,7 @@ apareció súbitamente en la oscuridad.
 —Bien, bien, bien —susurró Harry—. Tenemos problemas.
 Habían dejado la capa invisible en la torre.
 
-CAPÍTULO 15
+CAPÍTULO 15
 
 El bosque prohibido
 
@@ -5041,7 +5004,7 @@ Astronomía. Es la una de la mañana. Quiero una explicación.
 Ésa fue la primera vez que Hermione no pudo contestar a una pregunta de un profesor. Miraba
 fijamente sus zapatillas, tan rígida como una estatua.
 
-—Creo que tengo idea de lo que sucedió —dijo la profesora McGonagall—. No hace falta ser un
+—Creo que tengo idea de lo que sucedió —dijo la profesora McGonagall—. No hace falta ser un
 genio para descubrirlo. Te inventaste una historia sobre un dragón para que Draco Malfoy saliera de la
 cama y se metiera en líos. Te he atrapado. Supongo que te habrá parecido divertido que Longbottom
 oyera la historia y también la creyera, ¿no?
@@ -5083,7 +5046,7 @@ aquí y la gente los sigue apreciando.
 —Pero nunca perdieron ciento cincuenta puntos de una vez, ¿verdad? —dijo Harry tristemente.
 —Bueno… no —admitió Ron.
 
-Era un poco tarde para reparar los daños, pero Harry se juró que, de ahí en adelante, no se metería en
+Era un poco tarde para reparar los daños, pero Harry se juró que, de ahí en adelante, no se metería en
 cosas que no eran asunto suyo. Todo había sido por andar averiguando y espiando. Se sentía tan
 avergonzado que fue a ver a Wood y le ofreció su renuncia.
 —¿Renunciar? —exclamó Wood—. ¿Qué ganaríamos con eso? ¿Cómo vamos a recuperar puntos si
@@ -5124,7 +5087,7 @@ La luz de la aventura brillaba otra vez en los ojos de Ron, pero Hermione respon
 Harry lo hiciera.
 —Ir a ver a Dumbledore. Eso es lo que debimos hacer hace tiempo. Si se nos ocurre algo a nosotros
 
-solos, con seguridad vamos a perder.
+solos, con seguridad vamos a perder.
 —¡Pero no tenemos pruebas! —exclamó Harry—. Quirrell está demasiado atemorizado para
 respaldarnos. Snape sólo tiene que decir que no sabía cómo entró el trol en Halloween y que él no estaba
 cerca del tercer piso en ese momento. ¿A quién pensáis que van a creer, a él o a nosotros? No es
@@ -5163,7 +5126,7 @@ ventanas iluminadas de la cabaña de Hagrid. Entonces oyeron un grito lejano.
 El corazón de Harry se animó: si iban a estar con Hagrid, no podía ser tan malo. Su alivio debió
 aparecer en su cara, porque Filch dijo:
 
-—Supongo que crees que vas a divertirte con ese papanatas, ¿no? Bueno, piénsalo mejor,
+—Supongo que crees que vas a divertirte con ese papanatas, ¿no? Bueno, piénsalo mejor,
 muchacho… es al bosque adonde iréis y mucho me habré equivocado si volvéis todos enteros.
 Al oír aquello, Neville dejó escapar un gemido y Malfoy se detuvo de golpe.
 —¿El bosque? —repitió, y no parecía tan indiferente como de costumbre—. Hay toda clase de cosas
@@ -5205,7 +5168,7 @@ incapaz de ocultar el miedo de su voz.
 Y seguid el sendero. Ahora vamos a dividirnos en dos equipos y seguiremos la huella en distintas
 direcciones. Hay sangre por todo el lugar, debieron herirlo ayer por la noche, por lo menos.
 
-—Yo quiero ir con Fang —dijo rápidamente Malfoy, mirando los largos colmillos del perro.
+—Yo quiero ir con Fang —dijo rápidamente Malfoy, mirando los largos colmillos del perro.
 —Muy bien, pero te informo de que es un cobarde —dijo Hagrid—. Entonces yo, Harry y Hermione
 iremos por un lado y Draco, Neville y Fang, por el otro. Si alguno encuentra al unicornio, debe enviar
 chispas verdes, ¿de acuerdo? Sacad vuestras varitas y practicad ahora… está bien… Y si alguno tiene
@@ -5247,7 +5210,7 @@ alumnos del colegio. Y él es Ronan. Es un centauro.
 —Buenas noches —los saludó Ronan—. ¿Estudiantes, no? ¿Y aprendéis mucho en el colegio?
 —Eh…
 
-—Un poquito —dijo con timidez Hermione.
+—Un poquito —dijo con timidez Hermione.
 —Un poquito. Bueno, eso es algo. —Ronan suspiró. Torció la cabeza y miró hacia el cielo—. Esta
 noche, Marte está brillante.
 —Ajá —dijo Hagrid, lanzándole una mirada—. Escucha, me alegro de haberte encontrado, Ronan,
@@ -5289,7 +5252,7 @@ Hagrid y su ballesta fueran con ellos. Acababan de pasar una curva en el sendero
 aferró al brazo de Hagrid.
 —¡Hagrid! ¡Mira! ¡Chispas rojas, los otros tienen problemas!
 
-—¡Vosotros esperad aquí! —gritó Hagrid—. ¡Quedaos en el sendero, volveré a buscaros!
+—¡Vosotros esperad aquí! —gritó Hagrid—. ¡Quedaos en el sendero, volveré a buscaros!
 Lo oyeron alejarse y se miraron uno al otro, muy asustados, hasta que ya no oyeron más que las hojas
 que se movían alrededor.
 —¿Crees que les habrá pasado algo? —susurró Hermione.
@@ -5331,7 +5294,7 @@ El dolor de cabeza era tan fuerte que Harry cayó de rodillas. Pasaron unos minu
 calmara. Cuando levantó la vista, la figura se había ido. Un centauro estaba ante él. No era ni Ronan ni
 Bane: éste parecía más joven, tenía cabello rubio muy claro, cuerpo pardo y cola blanca.
 
-—¿Estás bien? —dijo el centauro, ayudándolo a ponerse de pie.
+—¿Estás bien? —dijo el centauro, ayudándolo a ponerse de pie.
 —Sí… gracias… ¿qué ha sido eso?
 El centauro no contestó. Tenía ojos asombrosamente azules, como pálidos zafiros. Observó a Harry
 con cuidado, fijando la mirada en la cicatriz, que se veía amoratada en la frente de Harry.
@@ -5373,7 +5336,7 @@ nada que perder y todo para ganar puede cometer semejante crimen. La sangre de u
 con vida, incluso si estás al borde de la muerte, pero a un precio terrible. Si uno mata algo puro e
 indefenso para salvarse a sí mismo, conseguirá media vida, una vida maldita, desde el momento en que la
 
-sangre toque sus labios.
+sangre toque sus labios.
 Harry clavó la mirada en la nuca de Firenze, que parecía de plata a la luz de la luna.
 —Pero ¿quién estaría tan desesperado? —se preguntó en voz alta—. Si te van a maldecir para
 siempre, la muerte es mejor, ¿no?
@@ -5414,7 +5377,7 @@ Firenze debió dejar que Voldemort me matara. Supongo que eso también está esc
 —¿Quieres dejar de repetir el nombre? —dijo Ron.
 —Así que lo único que tengo que hacer es esperar que Snape robe la Piedra —continuó febrilmente
 
-Harry—. Entonces Voldemort podrá venir y terminar conmigo… Bueno, supongo que Bane estará
+Harry—. Entonces Voldemort podrá venir y terminar conmigo… Bueno, supongo que Bane estará
 contento.
 Hermione parecía muy asustada, pero tuvo una palabra de consuelo.
 —Harry, todos dicen que Dumbledore es el único al que Quien-tú-sabes siempre ha temido. Con
@@ -5427,7 +5390,7 @@ Cuando Harry abrió la cama encontró su capa invisible, cuidadosamente doblada.
 nota:
 Por las dudas.
 
-CAPÍTULO 16
+CAPÍTULO 16
 
 A través de la trampilla
 
@@ -5454,7 +5417,7 @@ Tal vez porque ellos no habían visto lo que Harry vio en el bosque, o porque no
 ardientes en la frente, Ron y Hermione no parecían tan preocupados por la Piedra como Harry. La idea de
 Voldemort los atemorizaba, desde luego, pero no los visitaba en sueños y estaban tan ocupados repasando
 
-que no les quedaba tiempo para inquietarse por lo que Snape o algún otro estuvieran tramando.
+que no les quedaba tiempo para inquietarse por lo que Snape o algún otro estuvieran tramando.
 El último examen era Historia de la Magia. Una hora respondiendo preguntas sobre viejos magos
 chiflados que habían inventado calderos que revolvían su contenido, y estarían libres, libres durante toda
 una maravillosa semana, hasta que recibieran los resultados de los exámenes. Cuando el fantasma del
@@ -5496,7 +5459,7 @@ más deseara Hagrid fuera un dragón, y que de pronto aparezca un desconocido qu
 huevo en el bolsillo? ¿Cuánta gente anda por ahí con huevos de dragón, que están prohibidos por las
 leyes de los magos? Qué suerte tuvo al encontrar a Hagrid, ¿verdad? ¿Por qué no se me ocurrió antes?
 
-—¿En qué estás pensando? —preguntó Ron, pero Harry echó a correr por los terrenos que iban hacia
+—¿En qué estás pensando? —preguntó Ron, pero Harry echó a correr por los terrenos que iban hacia
 el bosque, sin contestarle.
 Hagrid estaba sentado en un sillón, fuera de la casa, con los pantalones y las mangas de la camisa
 arremangados, y desgranaba guisantes en un gran recipiente.
@@ -5538,7 +5501,7 @@ Harry.
 ¿Por qué?
 Harry tragó: «¿Y ahora qué?»
 
-—Es algo secreto —dijo, pero de inmediato deseó no haberlo hecho, porque la profesora
+—Es algo secreto —dijo, pero de inmediato deseó no haberlo hecho, porque la profesora
 McGonagall se enfadó.
 —El profesor Dumbledore se fue hace diez minutos —dijo con frialdad—. Recibió una lechuza
 urgente del ministro de Magia y salió volando para Londres de inmediato.
@@ -5580,7 +5543,7 @@ Una vez fuera, en la escalera de piedra, Harry se volvió hacia sus amigos.
 —Bueno, esto es lo que tenemos que hacer —susurró con prisa—. Uno de nosotros tiene que vigilar a
 Snape, esperar fuera de la sala de profesores y seguirlo si sale. Hermione, mejor que eso lo hagas tú.
 
-—¿Por qué yo?
+—¿Por qué yo?
 —Es obvio —intervino Ron—. Puedes fingir que estás esperando al profesor Flitwick, ya sabes
 cómo —la imitó con voz aguda—: «Oh, profesor Flitwick, estoy tan preocupada, creo que tengo mal la
 pregunta catorce b…»
@@ -5622,7 +5585,7 @@ Los miró con furia.
 Piedra sin nosotros? Será mejor que vaya a buscar en mis libros, tiene que haber algo que nos sirva…
 —Pero si nos atrapan, también os expulsarán a vosotros.
 
-—No, si yo puedo evitarlo —dijo Hermione con severidad—. Flitwick me dijo en secreto que en su
+—No, si yo puedo evitarlo —dijo Hermione con severidad—. Flitwick me dijo en secreto que en su
 examen tengo ciento doce sobre cien. No me van a expulsar después de eso.
 Tras la cena, los tres se sentaron en la sala común, lejos de todos. Nadie los molestó: después de todo,
 ninguno de los de Gryffindor hablaba con Harry, pero ésa fue la primera noche que no le importó.
@@ -5663,7 +5626,7 @@ Levantó la varita.
 —¡Petrificus totalus! —gritó, señalando a Neville.
 Los brazos de Neville se pegaron a su cuerpo. Sus piernas se juntaron. Todo el cuerpo se le puso
 
-rígido, se balanceó y luego cayó bocabajo, rígido como un tronco.
+rígido, se balanceó y luego cayó bocabajo, rígido como un tronco.
 Hermione corrió a darle la vuelta. Neville tenía la mandíbula rígida y no podía hablar. Sólo sus ojos
 se movían, mirándolos horrorizado.
 —¿Qué le has hecho? —susurró Harry.
@@ -5705,7 +5668,7 @@ debajo de la capa, Harry se volvió hacia los otros dos.
 —Si queréis regresar, no os lo reprocharé —dijo—. Podéis llevaros la capa, no la voy a necesitar.
 —No seas estúpido —dijo Ron.
 
-—Vamos contigo —dijo Hermione.
+—Vamos contigo —dijo Hermione.
 Harry empujó la puerta.
 Cuando la puerta crujió, oyeron unos gruñidos. Los tres hocicos del perro olfateaban en dirección a
 ellos, aunque no podía verlos.
@@ -5747,7 +5710,7 @@ Ron lo siguió de inmediato. Aterrizó al lado de Harry.
 —¿Qué es esta cosa? —fueron sus primeras palabras.
 —No sé, alguna clase de planta. Supongo que está aquí para detener la caída. ¡Vamos, Hermione!
 
-La música lejana se detuvo. Se oyó un fuerte ladrido, pero Hermione ya había saltado. Cayó al otro
+La música lejana se detuvo. Se oyó un fuerte ladrido, pero Hermione ya había saltado. Cayó al otro
 lado de Harry.
 —Debemos de estar a kilómetros debajo del colegio —dijo la niña.
 —Me alegro de que esta planta esté aquí —dijo Ron.
@@ -5789,7 +5752,7 @@ Llegaron hasta el final del pasillo y vieron ante ellos una habitación brillant
 techo curvándose sobre ellos. Estaba llena de pajaritos brillantes que volaban por toda la habitación. En
 el lado opuesto, había una pesada puerta de madera.
 
-—¿Crees que nos atacarán si cruzamos la habitación? —preguntó Ron.
+—¿Crees que nos atacarán si cruzamos la habitación? —preguntó Ron.
 —Es probable —contestó Harry—. No parecen muy malos, pero supongo que si se tiran todos
 juntos… Bueno, no hay nada que hacer… voy a correr.
 Respiró profundamente, se cubrió la cara con los brazos y cruzó corriendo la habitación. Esperaba
@@ -5832,7 +5795,7 @@ la puerta.
 La habitación siguiente estaba tan oscura que no pudieron ver nada. Pero cuando estuvieron dentro la
 luz súbitamente inundó el lugar, para revelar un espectáculo asombroso.
 
-Estaban en el borde de un enorme tablero de ajedrez, detrás de las piezas negras, que eran todas tan
+Estaban en el borde de un enorme tablero de ajedrez, detrás de las piezas negras, que eran todas tan
 altas como ellos y construidas en lo que parecía piedra. Frente a ellos, al otro lado de la habitación,
 estaban las piezas blancas. Harry, Ron y Hermione se estremecieron: las piezas blancas no tenían rostros.
 —¿Ahora qué hacemos? —susurró Harry.
@@ -5874,7 +5837,7 @@ La reina blanca volvió su cara sin rostro hacia Ron.
 —Sí… —murmuró Ron—. Es la única forma… tengo que dejar que me cojan.
 —¡NO! —gritaron Harry y Hermione.
 
-—¡Esto es ajedrez! —dijo enfadado Ron—. ¡Hay que hacer algunos sacrificios! Yo haré mi
+—¡Esto es ajedrez! —dijo enfadado Ron—. ¡Hay que hacer algunos sacrificios! Yo haré mi
 movimiento y ella me cogerá… Eso te dejará libre para hacer jaque mate al rey, Harry.
 —Pero…
 —¿Quieres detener a Snape o no?
@@ -5916,7 +5879,7 @@ una entre nosotras siete te dejará adelantarte,
 otra llevará al que lo beba para atrás,
 dos contienen sólo vino de ortiga,
 
-tres son mortales, esperando escondidos en la fila.
+tres son mortales, esperando escondidos en la fila.
 Elige, a menos que quieras quedarte para siempre,
 para ayudarte en tu elección, te damos cuatro claves:
 Primera, por más astucia que tenga el veneno para ocultarse siempre encontrarás alguno al
@@ -5958,7 +5921,7 @@ Los labios de Hermione temblaron, y de pronto se lanzó sobre Harry y lo abrazó
 —No soy tan bueno como tú —contestó muy incómodo, mientras ella lo soltaba.
 —¡Yo! —exclamó Hermione—. ¡Libros! ¡Inteligencia! Hay cosas mucho más importantes, amistad y
 
-valentía y… ¡Oh, Harry, ten cuidado!
+valentía y… ¡Oh, Harry, ten cuidado!
 —Bebe primero —dijo Harry—. Estás segura de cuál es cuál, ¿no?
 —Totalmente —dijo Hermione. Se tomó de un trago el contenido de la botellita redondeada y se
 estremeció.
@@ -5975,7 +5938,7 @@ llamas negras lamían su cuerpo pero no lo quemaban. Durante un momento no pudo 
 oscuro. Luego se encontró al otro lado, en la última habitación.
 Ya había alguien allí. Pero no era Snape. Y tampoco era Voldemort.
 
-CAPÍTULO 17
+CAPÍTULO 17
 
 El hombre con dos caras
 
@@ -6002,7 +5965,7 @@ partido? Estaba tratando de asegurarse de que yo no pudiera hacerlo otra vez. Gr
 necesitaba molestarse. No podía hacer nada con Dumbledore mirando. Todos los otros profesores
 creyeron que Snape trataba de impedir que Gryffindor ganase, se ha hecho muy impopular… Y qué
 
-pérdida de tiempo cuando, después de todo eso, voy a matarte esta noche.
+pérdida de tiempo cuando, después de todo eso, voy a matarte esta noche.
 Quirrell chasqueó los dedos. Unas sogas cayeron del aire y se enroscaron en el cuerpo de Harry,
 sujetándolo con fuerza.
 —Eres demasiado molesto para vivir, Potter. Deslizándote por el colegio, como en Halloween,
@@ -6044,7 +6007,7 @@ demostró lo equivocado que estaba. No hay ni mal ni bien, sólo hay poder y per
 para buscarlo… Desde entonces le he servido fielmente, aunque muchas veces le he fallado. Tuvo que ser
 muy severo conmigo. —Quirrell se estremeció súbitamente—. No perdona fácilmente los errores.
 
-Cuando fracasé en robar esa Piedra de Gringotts, se disgustó mucho. Me castigó… decidió que tenía que
+Cuando fracasé en robar esa Piedra de Gringotts, se disgustó mucho. Me castigó… decidió que tenía que
 vigilarme muy de cerca…
 La voz de Quirrell se apagó. Harry recordó su viaje al callejón Diagon… ¿Cómo había podido ser
 tan estúpido? Había visto a Quirrell aquel mismo día y se habían estrechado las manos en el Caldero
@@ -6086,7 +6049,7 @@ Pero no había dado cinco pasos cuando una voz aguda habló, aunque Quirrell no 
 La voz aguda se oyó otra vez.
 —Déjame hablar con él… cara a cara…
 
-—¡Maestro, no está lo bastante fuerte todavía!
+—¡Maestro, no está lo bastante fuerte todavía!
 —Tengo fuerza suficiente… para esto.
 Harry sintió como si el lazo del diablo lo hubiera clavado en el suelo. No podía mover ni un músculo.
 Petrificado, observó a Quirrell, que empezaba a desenvolver su turbante. ¿Qué iba a suceder? El turbante
@@ -6128,7 +6091,7 @@ brillantes.
 —¡Entonces mátalo, idiota, y termina de una vez! —exclamó Voldemort.
 Quirrell levantó la mano para lanzar un maleficio mortal, pero Harry, instintivamente, se incorporó y
 
-se aferró a la cara de Quirrell.
+se aferró a la cara de Quirrell.
 —¡AAAAAAH!
 Quirrell se apartó, con el rostro también quemado, y entonces Harry se dio cuenta: Quirrell no podía
 tocar su piel sin sufrir un dolor terrible. Su única oportunidad era sujetar a Quirrell, que sintiera tanto
@@ -6169,7 +6132,7 @@ Yo llegué a tiempo para evitarlo, aunque debo decir que lo estabas haciendo muy
 debía estar era el que había dejado. Llegué justo a tiempo para quitarte a Quirrell de encima…
 —Fue usted.
 
-—Tuve miedo de haber llegado demasiado tarde.
+—Tuve miedo de haber llegado demasiado tarde.
 —Casi fue así, no habría podido aguantar mucho más sin que me quitara la Piedra…
 —No por la Piedra, muchacho, por ti… El esfuerzo casi te mata. Durante un terrible momento tuve
 miedo de que fuera así. En lo que se refiere a la Piedra, fue destruida.
@@ -6211,7 +6174,7 @@ Aquella vez, Dumbledore suspiró profundamente.
 día… Quitátelo de la cabeza por ahora, Harry. Cuando seas mayor… ya sé que eso es odioso… bueno,
 cuando estés listo, lo sabrás.
 
-Y Harry supo que no sería bueno discutir.
+Y Harry supo que no sería bueno discutir.
 —¿Y por qué Quirrell no podía tocarme?
 —Tu madre murió para salvarte. Si hay algo que Voldemort no puede entender es el amor. No se dio
 cuenta de que un amor tan poderoso como el de tu madre hacia ti deja marcas poderosas. No una cicatriz,
@@ -6253,7 +6216,7 @@ problema con esta bonita gragea, ¿no te parece?
 Sonrió y se metió en la boca una gragea de color dorado. Luego se atragantó y dijo:
 —¡Ay de mí! ¡Cera del oído!
 
-La señora Pomfrey era una mujer buena, pero muy estricta.
+La señora Pomfrey era una mujer buena, pero muy estricta.
 —Sólo cinco minutos —suplicó Harry.
 —Ni hablar.
 —Usted dejó entrar al profesor Dumbledore…
@@ -6293,7 +6256,7 @@ En aquel momento, entró la señora Pomfrey.
 Después de una buena noche de sueño, Harry se sintió casi bien.
 —Quiero ir a la fiesta —dijo a la señora Pomfrey, mientras ella le ordenaba todas las cajas de
 
-golosinas—. Podré ir, ¿verdad?
+golosinas—. Podré ir, ¿verdad?
 —El profesor Dumbledore dice que tienes permiso para ir —dijo con desdén, como si considerara
 que el profesor Dumbledore no se daba cuenta de lo peligrosas que eran las fiestas—. Y tienes otra
 visita.
@@ -6335,7 +6298,7 @@ vuestras cabezas estén un poquito más llenas que cuando llegasteis… Ahora te
 dejarlas bonitas y vacías antes de que comience el próximo año… Bien, tengo entendido que hay que
 entregar la Copa de las Casas y los puntos ganados son: en cuarto lugar, Gryffindor, con trescientos doce
 
-puntos; en tercer lugar, Hufflepuff, con trescientos cincuenta y dos; Ravenclaw tiene cuatrocientos
+puntos; en tercer lugar, Hufflepuff, con trescientos cincuenta y dos; Ravenclaw tiene cuatrocientos
 veintiséis, y Slytherin, cuatrocientos setenta y dos.
 Una tormenta de vivas y aplausos estalló en la mesa de Slytherin. Harry pudo ver a Draco Malfoy
 golpeando la mesa con su copa. Era una visión repugnante.
@@ -6377,7 +6340,7 @@ la gran serpiente se desvaneció para dar paso al león de Gryffindor. Snape est
 profesora McGonagall, con una horrible sonrisa forzada en su cara. Captó la mirada de Harry y el
 muchacho supo de inmediato que los sentimientos de Snape hacia él no habían cambiado en absoluto.
 
-Aquello no lo preocupaba. Parecía que la vida iba a volver a la normalidad en el año próximo, o a la
+Aquello no lo preocupaba. Parecía que la vida iba a volver a la normalidad en el año próximo, o a la
 normalidad típica de Hogwarts.
 Aquélla fue la mejor noche de la vida de Harry, mejor que ganar un partido de quidditch, o que la
 Navidad, o que hacer que se desmayara el monstruo gigante… Nunca, jamás, olvidaría aquella noche.
@@ -6418,7 +6381,7 @@ La señora Weasley les sonrió.
 Era tío Vernon, todavía con el rostro púrpura, todavía con bigotes y todavía con aire furioso ante la
 audacia de Harry, llevando una lechuza en una jaula, en una estación llena de gente común. Detrás,
 
-estaban tía Petunia y Dudley, con aire aterrorizado ante la sola presencia de Harry.
+estaban tía Petunia y Dudley, con aire aterrorizado ante la sola presencia de Harry.
 —¡Usted debe de ser de la familia de Harry! —dijo la señora Weasley.
 —Por decirlo así —dijo tío Vernon—. Date prisa, muchacho, no tenemos todo el día. —Dio la vuelta
 para ir hacia la puerta.
@@ -6429,35 +6392,3 @@ impresionada de que alguien pudiera ser tan desagradable.
 —Oh, lo serán —dijo Harry, y sus amigos vieron, con sorpresa, la sonrisa burlona que se extendía
 por su cara—. Ellos no saben que no nos permiten utilizar magia en casa. Voy a divertirme mucho este
 verano con Dudley…
-
-JOANNE KATHLEEN ROWLING. Escritora escocesa, conocida principalmente por su serie de libros
-juveniles protagonizados por Harry Potter, verdadero fenómeno literario a nivel mundial que ha
-conseguido vender más de 400 millones de ejemplares, siendo traducida a más de 20 idiomas.
-Rowling estudió filología clásica y francés, trabajando como investigadora y secretaria para Amnistía
-Internacional antes de trabajar en Portugal como profesora de inglés en 1992. Tras un corto matrimonio
-volvió a Edimburgo con su hija, sin empleo y en una situación ciertamente preocupante.
-Durante este periodo, Rowling terminó su primer libro de la serie, Harry Potter y la piedra filosofal,
-manuscrito que fue presentado sin éxito a numerosas editoriales hasta que Bloomsbury decidió
-publicarlo. Tras el éxito, basado en el boca a boca, del libro, Rowling recibió una beca y un año después
-el libro comenzó a venderse en EE.UU.
-A partir del segundo libro, Harry Potter y la cámara secreta, el éxito de sus historias creció de manera
-exponencial, alcanzando con sus obras los puestos más altos de las listas de ventas en prácticamente todo
-el mundo.
-Pocos años después, las novelas de Harry Potter comenzaron a ser adaptadas al cine con gran éxito
-gracias a directores como Chris Columbus, Mike Newell o Alfonso Cuarón. Mientras tanto, Rowling
-recibió numerosos galardones como el Andersen, varios Honoris Causa, el Príncipe de Asturias de la
-Concordia e incluso la Legión de Honor francesa.
-Tras la publicación del último libro de la serie, Harry Potter y las reliquias de la muerte, Rowling ha
-publicado varios libros en el mismo universo, siempre a título benéfico, como el caso de Los cuentos de
-Beedle el Bardo.
-
-En la actualidad Rowling no ha aclarado sus intenciones literarias en el futuro y disfruta de su éxito
-realizando numerosos actos benéficos, conferencias e intervenciones a favor de la lectura.
-
-De J.K. Rowling
-Una experiencia en Internet única inspirada en los libros de Harry Potter. Comparte las historias y
-participa en ellas, demuestra tu creatividad en el mundo Potter y descubre más información sobre el
-mundo de Harry Potter proporcionada por la propia autora.
-Visita pottermore.com
-
-
