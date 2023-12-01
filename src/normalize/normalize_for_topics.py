@@ -72,12 +72,12 @@ stop_words = nltk.corpus.stopwords.words('english')
 wtk = nltk.tokenize.RegexpTokenizer(r'\w+')
 wnl = nltk.stem.wordnet.WordNetLemmatizer()
 
-#removes letter 's' from the end of 'Mrs' in Mrs Dursley
+#removes letter 's' from the end of 'Mrs' in Mrs Dursley?
 def normalize_corpus(papers):
     norm_papers = []
     for paper in papers:
-        #TODO: 'wa' words remain in text for some reason
-        remove_stopwords.remove_stopwords(paper)
+        #TODO: 'wa' words remain in text for some reason?
+        remove_stopwords.remove_stopwords(paper, 'english')
         paper = paper.lower()
         paper_tokens = [token.strip() for token in wtk.tokenize(paper)]
         paper_tokens = [wnl.lemmatize(token) for token in paper_tokens if not token.isnumeric()]
@@ -111,26 +111,24 @@ norm_corpus_bigrams = [bigram_model[doc] for doc in norm_papers]
 dictionary = gensim.corpora.Dictionary(norm_corpus_bigrams)
 # print('Sample word to number mappings:', list(dictionary.items())[:15])
 # print('\n')
-print('Total Vocabulary Size:', len(dictionary))
-print('\n')
+print('\nTotal Vocabulary Size:', len(dictionary))
 
 # Filter out words that occur less than 2 chapters, or more than 50% of the chapters
 # this filters out recurring topics
 dictionary.filter_extremes(no_below=6, no_above=0.8)
 print('Total Filtered Vocabulary Size:', len(dictionary))
-print('\n')
+
 
 
 
 #feature engineering with a bag of words model
 # Transforming corpus into bag of words vectors
 bow_corpus = [dictionary.doc2bow(text) for text in norm_corpus_bigrams]
-print(bow_corpus[1][:50])
+# print(bow_corpus[1][:50])
 # # viewing actual terms and their counts
 # print([(dictionary[idx] , freq) for idx, freq in bow_corpus[1][:50]])
 # total chapters in the corpus
-print('Total number of chapters:', len(bow_corpus))
-print('\n')
+print('\nTotal number of chapters:', len(bow_corpus))
 
 
 #latent semantic indexing
@@ -183,7 +181,7 @@ lda_model = gensim.models.LdaModel( corpus=bow_corpus, id2word=dictionary,
 #overall mean coherence score of the model
 topics_coherences = lda_model.top_topics(bow_corpus, topn=20)
 avg_coherence_score = np.mean([item[1] for item in topics_coherences])
-print('Avg. Coherence Score:', avg_coherence_score)
+print('\nAvg. Coherence Score:', avg_coherence_score)
 
 #LDA topics with weights
 topics_with_wts = [item[0] for item in topics_coherences]
@@ -195,7 +193,8 @@ topics_with_wts = [item[0] for item in topics_coherences]
 #     print()
     
 #LDA topics without weights
-print('LDA Topics without Weights')
+print('\nLDA Topics without Weights')
+print(f'Total topics: {TOTAL_TOPICS}')
 print('='*50)
 for idx, topic in enumerate(topics_with_wts):
     print('Topic #'+str(idx+1)+':')
@@ -203,7 +202,7 @@ for idx, topic in enumerate(topics_with_wts):
     print()
     
     
-    
+## not working yet
 # cv_coherence_model_lda = gensim.models.CoherenceModel( model=lda_model,
 #                                                       corpus=bow_corpus,
 #                                                       texts=norm_corpus_bigrams,

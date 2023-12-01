@@ -16,7 +16,6 @@ import networkx
 
 text = (basic_functions.open_text('HP-english_original.txt')).read()
 
-
 #normalize the text
 normalize_corpus = np.vectorize(normalize_document)
 
@@ -38,17 +37,18 @@ dt_matrix = dt_matrix.toarray()
 vocab = tv.get_feature_names_out()
 td_matrix = dt_matrix.T
 #print matrix row and column numbers
-print(td_matrix.shape)
+#print(td_matrix.shape)
 
 df = pd.DataFrame(np.round(td_matrix, 2), index=vocab).head(10)
 #print topics from the NMF model table
-print(df)
+# print(df)
 
 # =============================================================================
 # 
 # =============================================================================
 
-#latent semantic analysis - can be applied as content extract or book trailer
+#latent semantic analysis - can be applied as content extract or book insight
+
 #method 1: low-rank Singular Value Decomposition (LSI SVD)
 def low_rank_svd(matrix, singular_count=2):
     u, s, vt = svds(matrix, k=singular_count)
@@ -69,7 +69,10 @@ np.square(topic_document_mat)))
 #selecting the top sentences
 top_sentence_indices = (-salience_scores).argsort()[:num_sentences]
 top_sentence_indices.sort()
-#print('\n'.join(np.array(sentences)[top_sentence_indices]))
+print(f'Number of sentences: {num_sentences}\n'
+      f'Number of topics: {num_topics}')
+# construct the document summary
+# print('\n'.join(np.array(sentences)[top_sentence_indices]))
 
 # =============================================================================
 # 
@@ -78,7 +81,7 @@ top_sentence_indices.sort()
 #method 2: TextRank
 # it gives a more coherent summarization with 100 sentences
 similarity_matrix = np.matmul(dt_matrix, dt_matrix.T)
-print(similarity_matrix.shape)
+# print(similarity_matrix.shape)
 np.round(similarity_matrix, 3)
 
 # build the similarity graph
