@@ -23,9 +23,13 @@ def word_lengths_counts(text, language):
     for prefix in ('“','‘'):
         words = [x.removeprefix(prefix) for x in words]
     
+    #filter single qoutation marks
+    if(language=='english'):
+        words = list(filter(lambda x: x != "'", words))
+    
     #filter remaining empty strings
     words = list(filter(None, words))
-    
+
     # count the different lengths using a dict
     dictionary = {}
     for x in words:
@@ -42,7 +46,8 @@ def word_lengths_counts(text, language):
     plt.xlabel('Word lengths')
     plt.ylabel('Word counts')
     
-    # displaying the longest word
-    plt.title(f'Longest word in {language} text: ' + ' '.join(x for x in words if len(x)==max(lengths)))
-    
+    # displaying the 3 longest words
+    longests = sorted(words, key=len)[-3:]
+    # plt.title(f'The 3 longest words in {language} text: ' + ' '.join(x for x in words if len(x)==max(lengths))
+    plt.title(f'The 3 longest words in {language} text:\n' + '\n'.join(reversed(longests) ), wrap=True)
     plt.show()

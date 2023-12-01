@@ -9,18 +9,16 @@ Output is a text containing just words including chapter titles and newline char
 '''
 
 import basic_functions
+import re
 import remove_characters
 import remove_empty_lines
 
 
 text = (basic_functions.open_text('HP-french.txt')).read()
 
-# TODO: solve em-dash problem (used as hyphen and as thought mark as well)
-# https://stackoverflow.com/questions/2763750/how-to-replace-only-part-of-the-match-with-python-re-sub
-# =============================================================================
-# text = re.sub(r'[a-z|A-Z]—[a-z|A-Z]', r'-', text)
-# text = text.replace('—',' ')
-# =============================================================================
+# unify hyphens (change EM-DASHes to HYPHEN-MINUS)
+text = re.sub('—', '-', text)
+text = text.replace('—',' ')
 
 #remove empty lines
 text = remove_empty_lines.remove_empty_lines(text)
