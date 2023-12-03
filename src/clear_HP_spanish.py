@@ -24,5 +24,4 @@ text = remove_empty_lines.remove_empty_lines(text)
 #remove unnecessary characters (dots, etc.)
 text = remove_characters.remove_unnecessary_chars(text)
 
-
 basic_functions.write_text('HP-spanish_clean.txt', text)

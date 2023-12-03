@@ -18,7 +18,6 @@ text = (basic_functions.open_text('HP-french.txt')).read()
 
 # unify hyphens (change EM-DASHes to HYPHEN-MINUS)
 text = re.sub('—', '-', text)
-text = text.replace('—',' ')
 
 #remove empty lines
 text = remove_empty_lines.remove_empty_lines(text)
