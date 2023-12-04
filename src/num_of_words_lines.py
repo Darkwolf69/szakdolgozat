@@ -4,37 +4,64 @@ Created on Sun Nov 12 03:24:57 2023
 
 @author: adamWolf
 
-Generate plot for displaying number of words and lines in whole texts of all languages
+Generate plot for displaying number of words and lines
+in whole texts of all languages
 """
 
 import basic_functions as base_fns
+
+import prepare_english as prep_eng
+import prepare_german as prep_ger
+import prepare_french as prep_fre
+import prepare_spanish as prep_esp
+
+import remove_empty_lines as rm_empty_lines
+import remove_characters as rm_chars
+import expand_contractions as exp_contr
+
 import matplotlib.pyplot as plt
 
-#returns total word numbers of the given text file
-def num_words(file_name, file_language):
-    return base_fns.number_of_words_in_text(base_fns.open_text(file_name))
 
-#returns total line numbers of the given text file
-def num_lines(file_name, file_language):
-    return base_fns.line_number_of_text(base_fns.open_text(file_name))
+#read texts
+english_text = base_fns.open_text('HP-english.txt').read()
+german_text = base_fns.open_text('HP-german.txt').read()
+french_text = base_fns.open_text('HP-french.txt').read()
+spanish_text = base_fns.open_text('HP-spanish.txt').read()
 
-languages = ['english','german','french','spanish']
+#normalize texts
+english_text = prep_eng.prepare_english(english_text)
+english_text = rm_empty_lines.remove_empty_lines(english_text)
+english_text = rm_chars.remove_unnecessary_chars(english_text)
+english_text = exp_contr.expand_contractions(english_text)
+
+german_text = prep_ger.prepare_german(german_text)
+german_text = rm_empty_lines.remove_empty_lines(german_text)
+german_text = rm_chars.remove_unnecessary_chars(german_text)
+
+french_text = prep_fre.prepare_french(french_text)
+french_text = rm_empty_lines.remove_empty_lines(french_text)
+french_text = rm_chars.remove_unnecessary_chars(french_text)
+
+spanish_text = prep_esp.prepare_spanish(spanish_text)
+spanish_text = rm_empty_lines.remove_empty_lines(spanish_text)
+spanish_text = rm_chars.remove_unnecessary_chars(spanish_text)
 
 #count and store line and word numbers
-numw_eng = num_words('HP-english_clean.txt', 'english')
-numw_ger = num_words('HP-german_clean.txt', 'german')
-numw_fr = num_words('HP-french_clean.txt', 'french')
-numw_sp = num_words('HP-spanish_clean.txt', 'spanish')
+numw_eng = base_fns.number_of_words_in_text(english_text)
+numw_ger = base_fns.number_of_words_in_text(german_text)
+numw_fr = base_fns.number_of_words_in_text(french_text)
+numw_sp = base_fns.number_of_words_in_text(spanish_text)
 
-numl_eng = num_lines('HP-english_clean.txt', 'english')
-numl_ger = num_lines('HP-german_clean.txt', 'german')
-numl_fr = num_lines('HP-french_clean.txt', 'french')
-numl_sp = num_lines('HP-spanish_clean.txt', 'spanish')
+numl_eng = base_fns.line_number_of_text(english_text)
+numl_ger = base_fns.line_number_of_text(german_text)
+numl_fr = base_fns.line_number_of_text(french_text)
+numl_sp = base_fns.line_number_of_text(spanish_text)
 
 # preparing data on which bar chart will be plot
 languages = ('English', 'German', 'French', 'Spanish')
 word_counts = (numw_eng, numw_ger, numw_fr, numw_sp)
 line_counts = (numl_eng, numl_ger, numl_fr, numl_sp)
+
 
 # create and show two subplots with the received data
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(9, 7), sharey=True, layout='constrained')

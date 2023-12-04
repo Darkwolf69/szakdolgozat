@@ -47,7 +47,7 @@ def word_lengths_counts(text, language):
     plt.ylabel('Word counts')
     
     # displaying the 3 longest words
-    longests = sorted(words, key=len)[-3:]
+    longests = sorted(words, key=len)[-4:]
     # plt.title(f'The 3 longest words in {language} text: ' + ' '.join(x for x in words if len(x)==max(lengths))
-    plt.title(f'The 3 longest words in {language} text:\n' + '\n'.join(reversed(longests) ), wrap=True)
+    plt.title(f'The 4 longest words in {language} text:\n' + '\n'.join(reversed(longests) ), wrap=True)
     plt.show()
