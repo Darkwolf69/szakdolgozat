@@ -7,25 +7,25 @@ Created on Sun Nov 12 03:14:21 2023
 Display word frequency plot of given text
 '''
 
-import basic_functions
 from collections import Counter
 import pandas as pd
 import matplotlib.pyplot as plt
 
 
-def word_frequency(textFile, text_language):
-    data = (basic_functions.open_text(textFile)).read()
-    data = data.lower()
+def word_frequency(text, text_language):
+    text = text.lower()
     
     cnt = Counter()
     
-    for data in data.split():
-        cnt[data] += 1
-        
+    # iterate over text splitted to words and collect number of each word
+    for text in text.split():
+            cnt[text] += 1
+    
+
     # See most common 100 words
     most_common = cnt.most_common(100)
     
-    word_freq = pd.DataFrame(cnt.most_common(100), columns=['words', 'count'])
+    word_freq = pd.DataFrame(most_common, columns=['words', 'count'])
     word_freq.head()
     
     fig, ax = plt.subplots(figsize=(12, 20))

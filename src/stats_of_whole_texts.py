@@ -16,10 +16,10 @@ import prepare_spanish as prep_esp
 
 import remove_empty_lines as rm_empty_lines
 import remove_characters as rm_chars
-import remove_special_characters as rm_all_chars
 import expand_contractions as exp_contr
 import remove_stopwords as rm_stopwords
 
+import write_num_of_sentences
 import num_of_words_lines
 import word_lengths_counts as len_cnt
 import frequency_plot
@@ -52,15 +52,21 @@ spanish_text = prep_esp.prepare_spanish(spanish_text)
 spanish_text = rm_empty_lines.remove_empty_lines(spanish_text)
 spanish_text = rm_chars.remove_unnecessary_chars(spanish_text)
 
+# get statistics of texts
 
+# get number of sentences
+write_num_of_sentences
+
+#get number of words and lines
 num_of_words_lines
 
+# get lengths and counts of words in texts
 len_cnt.word_lengths_counts(english_text, 'english')
 len_cnt.word_lengths_counts(german_text, 'german')
 len_cnt.word_lengths_counts(french_text, 'french')
 len_cnt.word_lengths_counts(spanish_text, 'spanish')
 
-
+#get word frequencies in texts
 text_english = rm_stopwords.remove_stopwords(english_text, 'english')
 frequency_plot.word_frequency(text_english, 'english')
 text_german = rm_stopwords.remove_stopwords(german_text, 'german')
