@@ -1,0 +1,1132 @@
+﻿Harry Potter And The Philospohers Stone
+Summarization of the whole book with LSI_SVD
+Number of sentences in each chapter: 40
+Number of topics: 2
+
+
+
+##############################################
+      Summarization of CHAPTER 1
+##############################################
+
+
+ CHAPTER ONE  
+
+The Boy Who Lived 
+
+Mr and Mrs Dursley, of number four, Privet Drive, were proud to 
+say that they were perfectly normal, thank you very much.
+Mr Dursley blinked and stared at the cat.
+As Mr 
+Dursley drove around the corner and up the road, he watched the 
+cat in his mirror.
+Mr 
+Dursley gave himself a little shake and put the cat out of his 
+mind.
+'The Potters, that's right, that's what I heard –' 
+'– yes, their son, Harry –' 
+Mr Dursley stopped dead.
+said Mr Dursley loudly.
+Was this normal 
+cat behaviour, Mr Dursley wondered.
+Mrs Dursley had had a nice, normal day.
+Mr Dursley tried to 
+act normally.
+Mr Dursley sat frozen in his armchair.
+snapped Mrs Dursley.
+'I suppose so,' said Mrs Dursley stiffly.
+'Oh, yes,' said Mr Dursley, his heart sinking horribly.
+While Mrs Dursley was in the bathroom, Mr Dursley crept 
+to the bedroom window and peered down into the front garden.
+Mrs Dursley fell asleep quickly but 
+Mr Dursley lay awake, turning it all over in his mind.
+'Fancy seeing you here, Professor McGonagall.'
+'You'd be stiff if you'd been sitting on a brick wall all day,' said 
+
+Professor McGonagall.
+Professor McGonagall sniffed angrily.
+'You can't blame them,' said Dumbledore gently.
+'I know that,' said Professor McGonagall irritably.
+'No, thank you,' said Professor McGonagall coldly, as though 
+she didn't think this was the moment for sherbet lemons.
+Professor McGonagall flinched, but 
+Dumbledore, who was unsticking two sherbet lemons, seemed 
+not to notice.
+'I know you haven't,' said Professor McGonagall, sounding halfexasperated
+, half-admiring.
+Professor McGonagall shot a sharp look at Dumbledore and 
+
+said, 'The owls are nothing to the rumours that are flying around.
+Professor McGonagall gasped.
+Professor McGonagall's voice trembled as she went on.
+faltered Professor McGonagall.
+'We can only guess,' said Dumbledore.
+'Yes,' said Professor McGonagall.
+'Dumbledore – you can't.
+Professor McGonagall opened her mouth, changed her mind, 
+swallowed and then said, 'Yes – yes, you're right, of course.
+'I'm not saying his heart isn't in the right place,' said Professor 
+
+McGonagall grudgingly, 'but you can't pretend he's not careless.
+'Hagrid,' said Dumbledore, sounding relieved.
+Dumbledore and Professor McGonagall bent forward over the 
+bundle of blankets.
+whispered Professor McGonagall.
+'Yes,' said Dumbledore.
+hissed Professor McGonagall.
+'Well,' said Dumbledore finally, 'that's that.
+G'night, Professor McGonagall – Professor 
+Dumbledore, sir.'
+'I shall see you soon, I expect, Professor McGonagall,' said 
+Dumbledore, nodding to her.
+
+##############################################
+      Summarization of CHAPTER 2
+##############################################
+
+
+'Nearly,' said Harry.
+Exactly why Dudley wanted a racing bike was a mystery to Harry, 
+as Dudley was very fat and hated exercise – unless of course it 
+involved punching somebody.
+He 
+looked even smaller and skinnier than he really was because all he 
+had to wear were old clothes of Dudley's and Dudley was about 
+four times bigger than he was.
+Uncle Vernon entered the kitchen as Harry was turning over 
+the bacon.
+About once a week, Uncle Vernon looked over the top of his 
+
+newspaper and shouted that Harry needed a haircut.
+Dudley looked a lot like Uncle Vernon.
+Aunt 
+Petunia often said that Dudley looked like a baby angel – Harry 
+often said that Dudley looked like a pig in a wig.
+Dudley, meanwhile, was 
+counting his presents.
+Harry, who could see a huge Dudley tantrum coming on, began 
+wolfing down his bacon as fast as possible in case Dudley turned 
+the table over.
+Dudley thought for a moment.
+Uncle Vernon chuckled.
+Atta 
+
+boy, Dudley!'
+He ruffled Dudley's hair.
+'Bad news, Vernon,' she said.
+said Aunt Petunia, looking furiously at Harry as 
+though he'd planned this.
+'I won't blow up the house,' said Harry, but they weren't listening.
+'I suppose we could take him to the zoo,' said Aunt Petunia 
+
+slowly, '... and leave him in the car ...' 
+'That car's new, he's not sitting in it alone ...' 
+Dudley began to cry loudly.
+said Aunt Petunia frantically – and a moment later, Dudley's best 
+friend, Piers Polkiss, walked in with his mother.
+Dudley stopped pretending to cry at once.
+Half an hour later, Harry, who couldn't believe his luck, was 
+sitting in the back of the Dursleys' car with Piers and Dudley, on 
+the way to the zoo for the first time in his life.
+His aunt and uncle 
+hadn't been able to think of anything else to do with him, but 
+before they'd left, Uncle Vernon had taken Harry aside.
+'I'm not going to do anything,' said Harry, 'honestly ...' 
+But Uncle Vernon didn't believe him.
+While he drove, Uncle Vernon complained to Aunt Petunia.
+'I had a dream about a motorbike,' said Harry, remembering 
+suddenly.
+Uncle Vernon nearly crashed into the car in front.
+Dudley and Piers sniggered.
+'I know they don't,' said Harry.
+Dudley and Piers wanted to see huge, poisonous 
+cobras and thick, man-crushing pythons.
+'Do it again,' Dudley ordered.
+'This is boring,' Dudley moaned.
+The snake jerked its head towards Uncle Vernon and Dudley, 
+then raised its eyes to the ceiling.
+It gave Harry a look that said 
+quite plainly: 'I get that all the time.'
+'DUDLEY!
+Dudley came waddling towards them as fast as he could.
+'Out of the way, you,' he said, punching Harry in the ribs.
+Piers and 
+Dudley could only gibber.
+As far as Harry had seen, the snake 
+hadn't done anything except snap playfully at their heels as it 
+passed, but by the time they were all back in Uncle Vernon's car, 
+Dudley was telling them how it had nearly bitten off his leg, while 
+Piers was swearing it had tried to squeeze him to death.
+But worst 
+of all, for Harry at least, was Piers calming down enough to say, 
+'Harry was talking to it, weren't you, Harry?'
+Uncle Vernon waited until Piers was safely out of the house 
+before starting on Harry.
+Everybody knew that Dudley's 
+gang hated that odd Harry Potter in his baggy old clothes and 
+broken glasses, and nobody liked to disagree with Dudley's gang.
+
+##############################################
+      Summarization of CHAPTER 3
+##############################################
+
+
+Dudley had a place at 
+Uncle Vernon's old school, Smeltings.
+'No thanks,' said Harry.
+Then he ran, 
+before Dudley could work out what he'd said.
+As he looked at Dudley in his new knickerbockers, Uncle 
+Vernon said gruffly that it was the proudest moment of his life.
+'Your new school uniform,' she said.
+'Oh,' he said.
+Dudley and Uncle Vernon came in, both with wrinkled noses 
+because of the smell from Harry's new uniform.
+'Get the post, Dudley,' said Uncle Vernon from behind his 
+paper.
+'Make Harry get it.'
+'Get the post, Harry.'
+shouted Uncle Vernon from the kitchen.
+said Dudley suddenly.
+said Harry, trying to snatch it back.
+sneered Uncle Vernon, shaking the 
+
+letter open with one hand and glancing at it.
+Dudley tried to grab the letter to read it, but Uncle Vernon held 
+
+it high out of his reach.
+'Vernon!
+'I want to read that letter,' he said loudly.
+'I want to read it,' said Harry furiously, 'as it's mine.'
+'Get out, both of you,' croaked Uncle Vernon, stuffing the letter 
+
+back inside its envelope.
+roared Uncle Vernon, and he took both Harry and 
+
+Dudley by the scruffs of their necks and threw them into the hall, 
+slamming the kitchen door behind them.
+'But what should we do, Vernon?
+'No,' he said finally.
+That evening when he got back from work, Uncle Vernon did 
+something he'd never done before; he visited Harry in his cupboard.
+said Harry, the moment Uncle Vernon had 
+squeezed through the door.
+It was addressed to you by mistake,' said Uncle 
+Vernon shortly.
+'It was not a mistake,' said Harry angrily.
+said Harry.
+The Dursleys' house had four bedrooms: one for Uncle Vernon 
+
+and Aunt Petunia, one for visitors (usually Uncle Vernon's sister, 
+Marge), one where Dudley slept and one where Dudley kept all 
+the toys and things that wouldn't fit into his first bedroom.
+Uncle Vernon 
+and Aunt Petunia kept looking at each other darkly.
+When the post arrived, Uncle Vernon, who seemed to be trying 
+to be nice to Harry, made Dudley go and get it.
+Uncle Vernon had to 
+wrestle Dudley to the ground to get the letter from him, which 
+was made difficult by the fact that Harry had grabbed Uncle 
+Vernon around the neck from behind.
+Harry shuffled miserably 
+off into the kitchen, and by the time he got back, the post 
+had arrived, right into Uncle Vernon's lap.
+Uncle Vernon didn't go to work that day.
+Uncle Vernon stayed at home again.
+When Aunt Petunia and Dudley had run out with 
+their arms over their faces, Uncle Vernon slammed the door shut.
+Aunt Petunia suggested 
+timidly, hours later, but Uncle Vernon didn't seem to hear 
+her.
+Uncle Vernon was back and he was smiling.
+he said.
+'I've already got us some rations,' said Uncle Vernon, 'so all 
+aboard!'
+he said cheerfully
+.
+
+##############################################
+      Summarization of CHAPTER 4
+##############################################
+
+
+he said stupidly.
+'An' here's Harry!'
+said the giant.
+'Las' time I saw you, you was only a baby,' said the giant.
+he said.
+'Anyway – Harry,' said the giant, turning his back on the 
+Dursleys, 'a very happy birthday to yeh.
+Harry looked up at the giant.
+Finally, as nobody seemed about to explain anything
+, he said, 'I'm sorry, but I still don't really know who you are.'
+'Call me Hagrid,' he said, 'everyone does.
+'Er – no,' said Harry.
+'Sorry,' Harry said quickly.
+asked Harry.
+'I know some things,' he said.
+But Hagrid simply waved his hand and said, 'About our world, I 
+
+mean.
+Hagrid stared wildly at Harry.
+he said finally.
+said Harry eagerly.
+'Ah, go boilyourheads, both of yeh,' said Hagrid.
+'Harry –youra 
+
+wizard.'
+gasped Harry.
+With his tongue between his teeth he scribbled 
+a note which Harry could read upside-down: 
+
+ 
+Dear Mr Dumbledore, 
+
+Given Harry his letter.
+'He's not going,' he said.
+'I'd liketosee a great Muggle like you stop him,' he said.
+said Harry, interested.
+'A Muggle,' said Hagrid.
+said Harry.
+Harry had gone very white.
+Harry asked urgently.
+Harry suggested.
+Dark days, Harry.
+'Sorry,' he said.
+'Good question, Harry.
+Hagrid looked at Harry with warmth and respect blazing in his 
+eyes, but Harry, instead of feeling pleased and proud, felt quite 
+sure there had been a horrible mistake.
+'Hagrid,' he said quietly, 'I think you must have made a mistake.
+Harry looked into the fire.
+Harry looked back at Hagrid, smiling, and saw that Hagrid was 
+positively beaming at him.
+said Hagrid.
+'Harry Potter, not a wizard – you wait, you'll 
+be right famous at Hogwarts.'
+asked Harry.
+'You can kip under that,' he said.
+
+##############################################
+      Summarization of CHAPTER 5
+##############################################
+
+
+'Hagrid!'
+said Harry loudly.
+said Hagrid, who was pulling on his huge boots.
+Harry asked, looking around for 
+another boat.
+'Flew,' said Hagrid.
+Harry asked.
+Harry asked, before he could stop 
+himself. 
+
+'
+'Course,' said Hagrid.
+'Well, so they say,' said Hagrid.
+'Good,' said Hagrid.
+'Ifyouknow where to go,' said Hagrid.
+'Harry Potter ... 
+what an honour.'
+Harry didn't know what to say.
+said Hagrid.
+Come on, Harry.'
+Hagrid grinned at Harry.
+'Right, stand back, Harry.'
+'Welcome,' said Hagrid, 'to Diagon Alley.'
+'Like I said, yeh'd be madtotry an' rob it,' said Hagrid.
+'Morning,' said Hagrid to a free goblin.
+Harry asked.
+'Can't tellyouthat,' said Hagrid mysteriously.
+'Stalagmite's got an "m" in it,' said Hagrid.
+Harry asked.
+'Yes,' said Harry.
+'No,' said Harry.
+'That's Hagrid,' said Harry, pleased to know something the boy 
+didn't.
+'He's the gamekeeper,' said Harry.
+said Hagrid.
+When they had left the shop, he 
+said, 'Hagrid, what's Quidditch?'
+'Don' mention it,' said Hagrid gruffly.
+Harry Potter.'
+'It was, sir, yes,' said Hagrid.
+'Oh, no, sir,' said Hagrid quickly.
+'Er – well, I'm right-handed,' said Harry.
+Harry tried.
+Harry took the wand.
+'You all right, Harry?
+Yer very quiet,' said Hagrid.
+'Don' you worry, Harry.
+
+##############################################
+      Summarization of CHAPTER 6
+##############################################
+
+
+Ron's new, too.'
+'Yes,' said Harry.
+she said kindly, and Harry 
+nodded.
+'Er – OK,' said Harry.
+said Harry.
+'Oh, him,' said Harry.
+'Shut up,' said Ron.
+said their mother.
+And look after Ron.'
+'Shut up,' said Ron again.
+'Harry Potter!'
+'Harry,' said the other twin, 'did we introduce ourselves?
+'Bye,' said Harry and Ron.
+'Are you really Harry Potter?'
+Ron 
+
+stared.
+'Yes,' said Harry, 'but I can't remember it.'
+said Ron eagerly.
+'Wow,' said Ron.
+'Er – yes, I think so,' said Ron.
+'Five,' said Ron.
+said Harry.
+'Go 
+on –' 
+
+'You don't want this, it's all dry,' said Ron.
+'No,' said Ron.
+said Harry.
+said Ron.
+said Ron.
+'Help yourself,' said Harry.
+'He'll turn up,' said Harry.
+'Don't know why he's so bothered,' said Ron.
+'I'm Ron Weasley,' Ron muttered.
+'Harry Potter,' said Harry.
+'Gryffindor,' said Ron.
+'Yeah,' said Ron.
+Ron asked.
+he said.
+'Yes,' said Harry.
+He turned back to Harry.
+'I think he's been knocked out,' Ron said to Harry.
+'I've heard of his family,' said Ron darkly.
+All right there, Harry?'
+
+##############################################
+      Summarization of CHAPTER 7
+##############################################
+
+
+'The firs'-years, Professor McGonagall,' said Hagrid.
+'Welcome to Hogwarts,' said Professor McGonagall.
+'I shall return when we are ready for you,' said Professor 
+McGonagall.
+said the Fat Friar, smiling around at them.
+said the Friar.
+'Move along now,' said a sharp voice.
+Harry quickly looked down again as Professor McGonagall 
+silently placed a four-legged stool in front of the first-years.
+Maybe they had to try and get a rabbit out of it, Harry thought 
+wildly, that seemed the sort of thing – noticing that everyone in 
+ 
+
+
+
+ 
+ 
+the Hall was now staring at the hat, he stared at it too.
+'So we've just got to try on the hat!'
+Ron whispered to Harry.
+'When I call your name, you will put on the hat and sit on the 
+stool to be sorted,' she said.
+shouted the hat.
+Sometimes, Harry noticed, the hat shouted out the house at 
+once, but at others it took a little while to decide.
+'Finnigan, 
+Seamus', the sandy-haired boy next to Harry in the line, sat on the 
+stool for almost a whole minute before the hat declared him a 
+Gryffindor.
+shouted the hat.
+What 
+if he just sat there with the hat over his eyes for ages, until 
+Professor McGonagall jerked it off his head and said there had 
+obviously been a mistake and he'd better get back on the train?
+'The Harry Potter?'
+The last thing Harry saw before the hat dropped over his eyes 
+
+was the Hall full of people craning to get a good look at him.
+'Hmm,' said a small voice in his ear.
+said the small voice.
+Harry heard the hat shout the last word to the whole Hall.
+Harry crossed his fingers under the table and a 
+second later the hat had shouted, 'GRYFFINDOR!'
+'Well done, Ron, excellent,' said Percy Weasley pompously 
+across Harry as 'Zabini, Blaise' was made a Slytherin.
+Professor 
+McGonagall rolled up her scroll and took the Sorting Hat away.
+he said.
+said Percy airily.
+Potatoes, Harry?'
+'I haven't eaten for nearly five hundred years,' said the ghost.
+said Ron suddenly.
+'Like this,' he said irritably.
+'I've never asked,' said Nearly Headless Nick delicately.
+said Ron.
+Professor McGonagall was talking to Professor Dumbledore.
+Harder to shake 
+
+off was the feeling Harry had got from the teacher's look – a feeling 
+that he didn't like Harry at all.
+'Must be,' said Percy, frowning at Dumbledore.
+'Everyone pick their favourite tune,' said Dumbledore, 'and off 
+we go!'
+'Ah, music,' he said, wiping his eyes.
+he said, with an evil cackle.
+'You want to watch out for Peeves,' said Percy, as they set off 
+again.
+she said.
+
+##############################################
+      Summarization of CHAPTER 8
+##############################################
+
+
+'Transfiguration is some of the most complex and dangerous 
+magic you will learn at Hogwarts,' she said.
+Friday was an important day for Harry and Ron.
+Harry asked Ron as he poured sugar 
+on his porridge.
+'Double Potions with the Slytherins,' said Ron.
+'Wish McGonagall favoured us,' said Harry.
+Dear Harry, (it said, in a very untidy scrawl) 
+
+I know you get Friday afternoons off, so would you like to 
+come and have a cup of tea with me around three?
+Hagrid 
+ 
+
+Harry borrowed Ron's quill, scribbled 'Yes, please, see you later' on 
+the back of the note and sent Hedwig off again.
+It was lucky that Harry had tea with Hagrid to look forward to, 
+because the Potions lesson turned out to be the worst thing that 
+had happened to him so far.
+Snape didn't dislike Harry – he 
+hated him.
+'Ah, yes,' he said softly, 'Harry Potter.
+His eyes were black like Hagrid's, but they had 
+none of Hagrid's warmth.
+said Snape suddenly.
+'I don't know, sir,' said Harry.
+'I don't know, sir.'
+'I don't know,' said Harry quietly.
+Over 
+the noise, Snape said, 'And a point will be taken from Gryffindor 
+house for your cheek, Potter.'
+'Cheer up,' said Ron.
+Can I come and meet Hagrid with you?'
+Then Hagrid's voice rang out, 
+saying, 'Back, Fang – back.'
+'Hang on,' he said.
+'Make yerselves at home,' said Hagrid, letting go of Fang, who 
+bounded straight at Ron and started licking his ears.
+Like Hagrid, 
+Fang was clearly not as fierce as he looked.
+'This is Ron,' Harry told Hagrid, who was pouring boiling water 
+into a large teapot and putting rock cakes on to a plate.
+said Hagrid, glancing at Ron's freckles.
+The rock cakes almost broke their teeth, but Harry and Ron 
+pretended to be enjoying them as they told Hagrid all about their 
+first lessons.
+Harry and Ron were delighted to hear Hagrid call Filch 'that old 
+git'.
+Harry told Hagrid about Snape's lesson.
+Hagrid, like Ron, told 
+Harry not to worry about it, that Snape liked hardly any of the 
+students.
+said Hagrid.
+Yet Harry couldn't help thinking that Hagrid didn't quite meet 
+
+his eyes when he said that.
+Hagrid asked Ron.
+Harry wondered if Hagrid had changed the subject on purpose.
+While Ron told Hagrid all about Charlie's work with dragons, 
+Harry picked up a piece of paper that was lying on the table under 
+the tea cosy.
+'But we're not telling you what was in there, so keep your 
+noses out if you know what's good for you,' said a Gringotts 
+spokesgoblin this afternoon.
+'Hagrid!'
+said Harry.
+There was no doubt about it, Hagrid definitely didn't meet 
+Harry's eyes this time.
+As Harry and Ron walked back to the castle for dinner, their 
+pockets weighed down with rock cakes they'd been too polite to 
+refuse, Harry thought that none of the lessons he'd had so far had 
+given him as much to think about as tea with Hagrid.
+Had Hagrid 
+collected that package just in time?
+And did 
+Hagrid know something about Snape that he didn't want to tell 
+Harry?
+
+##############################################
+      Summarization of CHAPTER 9
+##############################################
+
+
+'Typical,' said Harry darkly.
+'You don't know you'll make a fool of yourself,' said Ron reasonably
+.
+Harry and Ron jumped to their feet.
+'What's going on?'
+Harry and Ron were delighted when she 
+told Malfoy he'd been doing it wrong for years.
+'Give that here, Malfoy,' said Harry quietly.
+'HARRY POTTER!'
+thought Harry, bewildered; was Wood a cane she was 
+going to use on him?
+'Follow me, you two,' said Professor McGonagall, and they 
+marched on up the corridor, Wood looking curiously at Harry.
+'He's just the build for a Seeker, too,' said Wood, now walking 
+
+around Harry and staring at him.
+he said.
+'Wood 
+told me.'
+'I start training next week,' said Harry.
+'Wood told us.
+You must be good, Harry, Wood was 
+almost skipping when he told us.'
+'I'd take you on any time on my own,' said Malfoy.
+'Of course he has,' said Ron, wheeling round.
+'Crabbe,' he said.
+When Malfoy had gone, Ron and Harry looked at each other.
+said Harry.
+said Ron.
+'And it's really none of your business,' said Harry.
+'Goodbye,' said Ron.
+said Ron furiously.
+'Come on,' he said to Ron.
+'Now what am I going to do?'
+'That's your problem,' said Ron.
+'I'm coming with you,' she said.
+'You've got some nerve –' said Ron loudly.
+said Harry sharply.
+said Harry.
+'Fine,' said Neville, showing them.
+said Neville, scrambling to his feet.
+'We've got to get back to Gryffindor Tower,' said Ron, 'quickly 
+as possible.'
+'Malfoy tricked you,' Hermione said to Harry.
+He was never going to meet you – Filch knew someone 
+was going to be in the trophy room, Malfoy must have tipped him 
+off.'
+Harry thought she was probably right, but he wasn't going to 
+tell her that.
+It was a while before any of them said anything.
+said Ron finally.
+'No, we don't mind,' he said.
+
+##############################################
+      Summarization of CHAPTER 10
+##############################################
+
+
+'Or both,' said Harry.
+Hermione was now refusing to speak to Harry and Ron, but she 
+was such a bossy know-it-all that they saw this as an added 
+bonus.
+Ron grinned at Harry.
+'Yes, yes, that's right,' said Professor Flitwick, beaming at Harry.
+Hermione was 
+stomping up the stairs looking disapprovingly at the package in 
+Harry's hand.
+said Harry.
+'Yes, don't stop now,' said Ron, 'it's doing us so much good.'
+Hermione marched away with her nose in the air.
+'Very nice,' said Wood, his eyes glinting.
+'Right,' said Wood.
+'This ball's called the Quaffle,' said Wood.
+said Wood curiously.
+'Never mind,' said Harry quickly.
+'Three Chasers, one Keeper,' said Harry, who was determined to 
+remember it all.
+'I'll show you now,' said Wood.
+'I'm going to show you what the Bludgers do,' Wood said.
+'Very good,' said Wood.
+'This,' said Wood, 'is the Golden Snitch, and it's the most 
+important ball of the lot.
+Ron, however, was to be 
+working with Hermione Granger.
+It was hard to tell whether Ron 
+or Hermione was angrier about this.
+'You're saying it wrong,' Harry heard Hermione snap.
+It was 
+Hermione.
+said Ron, but he looked a bit uncomfortable.
+'I've just thought – Hermione.'
+'He's heading for the third floor,' Harry said, but Ron held up 
+
+his hand.
+'Good idea,' said Ron nervously.
+'Hermione!'
+they said together.
+Hermione Granger was shrinking against the wall opposite, 
+looking as if she was about to faint.
+The troll stopped a few feet from Hermione.
+It was Hermione who spoke first.
+'I don't think so,' said Harry.
+Professor McGonagall was looking at 
+Ron and Harry.
+Hermione had managed to get to her feet at last.
+Hermione Granger, telling a downright 
+
+lie to a teacher?
+Hermione hung her head.
+Hermione left.
+Professor McGonagall turned to Harry and Ron.
+'Five, you mean, once she's taken off Hermione's.'
+But from that moment on, Hermione Granger became their 
+friend.
+
+##############################################
+      Summarization of CHAPTER 11
+##############################################
+
+
+Harry noticed at once that Snape was limping.
+Harry showed him.
+'Dunno, but I hope it's really hurting him,' said Ron bitterly.
+Harry, 
+Ron and Hermione sat together next to a window.
+Hermione was 
+checking Harry and Ron's Charms homework for them.
+Harry felt restless.
+'Rather you than me,' they said together, but Harry had an idea 
+that Snape wouldn't refuse if there were other teachers listening.
+Harry gulped.
+Harry left, before Snape could take any more points from 
+
+Gryffindor.
+Ron asked as Harry joined them.
+'No – he wouldn't,' she said.
+'I'm with Harry.
+Harry felt terrible.
+'Harry, you need your strength,' said Seamus Finnigan.
+'OK, men,' he said.
+'And women,' said Chaser Angelina Johnson.
+'The big one,' said Fred Weasley.
+'The one we've all been waiting for,' said George.
+'Shut up, you two,' said Wood.
+'Hagrid!'
+'Nope,' said Ron.
+'Harry hasn't had much to do yet.'
+'All right there, Harry?'
+Harry saw it.
+A roar of rage echoed from the Gryffindors below – 
+Marcus Flint had blocked Harry on purpose and Harry's broom 
+span off course, Harry holding on for dear life.
+Harry's 
+broom had given a wild jerk and Harry swung off it.
+'Can't have,' Hagrid said, his voice shaking.
+'He's doing something – jinxing the broom,' said Hermione.
+Ron turned the binoculars back on Harry.
+Ron said.
+'Rubbish,' said Hagrid, who hadn't heard a word of what had 
+gone on next to him in the stands.
+Harry, Ron and Hermione looked at each other, wondering 
+what to tell him.
+he said.
+said Harry eagerly.
+'Now, don't ask me any more,' said Hagrid gruffly.
+'Rubbish,' said Hagrid again.
+'So why did he just try and kill Harry?'
+said Hagrid hotly.
+'I don' know why 
+ 
+
+
+
+ 
+ 
+Harry's broom acted like that, but Snape wouldn' try an' kill a student
+!
+said Harry.
+
+##############################################
+      Summarization of CHAPTER 12
+##############################################
+
+
+'I'll get him,' said Ron, grinding his teeth at Malfoy's back, 'one 
+of these days, I'll get him –' 
+
+'I hate them both,' said Harry, 'Malfoy and Snape.'
+'Just one,' said Hermione.
+'We just want to know who Nicolas Flamel is, that's all,' said 
+Hermione.
+'Nothing,' said Harry.
+said 
+Hermione.
+'And you could ask your parents if they know who Flamel is,' 
+said Ron.
+'Very safe, as they're both dentists,' said Hermione.
+'You too,' said Harry.
+'Will you look at this?
+said Ron, turning to his own 
+pile, which was a lot bigger than Harry's.
+'That's friendly,' said Harry.
+he said.
+'You can keep it,' said Harry, laughing at how pleased Ron was.
+'It's an Invisibility Cloak,' said Ron, a look of awe on his face.
+Look down!'
+said Ron suddenly.
+'I'd give anything for one of these,' he said.
+'Nothing,' said Harry.
+'Hey, look – Harry's got a Weasley jumper, too!'
+Harry said nothing.
+His panic fading now that there was no sound of Filch and 
+Snape, Harry moved nearer to the mirror, wanting to look at himself 
+but see no reflection again.
+* 
+'You could have woken me up,' said Ron, crossly.
+'I'd like to see your mum and dad,' Ron said eagerly.
+'You can see them any old time,' said Ron.
+said Ron.
+'You look odd.'
+'I'm freezing,' said Ron.
+'See?'
+'Look!
+Look at them all ... there are loads of them ...' 
+
+ 
+
+
+
+ 
+ 
+
+'I can only see you.'
+Harry stepped aside, but with Ron in front of the mirror, he 
+
+couldn't see his family any more, just Ron in his paisley pyjamas.
+'Look at me!'
+he said.
+And Ron pulled Harry out of the room.
+said Ron.
+So what if they can't see you?
+But Harry only had one thought in his head, which was to get 
+
+back in front of the mirror, and Ron wasn't going to stop him.
+The happiest man on earth would be able to 
+
+use the Mirror of Erised like a normal mirror, that is, he would 
+look into it and see himself exactly as he is.
+Then he said slowly, 'It shows us what we want 
+... whatever we want ...' 
+
+'Yes and no,' said Dumbledore quietly.
+'What do you see when you look in the Mirror?'
+
+##############################################
+      Summarization of CHAPTER 13
+##############################################
+
+
+'You see, Dumbledore was right, that mirror could drive you 
+mad,' said Ron, when Harry told him about these dreams.
+'Don't talk to me for a moment,' said Ron when Harry sat down 
+next to him.
+'Don't play,' said Hermione at once.
+'Say you're ill,' said Ron.
+'Really break your leg,' said Ron.
+'I can't,' said Harry.
+Hermione asked him, leading him over to sit 
+with Harry and Ron.
+'Malfoy,' said Neville shakily.
+said Ron.
+'You're worth twelve of Malfoy,' Harry said.
+'Thanks, Harry ...
+'Dumbledore again,' he said.
+Then he looked 
+
+up at Ron and Hermione.
+said Ron, but Hermione told him to be quiet until she'd 
+looked something up, and started flicking frantically through the 
+pages, muttering to herself.
+said Ron grumpily.
+said Harry and Ron.
+said Hermione, when Harry and Ron had finished.
+said Harry.
+It wasn't until Ron said he'd buy his own Quidditch 
+team that Harry remembered about Snape and the coming match.
+I'm going to play,' he told Ron and Hermione.
+'I know,' Ron snapped.
+Harry's heart did a somersault.
+Malfoy, Crabbe and Goyle howled with laughter, but Ron, still 
+
+not daring to take his eyes from the game, said, 'You tell him, 
+Neville.'
+'I'm warning you, Malfoy – one more word –' 
+'Ron!'
+said Hermione suddenly.
+'Harry –!'
+said Malfoy.
+Ron snapped.
+'Come on, Harry!'
+'Ron!
+Ron!
+Harry's won!
+'Well done,' said Dumbledore quietly, so that only Harry could 
+hear.
+Harry had reached the shed.
+Harry leant forward.
+* 
+'Harry where have you been?'
+shouted Ron, thumping Harry on 
+the back.
+'Never mind that now,' said Harry breathlessly.
+said Hermione in alarm.
+'It'll be gone by next Tuesday,' said Ron.
+
+##############################################
+      Summarization of CHAPTER 14
+##############################################
+
+
+said Hagrid again.
+They'll think 
+I've toldyou–' 
+
+'See you later, then,' said Harry.
+Hagrid shuffled off.
+said Hermione thoughtfully
+.
+'But it's against our laws,' said Ron.
+said Harry.
+'Of course there are,' said Ron.
+'So what on earth's Hagrid up to?'
+said Hermione.
+Hagrid called, 'Who is it?'
+'Yes,' said Harry.
+Hagrid frowned at him.
+'O' course I can't,' he said.
+Harry and Ron 
+beamed at Hermione.
+Harry knew Ron and Hermione were thinking the same as he 
+
+was.
+said Harry anxiously.
+'Hagrid, 
+can we have a window open?
+'Can't, Harry, sorry,' said Hagrid.
+'Hagrid – what's that?'
+'Ah,' said Hagrid, fiddling nervously with his beard.
+'That's – er ...' 
+'Where did you get it, Hagrid?'
+'Won it,' said Hagrid.
+said 
+Hermione.
+'Hagrid, you live in a wooden house,' she said.
+But Hagrid wasn't listening.
+Hermione had now started making revision 
+timetables for Harry and Ron, too.
+Hagrid murmured.
+said Hagrid.
+'Hagrid,' said Hermione, 'how fast do Norwegian Ridgebacks 
+
+grow, exactly?'
+'I can't,' said Hagrid.
+'Hagrid,' said Harry loudly, 'give it a fortnight and Norbert's 
+
+going to be as long as your house.
+Hagrid bit his lip.
+'Charlie,' he said.
+'You're losing it, too,' said Ron.
+said Ron.
+'How about it, Hagrid?'
+said Harry, hurrying to let her in.
+'We've got the Invisibility Cloak,' said Harry.
+Harry and Hermione tried to calm Ron down.
+'It'll all be over at midnight on Saturday,' said Hermione, but 
+
+this didn't soothe Ron at all.
+
+##############################################
+      Summarization of CHAPTER 15
+##############################################
+
+
+'Harry!'
+said Harry miserably.
+Harry told them what he'd heard.
+said Ron.
+So what do we do, Harry?'
+said Harry.
+All 
+right, Harry, Hermione?'
+'I shouldn't be too friendly to them, Hagrid,' said Filch coldly, 
+'they're here to be punished, after all.'
+said Hagrid, frowning at Filch.
+'Yeh are ifyouwanttostay at Hogwarts,' said Hagrid fiercely.
+'Look there,' said Hagrid, 'see that stuff shinin' on the ground?
+'There's nothin' that lives in the Forest that'll hurtyouifyour
+with me or Fang,' said Hagrid.
+'All right, but I warn yeh, he's a coward,' said Hagrid.
+Harry asked.
+'Not fast enough,' said Hagrid.
+'You all right, Hermione?'
+Harry suggested.
+'That wasn' no werewolf an' it wasn' no unicorn, neither,' said 
+
+Hagrid grimly.
+Harry and 
+Hermione's jaws dropped.
+'Oh, it's you, Ronan,' said Hagrid in relief.
+'Good evening to you, Hagrid,' said Ronan.
+'Can't be too careful, Ronan,' said Hagrid, patting his crossbow.
+This is Harry Potter an' 
+Hermione Granger, by the way.
+'Good evening,' said Ronan.
+'Yeah,' said Hagrid, glancing up too.
+'Yeah,' said Hagrid, 'but haveyouseen anythin', Ronan?
+'Hullo, Bane,' said Hagrid.
+'All right?'
+'We've heard,' said Hagrid grumpily.
+'Never,' said Hagrid irritably, 'try an' get a straight answer out of 
+a centaur.
+said Harry.
+'Hagrid!
+Right, we're changin' groups – Neville, you stay with 
+me an' Hermione, Harry, you go with Fang an' this idiot.
+'Are you all right?'
+said Firenze.
+'Do you mean,' Harry croaked, 'that was Vol–' 
+'Harry!
+Harry, are you all right?'
+'Good luck, Harry Potter,' said Firenze.
+Harry couldn't sit down.
+Harry wasn't listening.
+
+##############################################
+      Summarization of CHAPTER 16
+##############################################
+
+
+said Ron sleepily.
+'But what can we –' 
+Hermione gasped.
+Hermione, you'd better do that.'
+'It's obvious,' said Ron.
+Harry said.
+said Ron.
+said Hermione.
+'You're right, Harry,' said Hermione in a small voice.
+said Ron.
+'Of course not,' said Hermione briskly.
+'Not if I can help it,' said Hermione grimly.
+'No, no, no,' said Hermione.
+said Neville.
+Harry turned to Hermione.
+whispered Ron.
+'Don't be stupid,' said Ron.
+'We're coming,' said Hermione.
+Hermione whispered.
+Hermione said anxiously.
+said Ron.
+'Right,' said Ron.
+Come on, Hermione!'
+said Hermione.
+Ron whispered.
+said Ron.
+said Ron.
+'These birds ... they can't be here just for decoration,' said 
+
+Hermione.
+said Ron.
+said Hermione nervously.
+'I think,' said Ron, 'we're going to have to be chessmen.'
+'I'm going to be a knight,' said Ron.
+Harry and Hermione shouted.
+'Snape's,' said Harry.
+'Brilliant,' said Hermione.
+'Of course not,' said Hermione.
+'Got it,' she said.
+'You drink that,' said Harry.
+'Hermione!'
+said Hermione.
+'Positive,' said Hermione.
+
+##############################################
+      Summarization of CHAPTER 17
+##############################################
+
+
+gasped Harry.
+'I see the Stone ...
+Harry 
+gasped.
+So 
+if I look in the Mirror, I should see myself finding it – which 
+means I'll see where it's hidden!
+'Look in the Mirror and tell me 
+
+ 
+
+
+
+ 
+ 
+what you see.'
+'What do you see?'
+What did you just see?'
+the face said.
+Quirrell was walking backwards at him, so that Voldemort 
+
+could still see him.
+shrieked Voldemort again and Quirrell 
+lunged, knocking Harry clean off his feet, landing on top of him, 
+both hands around Harry's neck – Harry's scar was almost blinding 
+him with pain, yet he could see Quirrell howling in agony.
+Quirrell screamed and tried to throw 
+Harry off – the pain in Harry's head was building – he couldn't see 
+– he could only hear Quirrell's terrible shrieks and Voldemort's 
+yells of 'KILL HIM!
+Harry!'
+'Good afternoon, Harry,' said Dumbledore.
+The Stone!
+It 
+
+was Quirrell!
+He's got the Stone!
+'Quirrell does not have the Stone.'
+'But sir, the Stone –' 
+'I see you are not to be distracted.
+Very well, the Stone.
+said Harry blankly.
+said Harry.
+'No, Harry, he has not.
+'Quirrell said Snape –' 
+'Professor Snape, Harry.'
+'How did I get the Stone out of the Mirror?'
+'Harry!'
+'Oh, Harry, we were sure you were going to – Dumbledore was 
+
+so worried –' 
+'The whole school's talking about it,' said Ron.
+Harry told 
+them everything: Quirrell; the Mirror; the Stone and Voldemort.
+'So the Stone's gone?'
+said Harry.
+He 
+already knew – he just said, "Harry's gone after him, hasn't he?"
+said Ron.
+'No, it isn't,' said Harry thoughtfully.
+'Oh good,' said Harry.
+Let me see.
+'Third – to Mr Harry Potter ...' said Dumbledore.
+'Thanks,' said Harry.
+'Not where I'm going, I promise you,' said Harry.
+'Harry Potter!'
+she said.
+'Very,' said Harry.
