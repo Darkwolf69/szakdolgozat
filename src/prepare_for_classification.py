@@ -72,7 +72,7 @@ def make_chapters_to_classification():
         text = prep_eng.prepare_english(text, False, True)
         
         # Prefix extraction before specific string (removes 'chapter xy' words from chapters)
-        # This regular expression applicable only for format e.g. "Chapter 1"
+        # This regular expression is applicable only for format e.g. "Chapter 1"
         res = re.split(rf"{split_string} [0-9]+", text)
         # print(res[0])
         
@@ -118,9 +118,6 @@ def make_chapters_to_classification():
     columns=['Target Label', 'Train Count', 'Test Count']).sort_values
      (by=['Train Count', 'Test Count'],ascending=False))
     print('distr_df:\n', distr_df)
-    
-    # datasets_list = [train_corpus, test_corpus, train_label_nums, test_label_nums,
-    #                  train_label_names, test_label_names]
     
     
     with open('datasets_list.npy', 'wb') as f:
