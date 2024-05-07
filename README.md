@@ -1,4 +1,4 @@
-# komplex_tervezes
+# komplex_tervezes_szakdolgozat
 komplex tervezés és szakdolgozat
 
 A szakdolgozat címe:
