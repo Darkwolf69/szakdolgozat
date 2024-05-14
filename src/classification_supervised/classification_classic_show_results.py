@@ -3,21 +3,27 @@
 Created on Sat Apr 27 00:04:03 2024
 
 @author: adamWolf
-
-shows results of text classification using classic (Bag of Words, TF-IDF) feature engineering models
-
 """
 
-import pandas as pd
-import json
-import matplotlib.pyplot as plt
 from IPython.display import display
 
+import pandas as pd
 
-def show_classification_results():
-    with open('classification_classic_results.txt', 'r') as file:
-        results = json.load(file, )
-        
+
+def show_classification_results(results):
+    """
+    Display classification results in a Pandas DataFrame.
+
+    Parameters:
+        results (dict): A dictionary containing classification results.
+
+    Displays a DataFrame with the following columns:
+        Model: Name of the classification model.
+        CV Score (TF): Mean cross-validation accuracy using Bag of Words (BOW).
+        Test Score (TF): Test accuracy using Bag of Words (BOW).
+        CV Score (TF-IDF): Mean cross-validation accuracy using TF-IDF.
+        Test Score (TF-IDF): Test accuracy using TF-IDF.
+    """
     results_frame = pd.DataFrame([['Naive Bayes', results.get('mnb_bow_cv_mean_score'), results.get('mnb_bow_test_score'),
         results.get('mnb_tfidf_cv_mean_score'), results.get('mnb_tfidf_test_score')],
         ['Logistic Regression', results.get('lr_bow_cv_mean_score'), results.get('lr_bow_test_score'),
@@ -34,22 +40,10 @@ def show_classification_results():
         'CV Score (TF-IDF)', 'Test Score (TF-IDF)'],
         ).T
     
-    # pd.set_option('display.max_colwidth', 1000)
     pd.set_option('display.max_columns', None)
     pd.set_option('display.max_rows', None)
     pd.set_option('display.width', 1000)
     pd.set_option('display.max_colwidth', 0)
     pd.set_option('display.precision', 6)
     
-    # plotting the results
-    # fig = plt.figure(figsize = (8, .2))
-    # ax = fig.add_subplot(111)
-    
-    # ax.table(cellText = results_frame.values, rowLabels = results_frame.index, 
-    #      colLabels = results_frame.columns, cellLoc='center')
-    # ax.set_title('Classification results with BOW and TF-IDF')
-    # plt.show()
-    
     display(results_frame)
-
-show_classification_results()

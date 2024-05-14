@@ -16,11 +16,22 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import LinearSVC
-from sklearn.linear_model import SGDClassifier
 import model_evaluation_utils as meu
 
 
-def tuning_MultinomialNB():
+def tuning_models():
+    """
+    Tuning machine learning models for text classification.
+
+    This function tunes Multinomial Naïve Bayes, Logistic Regression, and Linear SVM models
+    using grid search and evaluates their performance on a test dataset. It also provides
+    detailed evaluation metrics including accuracy, precision, recall, F1 score, classification
+    report, and confusion matrix for each model.
+
+    Returns:
+        None
+
+    """
     # reading prepared train and test corpus
     with open('datasets_list.npy', 'rb') as f:
         train_corpus = np.load(f, allow_pickle=True)
@@ -30,13 +41,17 @@ def tuning_MultinomialNB():
         train_label_names = np.load(f, allow_pickle=True)
         test_label_names = np.load(f, allow_pickle=True)
 
-
+    if not all(isinstance(i, np.ndarray) for i in [train_corpus, test_corpus, train_label_nums,
+                                                  test_label_nums, train_label_names, test_label_names]):
+        raise AttributeError('Invalid input')
+    
     labels_map = {
         0: 'muggle_world',
         1: 'magic_outside_Hogwarts',
         2: 'Voldemort_story_arch',
         3: 'Hogwarts_classroom_quidditch',
     }
+    
 # =============================================================================
 # # Tuning the Multinomial Naïve Bayes model
 # =============================================================================
@@ -49,20 +64,18 @@ def tuning_MultinomialNB():
     'mnb__alpha': [1e-5, 1e-4, 1e-2, 1e-1, 1]
     }
     
-    gs_mnb = GridSearchCV(mnb_pipeline, param_grid, cv=5, verbose=2)
+    gs_mnb = GridSearchCV(mnb_pipeline, param_grid, cv = 5, verbose = 2)
     gs_mnb = gs_mnb.fit(train_corpus, train_label_names)
     
     
     gs_mnb.best_estimator_.get_params()
-    
     {'memory': None,
      'steps': [('tfidf',
-                TfidfVectorizer(analyzer='word', max_df=1.0, min_df=1, ngram_range=(1, 2),
-                                norm='l2', use_idf=True),
-    ('mnb', MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True)))],
-    'tfidf': TfidfVectorizer(analyzer='word', max_df=1.0, min_df=1, ngram_range=(1, 2),
-        norm='l2', use_idf=True),
-    'mnb': MultinomialNB(alpha=0.01, class_prior=None, fit_prior=True),
+                TfidfVectorizer(analyzer = 'word', max_df = 1.0, min_df = 1, ngram_range = (1, 2), norm = 'l2', use_idf = True),
+                ('mnb', MultinomialNB(alpha = 0.01, class_prior = None, fit_prior = True)))],
+    'tfidf': TfidfVectorizer(analyzer = 'word', max_df = 1.0, min_df = 1, ngram_range = (1, 2),
+        norm = 'l2', use_idf = True),
+    'mnb': MultinomialNB(alpha = 0.01, class_prior = None, fit_prior = True),
     'tfidf__analyzer': 'word', 'tfidf__binary': False, 'tfidf__decode_error':
     'strict',
     'tfidf__dtype': np.float64, 'tfidf__encoding': 'utf-8', 'tfidf__input':
@@ -83,7 +96,7 @@ def tuning_MultinomialNB():
                                'cv score (mean)': cv_results['mean_test_score'],
                                'cv score (std)': cv_results['std_test_score']}
                               )
-    results_df = results_df.sort_values(by=['rank'], ascending=True)
+    results_df = results_df.sort_values(by = ['rank'], ascending = True)
     pd.set_option('display.max_colwidth', 100)
     print(results_df.to_string())
     
@@ -96,13 +109,13 @@ def tuning_MultinomialNB():
 # =============================================================================
     
     lr_pipeline = Pipeline([('tfidf', TfidfVectorizer()),
-    ('lr', LogisticRegression(penalty='l2', max_iter=100, random_state=42))
+    ('lr', LogisticRegression(penalty = 'l2', max_iter = 100, random_state = 42))
     ])
     
     param_grid = {'tfidf__ngram_range': [(1, 1), (1, 2)],
     'lr__C': [1, 5, 10]
     }
-    gs_lr = GridSearchCV(lr_pipeline, param_grid, cv=5, verbose=2)
+    gs_lr = GridSearchCV(lr_pipeline, param_grid, cv = 5, verbose = 2)
     gs_lr = gs_lr.fit(train_corpus, train_label_names)
     
     # evaluate best tuned model on the test dataset
@@ -115,13 +128,13 @@ def tuning_MultinomialNB():
 # =============================================================================
     
     svm_pipeline = Pipeline([('tfidf', TfidfVectorizer()),
-    ('svm', LinearSVC(random_state=42, dual='auto'))
+    ('svm', LinearSVC(random_state = 42, dual = 'auto'))
     ])
     param_grid = {'tfidf__ngram_range': [(1, 1), (1, 2)],
     'svm__C': [0.01, 0.1, 1, 5]
     }
     
-    gs_svm = GridSearchCV(svm_pipeline, param_grid, cv=5, verbose=2)
+    gs_svm = GridSearchCV(svm_pipeline, param_grid, cv = 5, verbose = 2)
     gs_svm = gs_svm.fit(train_corpus, train_label_names)
     
     # evaluating best tuned model on the test dataset
@@ -139,16 +152,12 @@ def tuning_MultinomialNB():
     mnb_predictions = gs_mnb.predict(test_corpus)
     unique_classes = list(set(test_label_names))
     meu.get_metrics(true_labels=test_label_names, predicted_labels=mnb_predictions)
-    # print('\n')
-    # print('mnb_predictions: ', mnb_predictions)
-    # print('unique_classes: ', unique_classes)
-    # print('\n')
     
-    meu.display_classification_report(true_labels=test_label_names,
-                                      predicted_labels=mnb_predictions, classes=unique_classes)
+    meu.display_classification_report(true_labels = test_label_names,
+                                      predicted_labels = mnb_predictions, classes = unique_classes)
     
     # print mapping between class label names and numbers
-    label_data_map = {v:k for k, v in labels_map.items()}
+    label_data_map = {v : k for k, v in labels_map.items()}
     label_map_df = pd.DataFrame(list(label_data_map.items()),
     columns=['Label Name', 'Label Number'])
     print(label_map_df)
@@ -156,8 +165,8 @@ def tuning_MultinomialNB():
     # print confusion matrix
     unique_class_nums = label_map_df['Label Number'].values
     mnb_prediction_class_nums = [label_data_map[item] for item in mnb_predictions]
-    meu.display_confusion_matrix(true_labels=test_label_nums,
-                                        predicted_labels=mnb_prediction_class_nums,
+    meu.display_confusion_matrix(true_labels = test_label_nums,
+                                        predicted_labels = mnb_prediction_class_nums,
                                         classes=unique_class_nums)
     
     
@@ -170,20 +179,16 @@ def tuning_MultinomialNB():
     print('Get accuracy, precision, recall, F1 score for Logistic Regression model')
     lr_predictions = gs_lr.predict(test_corpus)
     unique_classes = list(set(test_label_names))
-    meu.get_metrics(true_labels=test_label_names, predicted_labels=lr_predictions)
-    # print('\n')
-    # print('lr_predictions: ', lr_predictions)
-    # print('unique_classes: ', unique_classes)
-    # print('\n')
+    meu.get_metrics(true_labels = test_label_names, predicted_labels=lr_predictions)
     
-    meu.display_classification_report(true_labels=test_label_names,
-                                      predicted_labels=lr_predictions, classes=unique_classes)
+    meu.display_classification_report(true_labels = test_label_names,
+                                      predicted_labels = lr_predictions, classes = unique_classes)
     
     # print confusion matrix
     unique_class_nums = label_map_df['Label Number'].values
     lr_prediction_class_nums = [label_data_map[item] for item in lr_predictions]
-    meu.display_confusion_matrix(true_labels=test_label_nums,
-                                        predicted_labels=lr_prediction_class_nums,
+    meu.display_confusion_matrix(true_labels = test_label_nums,
+                                        predicted_labels = lr_prediction_class_nums,
                                         classes=unique_class_nums)
     
  # =============================================================================
@@ -196,22 +201,17 @@ def tuning_MultinomialNB():
     print('Get accuracy, precision, recall, F1 score for SVM model')
     svm_predictions = gs_svm.predict(test_corpus)
     unique_classes = list(set(test_label_names))
-    meu.get_metrics(true_labels=test_label_names, predicted_labels=svm_predictions)
-    # print('\n')
-    # print('svm_predictions: ', svm_predictions)
-    # print('unique_classes: ', unique_classes)
-    # print('\n')
+    meu.get_metrics(true_labels = test_label_names, predicted_labels = svm_predictions)
     
-    meu.display_classification_report(true_labels=test_label_names,
-                                      predicted_labels=svm_predictions, classes=unique_classes)
+    meu.display_classification_report(true_labels = test_label_names,
+                                      predicted_labels = svm_predictions, classes = unique_classes)
     
     # print confusion matrix
     unique_class_nums = label_map_df['Label Number'].values
     svm_prediction_class_nums = [label_data_map[item] for item in svm_predictions]
     meu.display_confusion_matrix(true_labels=test_label_nums,
-                                        predicted_labels=svm_prediction_class_nums,
-                                        classes=unique_class_nums)
+                                        predicted_labels = svm_prediction_class_nums,
+                                        classes = unique_class_nums)
     
     
-    
-tuning_MultinomialNB()
+tuning_models()

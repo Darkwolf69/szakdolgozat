@@ -8,20 +8,24 @@ Read all 7 Harry Potter books from files,
 classified its chapters manually to 4 predefined topics,
 split the books to chapters,
 make a corpus containing all of chapters,
-normalize the corpus,
-returns with the test and train datasets for the classifier system
+normalize the corpus
+
+Returns:
+    None (writes the test and train datasets for the classifier system to files)
 
 """
 
-import basic_functions
-import os
-import prepare_english as prep_eng
 import re
+from collections import Counter
+
 import numpy as np
 import pandas as pd
-from normalize_texts import normalize_corpus
 from sklearn.model_selection import train_test_split
-from collections import Counter
+
+import basic_functions
+import prepare_english as prep_eng
+from normalize_texts import normalize_corpus
+
 
 def make_chapters_to_classification():
     
@@ -72,13 +76,11 @@ def make_chapters_to_classification():
         text = prep_eng.prepare_english(text, False, True)
         
         # Prefix extraction before specific string (removes 'chapter xy' words from chapters)
-        # This regular expression is applicable only for format e.g. "Chapter 1"
+        # This regular expression is applicable only for the format e.g. "Chapter 1"
         res = re.split(rf"{split_string} [0-9]+", text)
-        # print(res[0])
         
         for i in range(0, file_names[i][1]):
             all_chapters_list.append(res[i+1])
-    
     
     # build the dataframe
     corpus, target_labels, target_names = (all_chapters_list, target,
@@ -86,39 +88,29 @@ def make_chapters_to_classification():
     
     data_df = pd.DataFrame({'Article': corpus, 'Target Label': target_labels,
                             'Target Name': target_names})
-    # print(data_df)
-    # data_df.head(10)
     
     # normalize the corpus
-    normalized_corpus = normalize_corpus(corpus=data_df['Article'], language='english',
-                                         contraction_expansion=True, text_lower_case=True,
-                                         text_lemmatization=True, special_char_removal=True,
-                                         stopword_removal=True, remove_digits=False)
+    normalized_corpus = normalize_corpus(corpus = data_df['Article'], language = 'english',
+                                         contraction_expansion = True, text_lower_case = True,
+                                         text_lemmatization = True, special_char_removal = True,
+                                         stopword_removal = True, remove_digits = False)
     
-    print('normalized corpus: ', normalized_corpus)
     data_df['Clean Article'] = normalized_corpus
     data_df = data_df[['Article', 'Clean Article', 'Target Label', 'Target Name']]
-    # print(data_df)
-    
     
     # build train and test datasets
     train_corpus, test_corpus, train_label_nums, test_label_nums, train_label_names, test_label_names = train_test_split(np.array(data_df['Clean Article']),
     np.array(data_df['Target Label']),
     np.array(data_df['Target Name']),
-    test_size=0.33, random_state=42)
+    test_size = 0.33, random_state = 42)
     print('Train and test corpus shapes: ', train_corpus.shape, test_corpus.shape)
-    print(type(train_corpus), type(test_corpus), type(train_label_nums),
-          type(test_label_nums), type(train_label_names), type(test_label_names))
     
     # distribution of the chapters by topics
-    #  TODO - add its results to the thesis work too
     trd = dict(Counter(train_label_names))
     tsd = dict(Counter(test_label_names))
     distr_df = (pd.DataFrame([[key, trd[key], tsd[key]] for key in trd],
-    columns=['Target Label', 'Train Count', 'Test Count']).sort_values
-     (by=['Train Count', 'Test Count'],ascending=False))
-    print('distr_df:\n', distr_df)
-    
+    columns = ['Target Label', 'Train Count', 'Test Count']).sort_values
+     (by = ['Train Count', 'Test Count'],ascending = False))
     
     with open('datasets_list.npy', 'wb') as f:
         np.save(f, train_corpus)
@@ -128,5 +120,3 @@ def make_chapters_to_classification():
         np.save(f, train_label_names)
         np.save(f, test_label_names)
         
-        
-make_chapters_to_classification()

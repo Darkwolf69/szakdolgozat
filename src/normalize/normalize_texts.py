@@ -3,29 +3,46 @@
 Created on Wed Nov 22 20:52:39 2023
 
 @author: adamWolf
-
-gets a text corpus and returns a corpus normalized with the selected options
-possible methods: contraction_expansion, text_lower_case, text_lemmatization,
-special_char_removal, stopword_removal, remove_digits
 """
 
-import basic_functions
 import re
+
 import expand_contractions
 import lemmatize_text
 import remove_special_characters
-import remove_stopwords
+import remove_stopwords as rm_stopwds
 
 
 def normalize_corpus(
     corpus,
+    language,
     contraction_expansion,
     text_lower_case,
     text_lemmatization,
     special_char_removal,
     stopword_removal,
-    remove_digits
+    remove_digits,
 ):
+    """
+    Normalize a corpus of text documents based on specified normalization techniques.
+
+    Parameters:
+        corpus (list of str): The list of text documents to be normalized.
+        language (str): The language of the text documents.
+        contraction_expansion (bool): Whether to expand contractions in the text.
+        text_lower_case (bool): Whether to convert the text to lowercase.
+        text_lemmatization (bool): Whether to lemmatize the text.
+        special_char_removal (bool): Whether to remove special characters.
+        stopword_removal (bool): Whether to remove stopwords.
+        remove_digits (bool): Whether to remove digits.
+
+    Returns:
+        list of str: The normalized corpus.
+
+    Raises:
+        None.
+
+    """
     contraction_expansion = contraction_expansion
     text_lower_case = text_lower_case
     text_lemmatization = text_lemmatization
@@ -33,41 +50,35 @@ def normalize_corpus(
     stopword_removal = stopword_removal
     remove_digits = remove_digits
     normalized_corpus = []
-    # normalize each document in the corpus
-    for doc in corpus:
+    
+    # normalize each text in the corpus
+    for text in corpus:
         # expand contractions
         if contraction_expansion:
-            doc = expand_contractions.expand_contractions(doc)
+            text = expand_contractions.expand_contractions(text)
         # lowercase the text
         if text_lower_case:
-            doc = doc.lower()
+            text = text.lower()
             # remove extra newlines
-            doc = re.sub(r'[\r|\n|\r\n]+', ' ',doc)
+            text = re.sub(r'[\r|\n|\r\n]+', ' ', text)
         # lemmatize text
         if text_lemmatization:
-            doc = lemmatize_text.lemmatize_text(doc)
+            text = lemmatize_text.lemmatize_text(text)
         # remove special characters and\or digits
         if special_char_removal:
             # insert spaces between special characters to isolate them
             special_char_pattern = re.compile(r'([{.(-)!}])')
-            doc = special_char_pattern.sub(" \\1 ", doc)
-            doc = remove_special_characters.remove_special_characters(doc, remove_digits=remove_digits)
+            text = special_char_pattern.sub(" \\1 ", text)
+            text = remove_special_characters.remove_special_characters(text, remove_digits = remove_digits)
             # remove extra whitespace
-            doc = re.sub(' +', ' ', doc)
+            text = re.sub(' +', ' ', text)
         # remove stopwords
         if stopword_removal:
-            doc = remove_stopwords.remove_stopwords(doc, is_lower_case=text_lower_case)
-        normalized_corpus.append(doc)
+            text = rm_stopwds.remove_stopwords(text, language, is_lower_case = text_lower_case)
+        normalized_corpus.append(text)
                 
     return normalized_corpus
 
-
-text = (basic_functions.open_text('HP-english.txt')).read()
-print(len(text))
-
-
-normalized_text = normalize_corpus([text], True, False, False, True, False, False)[0]
-print(normalized_text)
 
 
 

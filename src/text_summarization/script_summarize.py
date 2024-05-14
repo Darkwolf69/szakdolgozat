@@ -4,18 +4,25 @@ Created on Tue Dec  5 13:00:39 2023
 
 @author: adamWolf
 
-Call summarization for the given text
+Performs summarization of chapters and the entire book using different techniques.
+This function summarizes each chapter of the book "Harry Potter And The Philosopher's Stone"
+using Latent Semantic Indexing with Singular Value Decomposition (LSI_SVD) and TextRank algorithms.
+It also summarizes the entire book using LSI_SVD and TextRank.
+
+Returns:
+    None (writes the summarization results to files)
 """
 
-import prepare_english as prep_eng
 import os
-import basic_functions
+
 import summarization_LSI_SVD as summ_LSI_SVD
 import summarization_text_rank as sum_text_rank
 
+import basic_functions
+import prepare_english as prep_eng
+
 
 actual_dir = os.path.dirname(os.path.realpath('__file__'))
-
 
 # summarize each chapter of the book with LSI_SVD
 num_of_texts = 17
@@ -23,7 +30,7 @@ num_of_texts = 17
 num_of_sentences_chapters = 40
 num_of_topics_chapters = 3
           
-with open(f'summarization_LSI_SVD_chapters_{num_of_topics_chapters}_topic.txt', 'w', encoding='utf-8-sig') as f:
+with open(f'summarization_LSI_SVD_chapters_{num_of_topics_chapters}_topic.txt', 'w', encoding = 'utf-8-sig') as f:
     f.write('Harry Potter And The Philospohers Stone\n'
             'Summarization of the whole book with LSI_SVD\n'
             f'Number of sentences in each chapter: {num_of_sentences_chapters}\n'
@@ -36,7 +43,7 @@ for i in range(0, num_of_texts):
     
     text = open(file_name, 'r', encoding='utf-8-sig').read()
     sum_text = summ_LSI_SVD.summarize_LSI_SVD(text, num_of_sentences_chapters, num_of_topics_chapters)
-    with open(f'summarization_LSI_SVD_chapters_{num_of_topics_chapters}_topic.txt', 'a', encoding='utf-8-sig') as f:
+    with open(f'summarization_LSI_SVD_chapters_{num_of_topics_chapters}_topic.txt', 'a', encoding = 'utf-8-sig') as f:
           f.write('\n\n##############################################\n'
                   f'      Summarization of CHAPTER {i+1}\n'
                   '##############################################\n\n'
@@ -45,7 +52,7 @@ for i in range(0, num_of_texts):
 
 
 # summarize each chapter of the book with TextRank
-with open('summarization_text_rank_chapters.txt', 'w', encoding='utf-8-sig') as f:
+with open('summarization_text_rank_chapters.txt', 'w', encoding = 'utf-8-sig') as f:
       f.write('Harry Potter And The Philospohers Stone\n'
                 'Summarization of the whole book with TextRank\n'
                 f'Number of sentences in each chapter: {num_of_sentences_chapters}\n')
@@ -58,15 +65,13 @@ for i in range(0, num_of_texts):
     
     text = open(file_name, 'r', encoding='utf-8-sig').read()
     sum_text = sum_text_rank.summarize_text_rank(text, num_of_sentences_chapters)
-    with open('summarization_text_rank_chapters.txt', 'a', encoding='utf-8-sig') as f:
+    with open('summarization_text_rank_chapters.txt', 'a', encoding = 'utf-8-sig') as f:
           f.write('\n\n##############################################\n'
                     '   Harry Potter And The Philospohers Stone   \n'
                   f'      Summarization of CHAPTER {i+1}\n'
                   '##############################################\n\n'
                   f'\n{sum_text}')
     
-
-
 
 
 whole_eng_text = (basic_functions.open_text('HP-english.txt')).read()
@@ -78,7 +83,7 @@ number_of_topics = 10
 sum_text_LSI_SVD = summ_LSI_SVD.summarize_LSI_SVD(whole_eng_text,
                                                   number_of_sentences,
                                                   number_of_topics)
-with open(f'summarization_LSI_SVD_{number_of_topics}_topic.txt', 'w', encoding='utf-8-sig') as f:
+with open(f'summarization_LSI_SVD_{number_of_topics}_topic.txt', 'w', encoding = 'utf-8-sig') as f:
     f.write('Harry Potter And The Philospohers Stone\n'
             'Summarization of the whole book with LSI_SVD\n'
             'Number of sentences: 500\n'
@@ -87,7 +92,7 @@ with open(f'summarization_LSI_SVD_{number_of_topics}_topic.txt', 'w', encoding='
 
 # summarize the whole book with TextRank
 sum_text_rank = sum_text_rank.summarize_text_rank(whole_eng_text, number_of_sentences)
-with open('summarization_text_rank.txt', 'w', encoding='utf-8-sig') as f:
+with open('summarization_text_rank.txt', 'w', encoding = 'utf-8-sig') as f:
     f.write('Harry Potter And The Philospohers Stone\n'
             'Summarization of the whole book with TextRank\n'
             f'Number of sentences: {number_of_sentences}\n\n{sum_text_rank}')
