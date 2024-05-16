@@ -22,6 +22,18 @@ def lemmatize_text(text):
 
     Raises:
         AttributeError: If the input is not a string.
+        
+    
+    Examples:
+        >>> lemmatize_text("The striped bats are hanging on their feet for best")
+        'the stripe bat be hang on their foot for good'
+
+        >>> lemmatize_text("She enjoys playing with her cats")
+        'she enjoy play with her cat'
+
+        >>> lemmatize_text(12345)
+        Traceback (most recent call last):
+        AttributeError: Invalid input
 
     """
     if type(text) is not str:
@@ -31,3 +43,8 @@ def lemmatize_text(text):
         text = ' '.join([word.lemma_ if word.lemma_ != '-PRON-' else word.text
         for word in text])
         return text
+
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

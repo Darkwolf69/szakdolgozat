@@ -65,6 +65,13 @@ def summarize_LSI_SVD(text, num_of_sentences, num_of_topics):
                 numpy.ndarray: Left singular vectors.
                 numpy.ndarray: Singular values.
                 numpy.ndarray: Right singular vectors.
+                
+            
+            Examples:
+                >>> matrix = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+                >>> u, s, vt = low_rank_svd(matrix, singular_count=2)
+                >>> u.shape, s.shape, vt.shape
+                ((3, 2), (2,), (2, 3))
         
             """
             u, s, vt = svds(matrix, k = singular_count)
@@ -95,3 +102,8 @@ def summarize_LSI_SVD(text, num_of_sentences, num_of_topics):
         result_text = '\n'.join(np.array(sentences)[top_sentence_indices])
         
         return result_text
+    
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

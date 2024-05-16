@@ -7,13 +7,45 @@ Created on Sat Nov 11 21:18:27 2023
 
 import matplotlib.pyplot as plt
 
+def process_text_for_lengths(text, language):
+    """
+    Processes the text to count word lengths and find the longest words.
+    
+    Parameters:
+        text (str): The input text to be analyzed.
+        language (str): The language of the text.
+
+    Returns:
+        dict: A dictionary with word lengths as keys and their counts as values.
+        list: A list of the four longest words in the text.
+    """
+    if type(text) is not str:
+        raise AttributeError('Invalid input')
+    else:
+        words = [x for x in text.split() if x]
+        for suffix in ('’', '”'):
+            words = [x.removesuffix(suffix) for x in words]
+        for prefix in ('“', '‘'):
+            words = [x.removeprefix(prefix) for x in words]
+        if language == 'english':
+            words = list(filter(lambda x: x != "'", words))
+        words = list(filter(None, words))
+        
+        dictionary = {}
+        for x in words:
+            word_length = len(x)
+            dictionary[word_length] = dictionary.get(word_length, 0) + 1
+        
+        longests = sorted(words, key=len)[-4:]
+        
+    return dictionary, longests
 
 def word_lengths_counts(text, language):
     """
     Analyzes the distribution of word lengths in the provided text and generates a bar plot 
     showing the counts of words of each length. Also, displays the four longest words in the text.
 
-    Args:
+    Parameters:
         text (str): The input text to be analyzed.
         language (str): The language of the text.
 
@@ -23,46 +55,35 @@ def word_lengths_counts(text, language):
 
     Raises:
         AttributeError: If the input text is not a string.
-
     """
-    if type(text) is not str:
-        raise AttributeError('Invalid input')
-    else:
-        # split data into a list of words
-        words = [x for x in text.split() if x]
-        
-        # remove suffixes and prefixes (used just for english text)
-        for suffix in ('’', '”'):
-            words = [x.removesuffix(suffix) for x in words]
-            
-        for prefix in ('“', '‘'):
-            words = [x.removeprefix(prefix) for x in words]
-        
-        #filter single qoutation marks
-        if(language == 'english'):
-            words = list(filter(lambda x: x != "'", words))
-        
-        #filter remaining empty strings
-        words = list(filter(None, words))
+    dictionary, longests = process_text_for_lengths(text, language)
     
-        # count the different lengths using a dict
-        dictionary = {}
-        for x in words:
-            word_length = len(x)
-            dictionary[word_length] = dictionary.get(word_length, 0) + 1
-        
-        # retrieve the relevant info from the dict 
-        lengths, counts = zip(*dictionary.items())
-        
-        # plot the relevant info
-        plt.figure(figsize = (14,7))
-        plt.bar(lengths, counts)
-        plt.xticks(range(1, max(lengths) + 1))
-        plt.xlabel('Word lengths')
-        plt.ylabel('Word counts')
-        
-        # displaying the 3 longest words
-        longests = sorted(words, key = len)[-4:]
-        plt.title(f'The 4 longest words in {language} text:\n' + '\n'.join(reversed(longests) ), wrap = True)
+    lengths, counts = zip(*dictionary.items())
+    plt.figure(figsize=(14, 7))
+    plt.bar(lengths, counts)
+    plt.xticks(range(1, max(lengths) + 1))
+    plt.xlabel('Word lengths')
+    plt.ylabel('Word counts')
+    plt.title(f'The 4 longest words in {language} text:\n' + '\n'.join(reversed(longests)), wrap=True)
+    plt.show()
 
-        return plt
+def doctest_word_lengths_counts():
+    """
+    Tests the process_text_for_lengths function with sample data.
+
+    Examples:
+        >>> process_text_for_lengths("This is a test sentence with hyphenated words like well-known and Hagrid’s speech.", "english")
+        ({4: 4, 2: 1, 1: 1, 8: 2, 10: 2, 5: 1, 3: 1, 7: 1}, ['sentence', 'Hagrid’s', 'hyphenated', 'well-known'])
+
+        >>> process_text_for_lengths("Este es un texto de prueba con palabras en español.", "spanish")
+        ({4: 1, 2: 4, 5: 1, 6: 1, 3: 1, 8: 2}, ['texto', 'prueba', 'palabras', 'español.'])
+
+        >>> process_text_for_lengths(12345, "english")
+        Traceback (most recent call last):
+        AttributeError: Invalid input
+    """
+    pass
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

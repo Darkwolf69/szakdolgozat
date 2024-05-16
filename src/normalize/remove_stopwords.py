@@ -25,6 +25,25 @@ def remove_stopwords(text, language, is_lower_case=False):
 
     Raises:
         AttributeError: If the input text is not a string.
+        
+    
+        >>> remove_stopwords("This is a sample sentence.", "english", False)
+        'sample sentence .'
+        
+        >>> remove_stopwords("This is NOT a sample sentence.", "english", False)
+        'NOT sample sentence .'
+        
+        >>> remove_stopwords("This is a sample sentence.", "english", True)
+        'This sample sentence .'
+        
+        >>> remove_stopwords("Este es un ejemplo de oración.", "spanish", False)
+        'ejemplo oración .'
+        
+        >>> remove_stopwords("Ce est une phrase exemple.", "french", False)
+        'phrase exemple .'
+        
+        >>> remove_stopwords("Dies ist ein Beispielsatz.", "german", False)
+        'Beispielsatz .'
 
     """
     if type(text) is not str:
@@ -47,3 +66,8 @@ def remove_stopwords(text, language, is_lower_case=False):
         filtered_text = ' '.join(filtered_tokens)
         
         return filtered_text
+
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

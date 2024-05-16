@@ -28,7 +28,28 @@ def prepare_english(text, rm_headers, rm_Hagrid_dialect):
 
     Raises:
         AttributeError: If the input text is not a string.
-
+        
+    
+    Examples:
+        >>> text = "10 HARRY  POTTER\\n\\nHello world\\nexample.\\nSecond example, an’ yeh’ll be fine."
+        >>> prepare_english(text, rm_headers=True, rm_Hagrid_dialect=True)
+        '\\n\\nHello world\\nexample.\\nSecond example, and you will be fine.'
+        
+        >>> text = "Hello world-\\nexample.\\nSecond example, an’ yeh’ll be fine."
+        >>> prepare_english(text, rm_headers=False, rm_Hagrid_dialect=True)
+        'Hello worldexample\\n.\\nSecond example, and you will be fine.'
+        
+        >>> text = "10 HARRY  POTTER\\n-\\nHello world-\\nexample."
+        >>> prepare_english(text, rm_headers=True, rm_Hagrid_dialect=False)
+        '\\nHello \\nworldexample\\n.'
+        
+        >>> text = "Hello world-\\nexample.\\nSecond example, an’ yeh’ll be fine."
+        >>> prepare_english(text, rm_headers=False, rm_Hagrid_dialect=False)
+        'Hello worldexample\\n.\\nSecond example, an’ yeh’ll be fine.'
+        
+        >>> prepare_english(12345, rm_headers=True, rm_Hagrid_dialect=True)
+        Traceback (most recent call last):
+        AttributeError: Invalid input
     """
     if type(text) is not str:
         raise AttributeError('Invalid input')
@@ -72,3 +93,8 @@ def prepare_english(text, rm_headers, rm_Hagrid_dialect):
         text = text.replace(' er ', '')
         
     return(text)
+
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

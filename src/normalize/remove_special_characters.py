@@ -22,6 +22,23 @@ def remove_special_characters(text, remove_digits=False):
 
     Raises:
         AttributeError: If the input text is not a string.
+        
+    
+    Examples:
+        >>> remove_special_characters("Hello, World! 123", False)
+        'Hello World 123'
+        
+        >>> remove_special_characters("Hello, World! 123", True)
+        'Hello World '
+        
+        >>> remove_special_characters("Special $ymbols *&^% here", False)
+        'Special ymbols  here'
+        
+        >>> remove_special_characters("No special characters", False)
+        'No special characters'
+        
+        >>> remove_special_characters("Digits and special #123", True)
+        'Digits and special '
 
     """
     if type(text) is not str:
@@ -31,3 +48,8 @@ def remove_special_characters(text, remove_digits=False):
         text = re.sub(pattern, '', text)
     
     return text
+
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

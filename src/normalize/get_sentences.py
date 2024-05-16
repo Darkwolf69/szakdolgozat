@@ -20,6 +20,24 @@ def get_sentences(text):
 
     Raises:
         AttributeError: If the input text is not a string.
+        
+    
+    Examples:
+        >>> get_sentences("Hello world. This is a test.")
+        ['Hello world.', 'This is a test.']
+        
+        >>> get_sentences("Here is a sentence! And another one? Yes, indeed.")
+        ['Here is a sentence!', 'And another one?', 'Yes, indeed.']
+        
+        >>> get_sentences("Single sentence without period")
+        ['Single sentence without period']
+        
+        >>> get_sentences("")
+        []
+
+        >>> get_sentences(12345)
+        Traceback (most recent call last):
+        AttributeError: Invalid input
     """
     if type(text) is not str:
         raise AttributeError('Invalid input')
@@ -27,3 +45,8 @@ def get_sentences(text):
         sentences = nltk.sent_tokenize(text)
         
     return sentences
+
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

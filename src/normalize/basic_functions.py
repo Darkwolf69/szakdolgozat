@@ -43,6 +43,19 @@ def line_number_of_text(text):
  
     Raises:
         AttributeError: If the input is not a string.
+        
+    
+    >>> line_number_of_text("This is a single line.")
+    1
+    >>> line_number_of_text("This is the first line.\\nThis is the second line.")
+    2
+    >>> line_number_of_text("Line one.\\nLine two.\\nLine three.")
+    3
+    >>> line_number_of_text("")
+    1
+    >>> line_number_of_text(123)
+    Traceback (most recent call last):
+    AttributeError: Invalid input
     """
     if type(text) is not str:
         raise AttributeError('Invalid input')
@@ -63,6 +76,19 @@ def number_of_words_in_text(text):
 
     Raises:
         AttributeError: If the input is not a string.
+        
+    
+    >>> number_of_words_in_text("This is a test.")
+    4
+    >>> number_of_words_in_text("One more example with a few words.")
+    7
+    >>> number_of_words_in_text("")
+    0
+    >>> number_of_words_in_text("SingleWord")
+    1
+    >>> number_of_words_in_text(123)
+    Traceback (most recent call last):
+    AttributeError: Invalid input
     """
     if type(text) is not str:
         raise AttributeError('Invalid input')
@@ -71,3 +97,8 @@ def number_of_words_in_text(text):
         words = text.split()
         number_of_words += len(words)
         return number_of_words
+
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

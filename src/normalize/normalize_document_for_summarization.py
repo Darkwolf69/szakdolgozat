@@ -22,6 +22,18 @@ def normalize_document(text):
 
     Raises:
         AttributeError: If the input is not a string.
+        
+    
+    Examples:
+        >>> normalize_document("Hello, World! This is a test sentence.")
+        'hello world test sentence'
+
+        >>> normalize_document("Normalize THIS text, please!")
+        'normalize text please'
+
+        >>> normalize_document(12345)
+        Traceback (most recent call last):
+        AttributeError: Invalid input
 
     """
     if type(text) is not str:
@@ -41,3 +53,8 @@ def normalize_document(text):
         text = ' '.join(filtered_tokens)
         
         return text
+    
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

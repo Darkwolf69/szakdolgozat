@@ -38,6 +38,14 @@ def prep_classification_advanced():
     
         Returns:
             numpy.ndarray: An array of document vectors.
+            
+        
+        Examples:
+            >>> sentences = [["cat", "sat", "on", "the", "mat"], ["dog", "barked"]]
+            >>> model = Word2Vec(sentences, vector_size=10, min_count=1, window=5, sg=0)
+            >>> corpus = [["cat", "sat"], ["dog", "barked"], ["cat", "dog"]]
+            >>> document_vectorizer(corpus, model, 10).shape
+            (3, 10)
     
         """
         # updates in Gensim 4: index2word -> index_to_key
@@ -55,6 +63,15 @@ def prep_classification_advanced():
         
             Returns:
                 numpy.ndarray: The average word vector.
+                
+            
+            Examples:
+                >>> sentences = [["cat", "sat", "on", "the", "mat"], ["dog", "barked"]]
+                >>> model = Word2Vec(sentences, vector_size=10, min_count=1, window=5, sg=0)
+                >>> vocabulary = set(model.wv.index_to_key)
+                >>> words = ["cat", "sat", "on", "the", "mat"]
+                >>> average_word_vectors(words, model, vocabulary, 10).shape
+                (10,)
         
             """
             feature_vector = np.zeros((num_features,), dtype = "float64")
@@ -138,3 +155,8 @@ def prep_classification_advanced():
     with open('datasets_list_FastText.npy', 'wb') as f:
         np.save(f, avg_ft_train_features)
         np.save(f, avg_ft_test_features)
+        
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()

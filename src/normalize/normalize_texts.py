@@ -41,6 +41,15 @@ def normalize_corpus(
 
     Raises:
         None.
+        
+    
+    Examples:
+        >>> corpus = ["I'm running to the park!", "Don't jump in the mud."]
+        >>> normalize_corpus(corpus, 'english', True, True, True, True, True, True)
+        ['I run park', 'not jump mud']
+
+        >>> normalize_corpus(corpus, 'english', False, False, False, False, False, False)
+        ["I'm running to the park!", "Don't jump in the mud."]
 
     """
     contraction_expansion = contraction_expansion
@@ -80,6 +89,7 @@ def normalize_corpus(
     return normalized_corpus
 
 
-
-
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()
 

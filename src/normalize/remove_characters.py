@@ -21,6 +21,19 @@ def remove_unnecessary_chars(text):
 
     Raises:
         AttributeError: If the input is not a string.
+        
+        
+    >>> remove_unnecessary_chars("Hello, world! This is a test")
+    'Hello world This is a test'
+    >>> remove_unnecessary_chars("Cest la vie! Ça va bien.")
+    'Cest la vie Ça va bien'
+    >>> remove_unnecessary_chars("Hallo, wie gehts (es Ihnen)? Gut, danke!")
+    'Hallo wie gehts es Ihnen Gut danke'
+    >>> remove_unnecessary_chars("¡Hola! ¿Cómo estás? Bien, gracias.")
+    'Hola Cómo estás Bien gracias'
+    >>> remove_unnecessary_chars(123)
+    Traceback (most recent call last):
+    AttributeError: Invalid input
 
     """
     if type(text) is not str:
@@ -32,3 +45,8 @@ def remove_unnecessary_chars(text):
         text = text.replace('...', ' ')
 
     return text
+
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()
